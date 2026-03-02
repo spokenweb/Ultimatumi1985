@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "09738bfe-c694-4be6-8b29-77d26db39455": {
+      "label": "1995-02-13 Benefit Part 1",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/osZygDc9fwM",
+      "duration": 956
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Richard Martel at Ultimatum Festival 1985-05-05",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following is a transcription of Richard Martel’s performance at Ultimatum Festival I, Sunday, May 5th, 1985 at the Foufounes Electriques. The Ultimatum festival pamphlet notes Martel’s role as the editor of Intervention Magazine, a Quebec-based journal of international repute also known as Inter. Since 1979, Inter has published articles on all forms of contemporary art, questioning the role of art in society, politics, and culture. Martel is the author and editor of a number of articles and books on performance art. As a curator and multimedia artist, he has organized and participated in various art events and festivals. His own practice centers on art and the social. At the beginning of his Ultimatum set, Martel introduces the three pieces he will perform, \"Subordination,\" \"Insubordination,\" and \"L'experience de l'art comme disponibilite du temps\" which consist of sound and poetry."
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-03-02T16:16:14.269Z",
+  "created_by": "spokenweb",
+  "updated_at": "2026-03-02T16:16:14.269Z",
+  "updated_by": "spokenweb"
+}

@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "7d4cdf58-351d-4524-bcec-cee9f85a1a08": {
+      "label": "1995-01-16 bill bissett and Sharon H. Nelson",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/S1qkJo5ElZA",
+      "duration": 1016
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Alan Lord at Ultimatum Festival 1985-05-01",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following is a transcription of Alan Lord’s performance at Ultimatum I, Wednesday, May 1st, 1985 at the Foufounes Electriques. Alan Lord is the festival organizer and creator of Ultimatum. He is a Canadian musician, writer and engineer, and was a member of the bands Vex, the Marauders, Vent du Mont Scharr and Alan Lord & the Falling Men. An important figure for Montreal’s alternative punk scene, he is featured in Erik Cimon’s documentary \"Mtl Punk -- The first wave\" (2011). During his Ultimatum set, he performed four song-poems, including \"Ignoring the Future Today'' and \"Too Much Money\" with accompanying electronic music tapes by Jean-Luc Bonspiel and computer graphics videos done by Boris Wanowitch. The Ultimatum LP features “Ignore the Future Today” with music by Jean-Luc Bonspiel and words and vocals by Alan Lord. \n"
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-03-02T16:16:14.269Z",
+  "created_by": "spokenweb",
+  "updated_at": "2026-03-02T16:16:14.269Z",
+  "updated_by": "spokenweb"
+}

@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "e5e9ab87-bcae-45ba-bd16-8e4404573cff": {
+      "label": "1995-01-30 Victoria Stanton and Ian Stephens",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/pgVJzrfF_XY",
+      "duration": 1389
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Michel Lefebvre at Ultimatum Festival 1985-05-01",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following is a transcription of Michel Lefebvre’s performance at Ultimatum I, Wednesday, May 1st, 1985 at the Foufounes Electriques. The Ultimatum festival program titles the performance as “Les Tables de Babylone” and Alan Lord describes the scene in his memoir, High Friends in Low Places (2022): “A quite visibly and audibly tipsy Michel Lefebvre dressed as a space alien, knocking over vials of liquid on a table, with a girl in a Hugo Ball costume hovering robotically nearby” (129). She is possibly the source of a woman’s voice in the recording, who chants and recites poetry as Lefebvre performs sounds, poems, overtop an intricate, multi-layered sonic scape."
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-03-02T16:16:14.269Z",
+  "created_by": "spokenweb",
+  "updated_at": "2026-03-02T16:16:14.269Z",
+  "updated_by": "spokenweb"
+}

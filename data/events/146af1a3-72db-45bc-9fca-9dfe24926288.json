@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "1461325f-ca6b-4e4a-873c-dc7499cfaabf": {
+      "label": "1995-03-06 Phineas Flower Trio and Steve Godin Part 2",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/0wgugGe1hRE",
+      "duration": 1384
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Steve Montambault at Ultimatum Festival 1985-05-01",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following is a transcription of Steve Montambault’s performance at Ultimatum, Wednesday, May 1st, 1985. The Ultimatum festival pamphlet lists Montambault’s performance as \"Poesie Sonore\" or \"Sound Poetry\". The recording features electronic sounds, poetry, vocal performances and microphone distortions."
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-03-02T16:16:14.269Z",
+  "created_by": "spokenweb",
+  "updated_at": "2026-03-02T16:16:14.269Z",
+  "updated_by": "spokenweb"
+}

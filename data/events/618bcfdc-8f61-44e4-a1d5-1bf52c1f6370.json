@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "4ec794c8-3d34-4b15-9103-3eb3e81138ba": {
+      "label": "1994-12-09 Lee Gotham and Ann Diamond",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/INWHodHwp0A",
+      "duration": 959
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Ken Decker at Ultimatum Festival 1985-05-02",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following is a transcription of Ken Decker’s performance at the Ultimatum Festival I, Thursday, May 2nd, 1985 at the Foufounes Electriques bar and performance space in Montreal, Quebec, Canada. Decker performs poetry while he types, on and off, with long pauses. Decker’s long form experimental prose fiction work was published in 1982 with Quadrant Editions. Decker is cited three times in Alan Lord’s memoir High Friends in Low Places (2022) for his work involving live computer engagement (pp. 125, 127, 200)."
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-03-02T16:16:14.269Z",
+  "created_by": "spokenweb",
+  "updated_at": "2026-03-02T16:16:14.269Z",
+  "updated_by": "spokenweb"
+}

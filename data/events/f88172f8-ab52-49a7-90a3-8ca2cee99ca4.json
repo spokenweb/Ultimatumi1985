@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "cd46053d-b856-4ec4-9e1e-f63a73d4fac6": {
+      "label": "1995-02-20 Njacko Backo and Groupe de Poesie Moderne",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/XCFf10-OzTY",
+      "duration": 1139
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Colette Tougas at Ultimatum Festival 1985-05-01",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following is a transcription of the Colette Tougas set at Ultimatum, Wednesday, May 1st, 1985 at the Foufounes Electriques. Tougas performs \"Clara La Brune\", an alluring, dramatic monologue with a refrain sung throughout. In his memoirs, Alan Lord counts the performance as one of the festival highlights, recalling \"Writer Colette Tougas singing a capella the sultry Modesty in her smoldering breathy voice, which I just had to put on the festival's documentary LP...\" Colette Tougas is a translator, writer of fiction and of essays, recently contributing art criticism to the online magazine, Ciel Variable. She is the author of Le Porphyre de la Rue Dezery (1985)."
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-03-02T16:16:14.269Z",
+  "created_by": "spokenweb",
+  "updated_at": "2026-03-02T16:16:14.269Z",
+  "updated_by": "spokenweb"
+}

@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "3776abc6-8c1f-4592-bade-084e7732e762": {
+      "label": "1995-01-09 Swifty Lazarus",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/xLYDO_F7Jvs",
+      "duration": 806
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Mario Campo at Ultimatum Festival 1985-05-01 ",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following is a transcription of Mario Campo’s performance at Ultimatum I, Wednesday, May 1st, 1985 at the Foufounes Electriques. Campo performs, sings, and chants to musical accompaniment. In his memoir High Friends in Low Places (2022), Alan Lord writes how Campo first appeared onstage dressed in the head of an extraterrestrial, later changing into Bedouin headdress to perform “Arabesque,” the piece featured from 00:06:09 to 00:08:38 in this recording. “Arabesque” is included in the Ultimatum LP, which lists music and bass by Alan Lord, electronic percussion by Jean-Martin Mignault, vocals by Zilon and words and voice by Mario Campo. The performance is further referenced on Campo’s website, under the ‘biographie’ section, which provides a narrative account of his literary activities. Campo was a writer and poet involved with several alternative scenes, among some of his publications are the collections L’Anovulatoire (1978) and Coma Laudanum (1979). To access some of these writings and learn more about his biography, see his website dedicated to his art and memory, created by Alan Lord and Pierre Zovilé. "
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-03-02T16:16:14.269Z",
+  "created_by": "spokenweb",
+  "updated_at": "2026-03-02T16:16:14.269Z",
+  "updated_by": "spokenweb"
+}

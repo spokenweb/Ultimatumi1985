@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "ff49fda7-1e70-4fed-b5a1-2535eadd6321": {
+      "label": "1995-02-06 EJ Brule",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/SLgs-5UMsZQ?si=oW6QxxQL3vfzSChf",
+      "duration": 966
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Josee Yvon at Ultimatum Festival 1985-05-04 ",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following is a transcription of Josee Yvon’s performance at the Ultimatum Festival I, Saturday, May 4th at the Foufounes Electriques. She performs excerpts from her prose-poetry publication Maitresse-Cherokees, originally edited by VLB and published in 1986. A revised edition by editors Les Herbes Rouges was reprinted in 2021. In Alan Lord’s memoir High Friends in Low Places (2022), he describes Josee Yvon and partner Denis Vanier as \"the prince and princess of Quebec’s counterculture,\" and recounts that, in this performance, \"Josee came on as a surprisingly lightly stoned poet queen, in a lovely pink strap top and jeans, and read a disjointed text too difficult to translate\" (262, 130). Her work is often concerned with society's most marginalized groups, such as drug users, sex workers, and transgender individuals."
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-03-02T16:16:14.269Z",
+  "created_by": "spokenweb",
+  "updated_at": "2026-03-02T16:16:14.269Z",
+  "updated_by": "spokenweb"
+}
