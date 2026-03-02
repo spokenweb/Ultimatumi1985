@@ -1,1 +1,448 @@
-{"annotations":[],"set":"Default","event_id":"15af7e03-90e5-4b80-b917-09399f144498","source_id":"bd8ee2ec-3dc0-4d88-946c-3c44ce408340"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Static, crackling, subtle drumbeat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "367049cc-3df2-49a4-86d1-9eaf57d70f20"
+    },
+    {
+      "start_time": 13,
+      "end_time": 96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Distorted electric guitar, electronic sounds, trombone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "59d6cb90-1db2-41d1-9439-ae4ea77f4ce6"
+    },
+    {
+      "start_time": 96,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs \"Petite Nuage et Betelgeueuse\", recites poetry and vocalizes [underscored by distorted electric guitar, electronic sounds, and trombone]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Genevieve Letarte"
+        }
+      ],
+      "uuid": "2b5f2fb6-1056-4317-b70e-f5fa69e2922e"
+    },
+    {
+      "start_time": 173,
+      "end_time": 192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic percussion, synth, electric guitar, and keyboard."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "fc2f3199-6226-4557-9495-ad15ecdee746"
+    },
+    {
+      "start_time": 192,
+      "end_time": 475,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues \"Petite Nuage et Betelgeueuse\", speaks rhythmically and sings [underscored by electronic percussion, synth, electric guitar, and keyboard]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Genevieve Letarte"
+        }
+      ],
+      "uuid": "94834f0e-9aed-49a6-b583-4b5f2e881e71"
+    },
+    {
+      "start_time": 475,
+      "end_time": 492,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Static, high-pitched ringing, low frequencies."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "b7e9f650-6b2a-456d-8d57-e1b0a704ab5c"
+    },
+    {
+      "start_time": 492,
+      "end_time": 537,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues \"Petite Nuage et Betelgeueuse\", speaks [underscored by static, high-pitched ringing, and low frequencies]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Genevieve Letarte"
+        }
+      ],
+      "uuid": "0206f67c-cc1d-41d1-aa3c-f7a2cf4d6c79"
+    },
+    {
+      "start_time": 537,
+      "end_time": 557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Static, electronic sounds, high-pitched ringing, synth melody."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "5bdc72db-e5e3-4cd6-8226-2d3f4a871ba0"
+    },
+    {
+      "start_time": 557,
+      "end_time": 637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues \"Petite Nuage et Betelgeueuse\" [underscored by high-pitched ringing and synth melody] ."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Genevieve Letarte"
+        }
+      ],
+      "uuid": "2c545271-2854-4938-8643-b09732c24fc8"
+    },
+    {
+      "start_time": 637,
+      "end_time": 662,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic sounds, synth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "4781b448-ba25-4515-9249-edfddc597c8d"
+    },
+    {
+      "start_time": 662,
+      "end_time": 868,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues \"Petite Nuage et Betelgeueuse\", underscore shifts [electric guitar, electronic ringing sounds, percussion, synth, bass, trombone]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Genevieve Letarte"
+        }
+      ],
+      "uuid": "477a0206-bc76-48d8-aa3d-2c711d57507a"
+    },
+    {
+      "start_time": 868,
+      "end_time": 887,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guitar, bass, trombone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "6e5bdddd-2be5-4892-8dd2-29bf1fc57031"
+    },
+    {
+      "start_time": 887,
+      "end_time": 1069,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues \"Petite Nuage et Betelgeueuse\", speaks and sings, underscore shifts [guitar, bass, trombone, keyboard, synth]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Genevieve Letarte"
+        }
+      ],
+      "uuid": "36b3606c-e519-4423-84d6-9121378049fa"
+    },
+    {
+      "start_time": 1069,
+      "end_time": 1072,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuts out, silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "ceabf40b-96be-44bb-a123-41f4de8dfd88"
+    },
+    {
+      "start_time": 1072,
+      "end_time": 1084,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Synth, bass, trombone, cow bell."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "ba2ef161-6ff6-450e-8662-4af5eb795654"
+    },
+    {
+      "start_time": 1084,
+      "end_time": 1300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues \"Petite Nuage et Betelgeueuse\", speaks and sings [underscored by synth, bass, trombone, and cow bell]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Genevieve Letarte"
+        }
+      ],
+      "uuid": "b71b53af-8539-4da5-b015-9d7f0a458e8f"
+    },
+    {
+      "start_time": 1300,
+      "end_time": 1309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause and cheers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "c38fcd23-6ef6-4a70-9a12-78a8e77ff2db"
+    },
+    {
+      "start_time": 1309,
+      "end_time": 1310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Merci."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown Speaker"
+        }
+      ],
+      "uuid": "96f56616-a593-47ae-9f90-8c37c42b0cd5"
+    },
+    {
+      "start_time": 1310,
+      "end_time": 1314,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "17759199-f31a-4c66-bb73-e7cf50ab7a55"
+    },
+    {
+      "start_time": 1314,
+      "end_time": 1321,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuts out, low static and buzz."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "4dfb0b97-32d6-44f2-ac14-5bfd3045d970"
+    },
+    {
+      "start_time": 1321,
+      "end_time": 1321,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "0dabfc0e-c2e2-41da-a609-eb8261929912"
+    }
+  ],
+  "set": "Default",
+  "event_id": "15af7e03-90e5-4b80-b917-09399f144498",
+  "source_id": "bd8ee2ec-3dc0-4d88-946c-3c44ce408340"
+}
