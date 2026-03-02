@@ -1,1 +1,1225 @@
-{"annotations":[],"set":"Default","event_id":"4b7aeb2b-73f5-4b2f-88d5-6289e02046eb","source_id":"95dd227c-dc95-4e2f-9cee-26e507b61e6f"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "58348dde-9231-44c9-8ba9-2c2ee197560d"
+    },
+    {
+      "start_time": 6,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "J’espere, j’espere un jour que on peut dire 'Herbert Huncke' puis on l’appreciera pleinement son avoir a faire des deferences a la Beat Generation, Kerouac, Ginsberg, Burroughs, tous ca. Maintenant je la fait une derniere fois, la prochaine fois c’est Herbert Huncke, tout seul."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Alan Lord"
+        }
+      ],
+      "uuid": "4f714544-91c2-46c5-8679-d330dc3a2fa2"
+    },
+    {
+      "start_time": 25,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "6a02c396-6ac6-4212-834e-e8a40d4899dd"
+    },
+    {
+      "start_time": 25,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause and cheers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "7bd90660-2489-45d9-a25a-ea06027bb5c6"
+    },
+    {
+      "start_time": 29,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, well let me just say first before we start, all, what has happened this evening [unintelligible] a hard act to follow [unintelligible] oh well, alright, in the mic he says. Okay, can you hear now? Yes. See I have a problem with this lighting situation here, regardless of all that. I lost my place. How do you like that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "9f0d067e-1323-45ad-9b04-b81ed680cbdd"
+    },
+    {
+      "start_time": 59,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have to talk into the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown Speaker"
+        }
+      ],
+      "uuid": "b15cdea1-b556-48ab-9a6e-87e84b613587"
+    },
+    {
+      "start_time": 61,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I will in just a minute. Some people can hear me though."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "55b58355-5836-43f2-8858-cbcf49a9a9e1"
+    },
+    {
+      "start_time": 64,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chatter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "17f6696d-29c9-47ba-a275-4bc9b10dbbd4"
+    },
+    {
+      "start_time": 67,
+      "end_time": 115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Are you satisfied now? Okay. I really wanna start off with one particular story here because I feel that it will fit into the general theme of the so-called gathering or festival whatever, group of creative people doing things, trying to do things, young people. It’s very very encouraging for an old man like me, you know I want to think that things have progressed [laughs] a little. Boy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "0dca3cda-d13a-47c6-9687-4feffff86593"
+    },
+    {
+      "start_time": 115,
+      "end_time": 117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "a4d83a90-ca97-471e-bd0b-cd3b1f274221"
+    },
+    {
+      "start_time": 117,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, here, I wasn’t gonna read this one, but I will. I’ll start anyway so everything is under control. It’s called \"Cuba\". It’s a rather strange story in that the individual involved was someone I met and felt somewhat sorry for if I may be permitted to feel sorry about anybody."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "ca37f9f9-25b6-48f1-a68f-fc0f69bbc35c"
+    },
+    {
+      "start_time": 139,
+      "end_time": 575,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reads \"Cuba\" from The Evening Sun Turned Crimson [brief moments of laughter throughout]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "d667b5ec-c84a-44e3-af0c-4ab5681d387b"
+    },
+    {
+      "start_time": 575,
+      "end_time": 579,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "a5c9c837-ffc4-4344-b670-3e8e0ec3f550"
+    },
+    {
+      "start_time": 579,
+      "end_time": 583,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sorry, it’s not the one I want, oh I can’t do it now [unintelligible]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "9749be67-6bfa-4d2c-a7e0-0ead33c9aae4"
+    },
+    {
+      "start_time": 583,
+      "end_time": 587,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "1c21d1ca-6688-44c0-a13a-5b9702a07160"
+    },
+    {
+      "start_time": 587,
+      "end_time": 614,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you [off mic], let me see if I can find the one I intended to start out with. \"Alvarez\". One, let’s see, one fifty one, okay, we’ll get there, hell or high water [laughs], ah, there [laughs]. This is a, I feel it’s a very, very sad story mysel - woops. \"Alvarez\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "e822a222-a65f-489f-a82e-c60612cc7e4f"
+    },
+    {
+      "start_time": 614,
+      "end_time": 649,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reads \"Alvarez\" from The Evening Sun Turned Crimson."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "db71c76e-430b-497f-9062-c19915be5d03"
+    },
+    {
+      "start_time": 649,
+      "end_time": 651,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuts out, light static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "6a9540aa-8d5c-4669-8ca8-aea36aa31424"
+    },
+    {
+      "start_time": 651,
+      "end_time": 652,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "bfb1b19f-642d-4dda-9477-277eecc2a18b"
+    },
+    {
+      "start_time": 652,
+      "end_time": 1494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues reading."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "1dde0eff-c52b-44e4-bd9a-4e6858ba3ab6"
+    },
+    {
+      "start_time": 1494,
+      "end_time": 1495,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "ba1b32a8-c792-4536-9a02-aae9da3a1a39"
+    },
+    {
+      "start_time": 1495,
+      "end_time": 1496,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "53f85bab-1ac0-4f05-ba9a-e3b3f6cd7a02"
+    },
+    {
+      "start_time": 1496,
+      "end_time": 1501,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause and cheers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "7a17d937-e426-4106-88e8-3ac9397ac22d"
+    },
+    {
+      "start_time": 1501,
+      "end_time": 1502,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "d6e14e8b-7881-44a8-b698-0c4460313882"
+    },
+    {
+      "start_time": 1502,
+      "end_time": 1506,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause and cheers continue."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "ecc8c168-520a-4207-b595-c5f8a9891d0d"
+    },
+    {
+      "start_time": 1506,
+      "end_time": 1510,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[unintelligible]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "8d8024d8-62c5-465a-b3ce-a07d073d4057"
+    },
+    {
+      "start_time": 1510,
+      "end_time": 1513,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well wait a minute. Okay [speaks over top of audience applause and cheers]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "c0b2d765-a06e-4ac2-ab41-285041b09777"
+    },
+    {
+      "start_time": 1513,
+      "end_time": 1516,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "c54527a5-6ecc-494f-b5d3-1f727715c6be"
+    },
+    {
+      "start_time": 1516,
+      "end_time": 1518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You want a rest period, no?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "e115586f-bfa5-460c-a1c2-5c6fcd386cac"
+    },
+    {
+      "start_time": 1518,
+      "end_time": 1519,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "502459d8-037f-4092-ae50-bc25721766b9"
+    },
+    {
+      "start_time": 1519,
+      "end_time": 1520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "c9649d8a-7c9e-4a02-bb80-81febf50e2a4"
+    },
+    {
+      "start_time": 1520,
+      "end_time": 1523,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not really [laughs]. I’m a ham."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "812577de-6e24-4182-8d8d-abc24eb67d21"
+    },
+    {
+      "start_time": 1523,
+      "end_time": 1526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "b218039d-d3ef-4731-9500-9e30ed4f34e6"
+    },
+    {
+      "start_time": 1526,
+      "end_time": 1528,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I’d like to find something just for [unintelligible] [off mic]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "6e79377b-52d8-4e5a-92b1-c7f81228fcf4"
+    },
+    {
+      "start_time": 1528,
+      "end_time": 1529,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuts out, rustling sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "5c96900a-4ab7-4120-8244-9509300104f0"
+    },
+    {
+      "start_time": 1529,
+      "end_time": 1531,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "4a35c305-9dc0-4c1c-a685-fd5fe44ec42c"
+    },
+    {
+      "start_time": 1531,
+      "end_time": 1532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "f06f5b14-56c1-4cde-ac63-077eeab994ed"
+    },
+    {
+      "start_time": 1532,
+      "end_time": 1533,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[unintelligible]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "082a2961-ba1a-4fc0-adbc-d0d495b5d441"
+    },
+    {
+      "start_time": 1533,
+      "end_time": 1535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Anyway."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "0f84c183-7cc8-4ad5-ab45-e70bd54d8c8d"
+    },
+    {
+      "start_time": 1535,
+      "end_time": 1536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Muffled speech."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "98cc6a94-502a-412b-a40f-92d07a8334c1"
+    },
+    {
+      "start_time": 1536,
+      "end_time": 1694,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reads \"Russian Blackie\" from The Evening Sun Turned Crimson [muffled audience chatter throughout]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "22688d01-fb06-4402-81b3-6f0620cb494e"
+    },
+    {
+      "start_time": 1694,
+      "end_time": 1696,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, it’s alright, if they wanna talk, let ‘em."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "958794c0-4547-4366-86d6-70fe23005908"
+    },
+    {
+      "start_time": 1696,
+      "end_time": 2076,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues reading [muffled audience chatter throughout]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "0b36c95d-1e32-495f-bce0-bed1b90b3a41"
+    },
+    {
+      "start_time": 2076,
+      "end_time": 2078,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Boy, I can’t see worth a damn anymore."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "9355c38e-8bb5-421b-bfea-11fdb34d287c"
+    },
+    {
+      "start_time": 2078,
+      "end_time": 2225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues reading [muffled audience chatter throughout]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "2bcdd659-78aa-4143-9a74-125d4cc63575"
+    },
+    {
+      "start_time": 2225,
+      "end_time": 2226,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somebody bored?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "e5f9d633-69ee-4307-a734-7c04cad26dbf"
+    },
+    {
+      "start_time": 2226,
+      "end_time": 2227,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "f8a01311-5b63-4108-9925-d0cb0fc6a5e0"
+    },
+    {
+      "start_time": 2227,
+      "end_time": 2228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Boos and shouts of disagreement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "130f569c-982e-4bab-8830-5b9226d2d8d0"
+    },
+    {
+      "start_time": 2228,
+      "end_time": 2230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some people can’t understand it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "d9ecfaf6-c721-4d6c-8c27-31bd7bf3e41b"
+    },
+    {
+      "start_time": 2230,
+      "end_time": 2232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It’s alright, if they’re bored they’re bored."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "a3817302-3501-414d-94d3-83559e2823fd"
+    },
+    {
+      "start_time": 2232,
+      "end_time": 2233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "334d11e4-da0e-4dd1-a12e-68d20fc7de5e"
+    },
+    {
+      "start_time": 2233,
+      "end_time": 2234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "235ee75b-4f1b-4efc-a933-d58134eedf2c"
+    },
+    {
+      "start_time": 2234,
+      "end_time": 2235,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shut up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "260a1d09-2029-4cdd-8e95-eda2f16584c0"
+    },
+    {
+      "start_time": 2235,
+      "end_time": 2452,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues reading [muffled audience chatter throughout]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Herbert Huncke"
+        }
+      ],
+      "uuid": "8cfab581-76ef-40fa-819e-d13082094651"
+    },
+    {
+      "start_time": 2452,
+      "end_time": 2480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause, muffled speech, and cheers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "cf84cb87-220c-4a1e-846d-067d8c90e8d8"
+    },
+    {
+      "start_time": 2480,
+      "end_time": 2492,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Au nom de tous les participants il faudrait remercier et feliciter les organisateurs d’Ultimatum, Alan Lorde et Jo Designs et merci a tous les partic [recording cuts out]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown Speaker"
+        }
+      ],
+      "uuid": "92bb93bc-59cf-419a-b538-ce1335a25943"
+    },
+    {
+      "start_time": 2492,
+      "end_time": 2503,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuts out, light static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "adcff0a3-72bc-456f-b2c4-8d008968e09e"
+    },
+    {
+      "start_time": 2503,
+      "end_time": 2503,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "f1b50fb8-c64d-4b98-9aa5-59855f10394a"
+    }
+  ],
+  "set": "Default",
+  "event_id": "4b7aeb2b-73f5-4b2f-88d5-6289e02046eb",
+  "source_id": "95dd227c-dc95-4e2f-9cee-26e507b61e6f"
+}
