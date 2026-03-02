@@ -1,1 +1,427 @@
-{"annotations":[],"set":"Default","event_id":"c1b2b88d-6253-4923-ba1f-88979c27f169","source_id":"3616d676-ec54-4a0a-aa30-200b0be1966d"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Light static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "a292b727-7132-4e5d-b43d-1b7c28766944"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Buzzing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "030a314b-3f5f-442b-85d7-a0db4af47b94"
+    },
+    {
+      "start_time": 6,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs \"Poesie Guerriere\", vocalizes, sings and recites text [French] [underscored by recorded buzzing sound]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jack V"
+        }
+      ],
+      "uuid": "2b686d58-35b9-4a99-94ce-f54abe711d48"
+    },
+    {
+      "start_time": 59,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Smashes mirror."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jack V"
+        }
+      ],
+      "uuid": "9a433298-a940-4a05-b00b-04c272f41f2a"
+    },
+    {
+      "start_time": 60,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[unintelligible]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jack V"
+        }
+      ],
+      "uuid": "ddee2252-7909-4760-87eb-556e567f5370"
+    },
+    {
+      "start_time": 61,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "bc3784de-e44b-4bbc-b8f8-9b91aa9043bd"
+    },
+    {
+      "start_time": 62,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ambient chords, distorted speech and vocals."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "82caa437-c398-4503-88b2-615fc3dd599e"
+    },
+    {
+      "start_time": 65,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "40106a66-d72a-429b-a116-466842e3fd55"
+    },
+    {
+      "start_time": 65,
+      "end_time": 354,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues \"Poesie Guerriere\", recites poem [French] [underscored by ambient chords, electronic instrument, other various electronic musical sounds, guitar, drums, distorted vocals, regular vocals and various recorded sounds]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jack V"
+        }
+      ],
+      "uuid": "c82cb125-8845-4e37-b5e3-5fbe04d961aa"
+    },
+    {
+      "start_time": 354,
+      "end_time": 369,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues \"Poesie Guerriere\", sings [French] [underscored by guitar, drums, electronic instrument, and regular vocals]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jack V"
+        }
+      ],
+      "uuid": "77bfdefe-ef49-4dc4-ba11-65a75c985443"
+    },
+    {
+      "start_time": 369,
+      "end_time": 608,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues \"Poesie Guerriere\", recites poem [French] [underscored by guitar, drums, electronic instrument, regular vocals, distorted vocals, distorted speech]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jack V"
+        }
+      ],
+      "uuid": "345bfeaa-54d5-41da-8ba4-b72812f941b2"
+    },
+    {
+      "start_time": 608,
+      "end_time": 703,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues \"Poesie Guerriere\", sings [French], underscore shifts [regular vocals and distorted vocals]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jack V"
+        }
+      ],
+      "uuid": "e5157c07-f99d-45ee-b085-87f6cc2e3e41"
+    },
+    {
+      "start_time": 703,
+      "end_time": 792,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues \"Poesie Guerriere\", recites poem [French], underscore shifts [underscored by recorded speech, rhythmic sounds, and electronic sounds]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jack V"
+        }
+      ],
+      "uuid": "3656e513-8528-4967-b55d-4ad679cd5e39"
+    },
+    {
+      "start_time": 792,
+      "end_time": 817,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electric guitar, drums, and melodic buzzing sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "b8e76452-a9b6-4baa-8230-29d6db501a41"
+    },
+    {
+      "start_time": 817,
+      "end_time": 825,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues \"Poesie Guerriere\", speaks [French] [underscored by electric guitar, drums, and melodic buzzing sound]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jack V"
+        }
+      ],
+      "uuid": "aae850f2-9b1e-48fc-9a09-5a140e7fba4a"
+    },
+    {
+      "start_time": 825,
+      "end_time": 1012,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electric guitar, drums, bass, melodic buzzing sounds, and kazoo-like sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "efa66a1e-e8b3-4396-93a4-02054daf77f2"
+    },
+    {
+      "start_time": 1012,
+      "end_time": 1032,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Keyboard and marching percussion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "66f9d09b-dbb8-4b28-bd5c-a695b3635acc"
+    },
+    {
+      "start_time": 1032,
+      "end_time": 1076,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues \"Poesie Guerriere\", reads poem [underscored by keyboard and marching percussion]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jack V"
+        }
+      ],
+      "uuid": "b3d67431-efef-430b-9328-3627c77ad072"
+    },
+    {
+      "start_time": 1076,
+      "end_time": 1142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Keyboard, marching percussion, and electronic sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "51885226-a5ce-44b3-be15-f60e6a1df9d2"
+    },
+    {
+      "start_time": 1142,
+      "end_time": 1142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "408984a9-3e16-40e0-924f-e5063175e083"
+    }
+  ],
+  "set": "Default",
+  "event_id": "c1b2b88d-6253-4923-ba1f-88979c27f169",
+  "source_id": "3616d676-ec54-4a0a-aa30-200b0be1966d"
+}
