@@ -1,1 +1,784 @@
-{"annotations":[],"set":"Default","event_id":"a8a045f1-1d6f-41b9-a263-95a5e171cc19","source_id":"09738bfe-c694-4be6-8b29-77d26db39455"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise [chatter]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "0165bdf9-7421-4632-819d-d2043a2f4172"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Un, un."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Richard Martel"
+        }
+      ],
+      "uuid": "aada1308-e91f-4236-a030-de74b97974c7"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise [chatter]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "2c20d5e6-6dba-48b3-9eb9-7c9ceb7810c7"
+    },
+    {
+      "start_time": 6,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tapping sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "562b835b-2e57-4a01-846e-4349e5254c59"
+    },
+    {
+      "start_time": 17,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Euh je vais faire trois pieces. Le premiere s’appelle le \"Subordination.\" Le deuxieme va s’appeler \"Insubordination.\" Et la troisieme, euh, s’appelle \"L'expérience de l'art comme disponibilité du temps.\" Et il y aura peut-etre des petits trucs entre les trois."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Richard Martel"
+        }
+      ],
+      "uuid": "57d05eab-94b9-4e88-ad1c-7dc77399ea6a"
+    },
+    {
+      "start_time": 39,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rhythmic, metallic sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "6a3b62f9-e1cd-4896-8553-db8116353690"
+    },
+    {
+      "start_time": 51,
+      "end_time": 198,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs \"Subordination\" [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Richard Martel"
+        }
+      ],
+      "uuid": "c1526a68-7d86-4f3b-ac25-9beea04919ac"
+    },
+    {
+      "start_time": 198,
+      "end_time": 201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "a82ba431-bcd1-496d-8e14-508ce7380021"
+    },
+    {
+      "start_time": 201,
+      "end_time": 202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Volume of recording dips."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "2162c91b-fa9d-46b7-a10c-0376fa37696d"
+    },
+    {
+      "start_time": 202,
+      "end_time": 208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "9b79adc6-09f7-4d58-b5e4-db415315f103"
+    },
+    {
+      "start_time": 208,
+      "end_time": 217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "27334c16-dc1f-4f79-b80e-767b5ec3ff11"
+    },
+    {
+      "start_time": 217,
+      "end_time": 230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Heavy breathing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "1844b7f1-1ae5-4216-8a14-e3853a4907e2"
+    },
+    {
+      "start_time": 230,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs \"Insubordination\" [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Richard Martel"
+        }
+      ],
+      "uuid": "48f93022-2443-4d6f-95c3-b6767a57fa1e"
+    },
+    {
+      "start_time": 257,
+      "end_time": 259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Heavy breathing continues [crackling, canned chatter and laughter]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "2fc6b464-e1f0-40ce-835d-7969d79453ed"
+    },
+    {
+      "start_time": 259,
+      "end_time": 498,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues \"Insubordination\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Richard Martel"
+        }
+      ],
+      "uuid": "a844b482-7051-466a-8794-32be6c9198ea"
+    },
+    {
+      "start_time": 498,
+      "end_time": 523,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Blown out sound [crackle hum, fades out]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "7b04033c-4218-4139-8e2b-33e33dbe787e"
+    },
+    {
+      "start_time": 523,
+      "end_time": 538,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "3cc2749d-0c16-4901-bd75-fa6b0526eb75"
+    },
+    {
+      "start_time": 538,
+      "end_time": 541,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Drinks water."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Richard Martel"
+        }
+      ],
+      "uuid": "ef0e659c-7b9c-4b42-817d-bea8840ee70f"
+    },
+    {
+      "start_time": 541,
+      "end_time": 552,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "2dd70978-a6e4-409d-83ab-1c9ee9835669"
+    },
+    {
+      "start_time": 552,
+      "end_time": 553,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On peut y aller."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Richard Martel"
+        }
+      ],
+      "uuid": "ef7d2b32-a349-4143-8955-b8ae08f87361"
+    },
+    {
+      "start_time": 553,
+      "end_time": 565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "7bf5dfc7-1828-41dd-b074-142d54c8821e"
+    },
+    {
+      "start_time": 565,
+      "end_time": 575,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wave sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "1e9d3cde-cc60-4a02-9c74-2beb6a67e927"
+    },
+    {
+      "start_time": 575,
+      "end_time": 597,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wave sounds continue [static, chatter]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "acc2c06e-8067-4880-b0cd-7b801013c154"
+    },
+    {
+      "start_time": 597,
+      "end_time": 707,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs \"L'expérience de l'art comme disponibilité du temps\" [French, multi-lingual]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Richard Martel"
+        }
+      ],
+      "uuid": "ee97fd07-4dad-4588-9cb7-715cc8215490"
+    },
+    {
+      "start_time": 707,
+      "end_time": 710,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wave sounds continue [sound of a washing machine drum spinning, static, chatter]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "617b8f77-8268-4a93-8c29-2c56344c3670"
+    },
+    {
+      "start_time": 710,
+      "end_time": 778,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues \"L'expérience de l'art comme disponibilité du temps\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Richard Martel"
+        }
+      ],
+      "uuid": "be761c6b-2536-4a43-ae53-be51097550fa"
+    },
+    {
+      "start_time": 778,
+      "end_time": 781,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sounds of waves [continues]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "e267cdde-9809-4f39-ba0c-cd24586a98f5"
+    },
+    {
+      "start_time": 781,
+      "end_time": 811,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Blown out sound [possibly violent wind, waves]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "33a04f9f-c5e5-44ee-a1b8-e1500db13803"
+    },
+    {
+      "start_time": 811,
+      "end_time": 840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes \"L'expérience de l'art comme disponibilité du temps.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Richard Martel"
+        }
+      ],
+      "uuid": "6fbf86fb-9ed4-49ce-bbd2-2a9fc2a75ce2"
+    },
+    {
+      "start_time": 840,
+      "end_time": 844,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Blown out sound continues [ticking]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "a696f21e-d775-4285-ab3e-5f724fdbcf36"
+    },
+    {
+      "start_time": 844,
+      "end_time": 880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues \"L'expérience de l'art comme disponibilité du temps\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Richard Martel"
+        }
+      ],
+      "uuid": "3a6c40c6-297a-4103-9615-4d610d4a8b84"
+    },
+    {
+      "start_time": 880,
+      "end_time": 884,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Distorted organ sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "e0723179-83b8-4357-a742-6c80d36b9e99"
+    },
+    {
+      "start_time": 884,
+      "end_time": 938,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues \"L'expérience de l'art comme disponibilité du temps\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Richard Martel"
+        }
+      ],
+      "uuid": "66b95813-284c-42b6-aefc-985eef58e976"
+    },
+    {
+      "start_time": 938,
+      "end_time": 939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Distorted organ sounds continues [man vocalizing]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "cf82e263-c217-462a-b7d6-e64cb8bdd977"
+    },
+    {
+      "start_time": 939,
+      "end_time": 952,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues \"L'expérience de l'art comme disponibilité du temps\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Richard Martel"
+        }
+      ],
+      "uuid": "28b61227-cb50-4761-a1ee-86e443ece3a9"
+    },
+    {
+      "start_time": 952,
+      "end_time": 954,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Silence [cuts out]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "a40b0c90-08df-434b-8be6-ecbfdcf4b2c4"
+    },
+    {
+      "start_time": 954,
+      "end_time": 954,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "618f8d49-3028-4810-a6f5-624813191b6d"
+    }
+  ],
+  "set": "Default",
+  "event_id": "a8a045f1-1d6f-41b9-a263-95a5e171cc19",
+  "source_id": "09738bfe-c694-4be6-8b29-77d26db39455"
+}
