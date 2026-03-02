@@ -1,1 +1,1078 @@
-{"annotations":[],"set":"Default","event_id":"618bcfdc-8f61-44e4-a1d5-1bf52c1f6370","source_id":"4ec794c8-3d34-4b15-9103-3eb3e81138ba"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs piece [English] [reads story over typing sounds]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "d4611944-dece-4d1d-9b41-ff99a50033f7"
+    },
+    {
+      "start_time": 4,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coughing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "04ecbc82-9609-4ad3-bb49-80c113612750"
+    },
+    {
+      "start_time": 7,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "62698183-2cc3-4872-94c9-74e95a633ff4"
+    },
+    {
+      "start_time": 85,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, typing stops."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "339bbd55-8c10-45c5-b6fa-cbfd1a034748"
+    },
+    {
+      "start_time": 151,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, typing resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "2bb450dd-3ad5-4b0b-b8e7-113f033b11b7"
+    },
+    {
+      "start_time": 165,
+      "end_time": 166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beeping."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "896bca10-7186-41e0-a562-410598f40441"
+    },
+    {
+      "start_time": 166,
+      "end_time": 236,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece [audience chatter]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "b928b6e6-01b9-4748-9d5a-df8b3b102c0f"
+    },
+    {
+      "start_time": 236,
+      "end_time": 238,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "b388e811-e65d-4bbe-ae4b-1fa0a59e1de9"
+    },
+    {
+      "start_time": 238,
+      "end_time": 249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, typing sounds stop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "421fa245-b79d-4ef0-a89d-ad6be4cf2772"
+    },
+    {
+      "start_time": 249,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coughing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "3232e9b3-7f1c-4027-ba4f-eb7b18804208"
+    },
+    {
+      "start_time": 250,
+      "end_time": 267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise [door creak, coughing]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "7e466b76-427b-4327-b5dc-50ecd98f2765"
+    },
+    {
+      "start_time": 267,
+      "end_time": 286,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "03a438e8-c655-4034-b5fe-2051f9087d56"
+    },
+    {
+      "start_time": 286,
+      "end_time": 288,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coughing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "bff4984f-fcca-44b9-beb6-d82803e55dd7"
+    },
+    {
+      "start_time": 288,
+      "end_time": 344,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "77e73f4e-40d4-4fc4-a237-9b071b294f74"
+    },
+    {
+      "start_time": 344,
+      "end_time": 363,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise [chatter]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "a85ecce8-e713-4145-8337-02737b0e19dd"
+    },
+    {
+      "start_time": 363,
+      "end_time": 371,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "108e97e3-ff8f-496f-91c4-bc04e1a0e06c"
+    },
+    {
+      "start_time": 371,
+      "end_time": 391,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise [chatter, coughing]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "9c0d47ba-ff91-4b83-a096-5603c8324820"
+    },
+    {
+      "start_time": 391,
+      "end_time": 418,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "fe849d05-d480-40a8-9cd4-cdbfffcb37a5"
+    },
+    {
+      "start_time": 418,
+      "end_time": 435,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "4d75802b-6732-4735-9e8a-0404e882d663"
+    },
+    {
+      "start_time": 435,
+      "end_time": 507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "6cacecd8-c949-4e93-bb04-5de284438b36"
+    },
+    {
+      "start_time": 507,
+      "end_time": 515,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "99c5e874-fc9d-425a-97a6-580741c81dcb"
+    },
+    {
+      "start_time": 515,
+      "end_time": 535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, typing sounds recommence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "a9756e12-7622-4c81-b518-c92995d72382"
+    },
+    {
+      "start_time": 535,
+      "end_time": 542,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "6e085691-2a74-43dd-b87a-2bc54cd88ba7"
+    },
+    {
+      "start_time": 542,
+      "end_time": 549,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coughing, rustling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "f905bfec-88ff-40f2-a0d0-38ec0db4807e"
+    },
+    {
+      "start_time": 549,
+      "end_time": 631,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece [typing sounds gradually increase in vigor]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "170a0246-ed76-4e0f-9633-07591a033232"
+    },
+    {
+      "start_time": 631,
+      "end_time": 645,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise [shuffling]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "04409ce6-9790-4954-81f8-0ec4c23ba141"
+    },
+    {
+      "start_time": 645,
+      "end_time": 687,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece, typing sounds stop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "3468cce0-e87d-419d-bf8e-f61f55c90709"
+    },
+    {
+      "start_time": 676,
+      "end_time": 678,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "07c11ab2-23b7-4c02-b004-320e9a06767a"
+    },
+    {
+      "start_time": 678,
+      "end_time": 687,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "1c04e622-d00f-4152-b085-8ecf7f4be21d"
+    },
+    {
+      "start_time": 687,
+      "end_time": 702,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, typing sounds recommence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "1415c75a-dd8c-4525-8bc6-6ac9fbfea62b"
+    },
+    {
+      "start_time": 702,
+      "end_time": 707,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter, coughing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "1b9ed987-4af9-4606-a514-b8c6f306e657"
+    },
+    {
+      "start_time": 707,
+      "end_time": 733,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "e40800e9-c31a-4149-acbc-98d2453fd68b"
+    },
+    {
+      "start_time": 733,
+      "end_time": 740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "ba00dd2f-df9f-4394-9186-570f3af79f91"
+    },
+    {
+      "start_time": 740,
+      "end_time": 743,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coughing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "c696eada-ff41-4c2b-b835-b3449eed3232"
+    },
+    {
+      "start_time": 743,
+      "end_time": 747,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "9002ec89-53dd-4342-848d-2f724f354022"
+    },
+    {
+      "start_time": 747,
+      "end_time": 755,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece, typing stops."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "9e48131a-da38-4834-a3aa-40e912aff045"
+    },
+    {
+      "start_time": 755,
+      "end_time": 766,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "46ed40aa-5907-477b-a2dd-0e1fb5d4011e"
+    },
+    {
+      "start_time": 766,
+      "end_time": 779,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "fc41d353-bfc8-4abe-bed1-15d4de630b70"
+    },
+    {
+      "start_time": 779,
+      "end_time": 784,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "9d085dd1-b3f7-4bfb-871f-75e624bd7da8"
+    },
+    {
+      "start_time": 784,
+      "end_time": 817,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece, typing sounds recommence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "7d0cb9e1-7d19-49bf-afe6-51260484bab1"
+    },
+    {
+      "start_time": 817,
+      "end_time": 835,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "3d18ec49-4ca6-4fff-aa68-42d248358b7b"
+    },
+    {
+      "start_time": 835,
+      "end_time": 839,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece, typing sounds stop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "0b1b063d-1c40-4aaf-b3e4-2e5c54be8743"
+    },
+    {
+      "start_time": 839,
+      "end_time": 851,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "04a5c3ab-1d91-4fe6-af6f-902a3e840bff"
+    },
+    {
+      "start_time": 851,
+      "end_time": 861,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece, typing sounds recommence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "6800e6d5-8a10-4269-9f02-8d9f1416c695"
+    },
+    {
+      "start_time": 861,
+      "end_time": 873,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "c5cb643e-c214-4d15-8e9c-ae7f0ea95a98"
+    },
+    {
+      "start_time": 873,
+      "end_time": 875,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece, typing stops."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "4eda735c-4d5b-499d-b84c-c690ecc20894"
+    },
+    {
+      "start_time": 875,
+      "end_time": 889,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "4936d823-5f09-4aab-bd66-c01d8b413104"
+    },
+    {
+      "start_time": 889,
+      "end_time": 948,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece, typing sounds recommence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Ken Decker"
+        }
+      ],
+      "uuid": "76d3d81b-fe64-48c8-87ea-2c69e2b0a552"
+    },
+    {
+      "start_time": 948,
+      "end_time": 957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soft laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "903415f7-447f-4e96-af21-b7b5ff59cd6e"
+    },
+    {
+      "start_time": 957,
+      "end_time": 958,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Silence [possibly end of tape]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "07bb081d-fd1b-4ebc-9b59-abbfc0d9aced"
+    },
+    {
+      "start_time": 958,
+      "end_time": 958,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "1cf7ae91-f4a1-4afe-bf4c-e4114a79f42d"
+    }
+  ],
+  "set": "Default",
+  "event_id": "618bcfdc-8f61-44e4-a1d5-1bf52c1f6370",
+  "source_id": "4ec794c8-3d34-4b15-9103-3eb3e81138ba"
+}
