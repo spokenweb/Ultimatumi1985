@@ -1,1 +1,763 @@
-{"annotations":[],"set":"Default","event_id":"294a884f-928d-4a68-a79a-a3099dd63f80","source_id":"8321ce4c-9c19-4aff-a4d9-4d28718de6fe"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise [chatter and Setting and Tech: Music]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "5d281559-bd6f-42ba-aeca-85298ff10ec6"
+    },
+    {
+      "start_time": 7,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuts out, silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "1763cff4-faa8-42eb-9a02-981794f59359"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaks [unintelligible]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Alain-Martin Richard"
+        }
+      ],
+      "uuid": "3cabe1d2-c218-4c0f-a3fe-7399c01c03c0"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "OK."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Alain-Martin Richard"
+        }
+      ],
+      "uuid": "8049b9cc-e285-4a9b-b553-65a2dffcd412"
+    },
+    {
+      "start_time": 11,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "48bbcd9d-f34c-4ba6-9871-805e0c77be58"
+    },
+    {
+      "start_time": 14,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bon, il s’agit d’un texte qui est un texte charnel, traite par ordinateur. A la partition, vois imprimante toast melba et popsicle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Alain-Martin Richard"
+        }
+      ],
+      "uuid": "4d95d448-7a94-4012-9067-967c34504835"
+    },
+    {
+      "start_time": 25,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "36f8eb97-383e-4711-8842-85fc001240ee"
+    },
+    {
+      "start_time": 42,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vocalizations and overlapping speech."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "2b373c5b-6ff0-437a-ae2d-95b76b27455f"
+    },
+    {
+      "start_time": 50,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Percussion [underscores Recorded Sound]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "ac309e41-b605-4507-84f5-25ecae4b643b"
+    },
+    {
+      "start_time": 59,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vocalizations and overlapping speech continue, percussion underscore drops out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "b4e57c1a-a202-475c-9f9a-9cf723020faf"
+    },
+    {
+      "start_time": 68,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic mix [synth melody, electric drums, distorted speech, smashing sound effect]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "4ff71ea1-bbcc-4368-9916-35fc7433bf11"
+    },
+    {
+      "start_time": 76,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vocalizations and overlapping speech."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "25ddf23b-f2d0-4983-875a-293728a363b4"
+    },
+    {
+      "start_time": 85,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic mix resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "a03600bf-cd4b-4026-bc69-404ead08695c"
+    },
+    {
+      "start_time": 94,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Click."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "1d7e9c36-d417-40e5-b6fa-09d77bc77201"
+    },
+    {
+      "start_time": 94,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vocalizations and overlapping speech."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "bcd0af03-af42-457f-89f8-d1927a124e27"
+    },
+    {
+      "start_time": 99,
+      "end_time": 189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs piece, speaks, drones, and pants [underscored by vocalizations, overlapping speech, and electronic mix]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Alain-Martin Richard"
+        }
+      ],
+      "uuid": "74d6006e-1cf3-44bc-b3ab-5eb06055e0a7"
+    },
+    {
+      "start_time": 189,
+      "end_time": 206,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Distorted speech and vocalizations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "27a26c4c-95d3-4ba5-8588-6369dfd40515"
+    },
+    {
+      "start_time": 206,
+      "end_time": 212,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic mix [synth melody, electric drums, screaming sound effect, distorted speech]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "295c5eef-ddb5-41f7-844f-276a2d9d330a"
+    },
+    {
+      "start_time": 212,
+      "end_time": 217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vocalizations and overlapping speech."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "e269f749-742b-40a4-9009-989aecbf8728"
+    },
+    {
+      "start_time": 217,
+      "end_time": 289,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Alain-Martin Richard"
+        }
+      ],
+      "uuid": "a35af3e3-05b3-4148-a7d7-8d7321f8958b"
+    },
+    {
+      "start_time": 289,
+      "end_time": 295,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic mix."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "f96050a2-0f72-4887-b2fa-93eeccb5d303"
+    },
+    {
+      "start_time": 295,
+      "end_time": 297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vocalizations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "4ff0e07c-57a5-475b-b6e4-91bd19e6e828"
+    },
+    {
+      "start_time": 297,
+      "end_time": 338,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, speaks, drones, and groans [underscored by vocalizations, overlapping speech, and electronic mix]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Alain-Martin Richard"
+        }
+      ],
+      "uuid": "e7e43bc6-89d1-40df-9344-44821e320652"
+    },
+    {
+      "start_time": 338,
+      "end_time": 342,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vocalizations and distorted speech."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "8b00938d-ad11-4cb5-9439-826ff112edd2"
+    },
+    {
+      "start_time": 342,
+      "end_time": 349,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic mix [electric drums and chimes, and distorted speech]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "bfe7679d-4467-42f8-96e6-be637c35591c"
+    },
+    {
+      "start_time": 349,
+      "end_time": 359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vocalizations and scratching sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "20fec05f-87b0-40f6-bd40-0f4a52f5faf1"
+    },
+    {
+      "start_time": 359,
+      "end_time": 444,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, speaks, drones, grunts, and pants [underscored by vocalizations, scratching sound, screams, and other electronic sounds]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Alain-Martin Richard"
+        }
+      ],
+      "uuid": "a16089d8-2999-4b83-8a08-fda842b9a86a"
+    },
+    {
+      "start_time": 444,
+      "end_time": 447,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuts out, silence [possible tape change]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "e3935d3a-fb4d-49cd-b7d8-271748a230b8"
+    },
+    {
+      "start_time": 447,
+      "end_time": 465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, growls, speaks, and vocalizes [underscored by vocalizations, distorted speech, and electronic mix]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Alain-Martin Richard"
+        }
+      ],
+      "uuid": "3297bad3-6528-43dd-a222-5e2632f9852c"
+    },
+    {
+      "start_time": 465,
+      "end_time": 476,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vocalizations, distorted speech, drum beat, rhythmic speech, clicking sounds, scratchy sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "e0efcad4-9a52-4656-bde4-4d87305ae4ef"
+    },
+    {
+      "start_time": 476,
+      "end_time": 484,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic mix [organ, slurping sounds, lip smacking sounds, piano, synth, smashing sound effect]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "51769f4b-c349-4f42-914b-2c0ecf488188"
+    },
+    {
+      "start_time": 484,
+      "end_time": 582,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, grunts, drones, vocalizes, pants, and giggles [underscored by vocalizations, distorted speech, slurping sounds, lip smacking sounds, and electronic mix]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Alain-Martin Richard"
+        }
+      ],
+      "uuid": "a2cc80c5-2c74-459b-afb3-71456b7a24a9"
+    },
+    {
+      "start_time": 582,
+      "end_time": 605,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause [overlaps with scratchy sound effect]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "335c5ff7-a2a5-4120-982b-2b093d6b9fdf"
+    },
+    {
+      "start_time": 605,
+      "end_time": 608,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Scratchy sound effect fades out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "4cd691da-fd6b-4aae-aa44-b6e2d6f1ed5a"
+    },
+    {
+      "start_time": 608,
+      "end_time": 609,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuts out, low buzz."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "74140e43-ba2a-4d0b-a0dc-7db85e961555"
+    },
+    {
+      "start_time": 609,
+      "end_time": 609,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "54a18c54-0046-4a7c-9d60-5ecc1c41223b"
+    }
+  ],
+  "set": "Default",
+  "event_id": "294a884f-928d-4a68-a79a-a3099dd63f80",
+  "source_id": "8321ce4c-9c19-4aff-a4d9-4d28718de6fe"
+}
