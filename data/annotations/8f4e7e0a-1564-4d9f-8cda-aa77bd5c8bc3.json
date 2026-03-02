@@ -776,6 +776,27 @@
         }
       ],
       "uuid": "618f8d49-3028-4810-a6f5-624813191b6d"
+    },
+    {
+      "start_time": 954,
+      "end_time": 956,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Recording",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "f789acc6-d6b1-43d2-a2ca-ad8c32cb1355"
     }
   ],
   "set": "Default",
