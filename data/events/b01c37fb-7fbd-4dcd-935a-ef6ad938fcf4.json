@@ -9,7 +9,7 @@
     }
   },
   "auto_generate_web_page": true,
-  "label": "Alain Martin at Ultimatum Festival",
+  "label": "Alain-Martin Richard at Ultimatum Festival",
   "description": [
     {
       "type": "paragraph",
@@ -22,6 +22,9 @@
   ],
   "created_at": "2026-03-02T16:16:14.269Z",
   "created_by": "spokenweb",
-  "updated_at": "2026-03-02T16:16:14.269Z",
-  "updated_by": "spokenweb"
+  "updated_at": "2026-03-02T16:19:04.146Z",
+  "updated_by": "spokenweb",
+  "av_file_order": [
+    "817c14f5-ce4b-4a74-88c8-e0340c330945"
+  ]
 }
