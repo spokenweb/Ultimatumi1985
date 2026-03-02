@@ -1,1 +1,805 @@
-{"annotations":[],"set":"Default","event_id":"5ce5aa60-d306-41a9-b9ae-9786fb6084a5","source_id":"fab128e9-3b3a-451a-8a7c-6bd400746d49"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "High pitched ringing and background percussion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "005be084-74e2-4b3d-9e03-1b4296da1e9a"
+    },
+    {
+      "start_time": 35,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Silence [cuts out]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "b0c978aa-7771-4912-9a60-6f2e56112e99"
+    },
+    {
+      "start_time": 44,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs poem [English] [underlying, overlapping vocals can be throughout in English and French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        }
+      ],
+      "uuid": "438dcd1c-f682-4536-83e6-d1e1d042ee89"
+    },
+    {
+      "start_time": 80,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Silence [possible tape change]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "8741ae3c-68b7-4edf-acbc-560c0833ba79"
+    },
+    {
+      "start_time": 134,
+      "end_time": 140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hums and audio feedback."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "7c9c1767-35da-4623-9bc8-2aa6436d46d7"
+    },
+    {
+      "start_time": 140,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        }
+      ],
+      "uuid": "dd5b29b2-077d-4d0c-b477-58b85687d60b"
+    },
+    {
+      "start_time": 275,
+      "end_time": 380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, music starts [sounds of electronic instruments accompanying Guimond and underlying french, english vocals]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        }
+      ],
+      "uuid": "b7d2a7b9-d9c4-45e7-9e51-7352ab201557"
+    },
+    {
+      "start_time": 380,
+      "end_time": 383,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Microphone feedback and shuffling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "23b5588c-00d0-49b5-8a13-746bf90c6b01"
+    },
+    {
+      "start_time": 383,
+      "end_time": 390,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "8b5f3ec2-3be1-4d41-bb47-0e989b09c419"
+    },
+    {
+      "start_time": 391,
+      "end_time": 445,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Melodic beat [rhythmic sounds, vocals overlap]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "37e9d52b-61cc-4dc5-8616-82c91d70989d"
+    },
+    {
+      "start_time": 445,
+      "end_time": 660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beat continues, pre-recorded speaker starts to perform poetry [English]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "62d6835d-29ba-4d7e-a2a0-d8ab5765d3fc"
+    },
+    {
+      "start_time": 475,
+      "end_time": 476,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Microphone tap."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "7091760c-2138-4bb4-87bd-0ef89813dc05"
+    },
+    {
+      "start_time": 476,
+      "end_time": 649,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs piece [French][on top of music and recording]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        }
+      ],
+      "uuid": "c6e61569-8c67-4759-ae87-87470ae22bf8"
+    },
+    {
+      "start_time": 649,
+      "end_time": 650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Loud buzz transforms into electronic beat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "28c80274-c62d-4b2f-9fdf-3d34fa251a16"
+    },
+    {
+      "start_time": 650,
+      "end_time": 748,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        }
+      ],
+      "uuid": "1049f155-45e8-478d-a629-9d0195df7554"
+    },
+    {
+      "start_time": 748,
+      "end_time": 879,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Underlying pre-recorded English speaking gets louder."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "385a8146-903d-4c4b-956f-0afb621c050c"
+    },
+    {
+      "start_time": 879,
+      "end_time": 896,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece [electronic beat and underlying vocals fade out]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        }
+      ],
+      "uuid": "8142ea17-d678-40e6-8120-5b59271f47f5"
+    },
+    {
+      "start_time": 896,
+      "end_time": 900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Water sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "6373e5ec-828e-4190-9a72-149650e047a1"
+    },
+    {
+      "start_time": 900,
+      "end_time": 896,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        }
+      ],
+      "uuid": "6cc9bf7d-52b1-4278-a4f1-d3d1539802c0"
+    },
+    {
+      "start_time": 918,
+      "end_time": 933,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Water sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "748f5834-af84-47f8-9faa-1c1bfcfa0e25"
+    },
+    {
+      "start_time": 933,
+      "end_time": 937,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        }
+      ],
+      "uuid": "e41f38d4-c5c6-400d-afea-292a5642e20e"
+    },
+    {
+      "start_time": 937,
+      "end_time": 943,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Water sounds [violent bubbling]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "66266404-265c-4244-8a51-93463965c635"
+    },
+    {
+      "start_time": 943,
+      "end_time": 944,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        }
+      ],
+      "uuid": "3f0336da-8e31-4124-8357-160970e904ee"
+    },
+    {
+      "start_time": 944,
+      "end_time": 945,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Water sounds [possibly man drowning]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "ef5dba12-b19b-4108-b726-dc1b26cbd650"
+    },
+    {
+      "start_time": 944,
+      "end_time": 947,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        }
+      ],
+      "uuid": "c11f58e8-2b26-4267-bf93-1ccfd4a51ac7"
+    },
+    {
+      "start_time": 947,
+      "end_time": 951,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Water sounds [gushing]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "e771496e-5f1f-4832-b73b-83f5a973ef19"
+    },
+    {
+      "start_time": 951,
+      "end_time": 955,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "7339118e-9b5c-4871-8b08-9724de482ab0"
+    },
+    {
+      "start_time": 955,
+      "end_time": 960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Loud ringing, underlying percussions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "ccf0c0cd-e83f-4383-ab1f-a0643bc970d1"
+    },
+    {
+      "start_time": 960,
+      "end_time": 1107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs piece [French] [a second speaker performs]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        }
+      ],
+      "uuid": "dfd1febe-c335-400e-bffd-8fadcd550a25"
+    },
+    {
+      "start_time": 1107,
+      "end_time": 1109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On recommence d’ici un peu."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        }
+      ],
+      "uuid": "345cd55c-2d19-40e9-bc33-c53049a9c2bd"
+    },
+    {
+      "start_time": 1109,
+      "end_time": 1203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        }
+      ],
+      "uuid": "c783ece7-f31a-4fce-b16b-6ef13a4ceb71"
+    },
+    {
+      "start_time": 1203,
+      "end_time": 1211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "J’ai pas [unintelligible], c’est correct. Incor–j’ai meme pas eu le temps de le tapper. [Starts to resume performance] Incontenable. Non. Ouais."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        }
+      ],
+      "uuid": "764411ad-32a2-499b-adad-a88dee481eea"
+    },
+    {
+      "start_time": 1211,
+      "end_time": 1300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece [electronic music begins with underlying English vocals]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        }
+      ],
+      "uuid": "92c8d8f1-3c90-4f4d-8190-ef9fd53e5345"
+    },
+    {
+      "start_time": 1300,
+      "end_time": 1376,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic music gets progressively louder. Various sounds [synthesizer, electric guitar, vocals (unintelligible)]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "6433ec37-f869-44ab-83fe-af272903ffce"
+    },
+    {
+      "start_time": 1376,
+      "end_time": 1377,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "d79b1faa-27a2-4049-af83-9eb6ac1e4f4f"
+    },
+    {
+      "start_time": 1377,
+      "end_time": 1943,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Modulating vocals and various sounds [blown out synthesizer,cut up tracks, lasers]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "896d1b00-0058-4b1e-b9e0-3b0a49771efe"
+    },
+    {
+      "start_time": 1943,
+      "end_time": 1945,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Silence [possibly stopped recording]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "3ee167d0-8609-4ba7-b0b4-db0fe4b7fae2"
+    },
+    {
+      "start_time": 1945,
+      "end_time": 1945,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "71622e9f-5148-4ee0-992e-d32f254dd6f3"
+    }
+  ],
+  "set": "Default",
+  "event_id": "5ce5aa60-d306-41a9-b9ae-9786fb6084a5",
+  "source_id": "fab128e9-3b3a-451a-8a7c-6bd400746d49"
+}
