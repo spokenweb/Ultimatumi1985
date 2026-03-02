@@ -2015,6 +2015,27 @@
         }
       ],
       "uuid": "05262a4b-5299-4ca9-8f6d-0f521ddbfa5e"
+    },
+    {
+      "start_time": 964,
+      "end_time": 966,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Recording",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "6f2d7c4d-b937-44ee-bbf1-f087c11356c8"
     }
   ],
   "set": "Default",
