@@ -1154,6 +1154,27 @@
         }
       ],
       "uuid": "1eb9dcdf-b932-4157-b229-776c4bf3aede"
+    },
+    {
+      "start_time": 1003,
+      "end_time": 1022,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Collective whooping and clapping resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unknown Performer",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "be064cba-1662-4a0f-b9a7-194ce7c4e495"
     }
   ],
   "set": "Default",
