@@ -748,7 +748,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        }
+      ],
       "uuid": "b70675bc-eb23-4766-ae37-c279eb7544bb"
     }
   ],
