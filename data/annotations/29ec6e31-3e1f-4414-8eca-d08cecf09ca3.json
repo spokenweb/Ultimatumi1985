@@ -734,6 +734,22 @@
         }
       ],
       "uuid": "71622e9f-5148-4ee0-992e-d32f254dd6f3"
+    },
+    {
+      "start_time": 966,
+      "end_time": 970,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b70675bc-eb23-4766-ae37-c279eb7544bb"
     }
   ],
   "set": "Default",
