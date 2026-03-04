@@ -442,27 +442,6 @@
       "uuid": "e41f38d4-c5c6-400d-afea-292a5642e20e"
     },
     {
-      "start_time": 937,
-      "end_time": 943,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Water sounds [violent bubbling]."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Setting and Tech",
-          "tag": "Recorded Sound"
-        }
-      ],
-      "uuid": "66266404-265c-4244-8a51-93463965c635"
-    },
-    {
       "start_time": 954,
       "end_time": 958,
       "annotation": [
