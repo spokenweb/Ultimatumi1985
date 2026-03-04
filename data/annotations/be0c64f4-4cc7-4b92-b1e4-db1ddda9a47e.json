@@ -1070,6 +1070,27 @@
         }
       ],
       "uuid": "7a2dd2a8-748e-4b78-b815-92b37d4fb5c5"
+    },
+    {
+      "start_time": 810,
+      "end_time": 817,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rhythmic music continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "1ed334b2-b368-41bd-b92d-162fbb742ad4"
     }
   ],
   "set": "Default",
