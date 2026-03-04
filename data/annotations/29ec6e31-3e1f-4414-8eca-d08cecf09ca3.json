@@ -631,27 +631,6 @@
       "uuid": "6433ec37-f869-44ab-83fe-af272903ffce"
     },
     {
-      "start_time": 1376,
-      "end_time": 1377,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Room noise."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Setting and Tech",
-          "tag": "Foufounes Electriques"
-        }
-      ],
-      "uuid": "d79b1faa-27a2-4049-af83-9eb6ac1e4f4f"
-    },
-    {
       "start_time": 1377,
       "end_time": 1943,
       "annotation": [
