@@ -484,27 +484,6 @@
       "uuid": "c11f58e8-2b26-4267-bf93-1ccfd4a51ac7"
     },
     {
-      "start_time": 947,
-      "end_time": 951,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Water sounds [gushing]."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Setting and Tech",
-          "tag": "Recorded Sound"
-        }
-      ],
-      "uuid": "e771496e-5f1f-4832-b73b-83f5a973ef19"
-    },
-    {
       "start_time": 951,
       "end_time": 955,
       "annotation": [
