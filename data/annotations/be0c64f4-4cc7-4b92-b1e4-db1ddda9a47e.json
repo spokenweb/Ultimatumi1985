@@ -1086,6 +1086,27 @@
       ],
       "tags": [],
       "uuid": "31c7214d-8973-4136-900f-63c967c0d909"
+    },
+    {
+      "start_time": 975,
+      "end_time": 976,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Collective whooping and clapping."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unknown Performer",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "ab1822e5-b51f-4b7f-9036-66554652e6d0"
     }
   ],
   "set": "Default",
