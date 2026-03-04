@@ -1133,6 +1133,22 @@
         }
       ],
       "uuid": "521b1482-9409-4f2c-8a21-d192a5ac80e9"
+    },
+    {
+      "start_time": 996,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Male voice continues [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1eb9dcdf-b932-4157-b229-776c4bf3aede"
     }
   ],
   "set": "Default",
