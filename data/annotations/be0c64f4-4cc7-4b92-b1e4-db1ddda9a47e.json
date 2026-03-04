@@ -1136,7 +1136,7 @@
     },
     {
       "start_time": 996,
-      "end_time": 0,
+      "end_time": 1003,
       "annotation": [
         {
           "type": "paragraph",
@@ -1147,7 +1147,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Unknown Performer",
+          "category": "Performers and Speakers"
+        }
+      ],
       "uuid": "1eb9dcdf-b932-4157-b229-776c4bf3aede"
     }
   ],
