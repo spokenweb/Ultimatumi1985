@@ -1072,14 +1072,14 @@
       "uuid": "1ed334b2-b368-41bd-b92d-162fbb742ad4"
     },
     {
-      "start_time": 975,
-      "end_time": 0,
+      "start_time": 976,
+      "end_time": 979,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Rhythmic bassline."
+              "text": "Rhythmic bassline begins."
             }
           ]
         }
