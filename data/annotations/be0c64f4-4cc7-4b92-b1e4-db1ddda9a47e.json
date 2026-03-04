@@ -86,27 +86,6 @@
     },
     {
       "start_time": 85,
-      "end_time": 86,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Man’s voice speaking [French]."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Setting and Tech",
-          "tag": "Recorded Sound"
-        }
-      ],
-      "uuid": "8c58c078-4bf9-4059-b3ab-32c6ecd942a8"
-    },
-    {
-      "start_time": 85,
       "end_time": 90,
       "annotation": [
         {
