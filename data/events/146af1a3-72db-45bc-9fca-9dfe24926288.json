@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "1461325f-ca6b-4e4a-873c-dc7499cfaabf": {
-      "label": "1995-03-06 Phineas Flower Trio and Steve Godin Part 2",
+      "label": " Steve Montambault at Ultimatum I, 1985 ",
       "is_offline": false,
       "file_type": "Audio",
       "file_url": "https://youtu.be/0wgugGe1hRE",
@@ -22,6 +22,9 @@
   ],
   "created_at": "2026-03-02T16:16:14.269Z",
   "created_by": "spokenweb",
-  "updated_at": "2026-03-02T16:16:14.269Z",
-  "updated_by": "spokenweb"
+  "updated_at": "2026-03-04T22:00:35.960Z",
+  "updated_by": "spokenweb",
+  "av_file_order": [
+    "1461325f-ca6b-4e4a-873c-dc7499cfaabf"
+  ]
 }
