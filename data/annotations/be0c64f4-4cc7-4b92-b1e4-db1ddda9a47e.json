@@ -44,7 +44,7 @@
     },
     {
       "start_time": 70,
-      "end_time": 71,
+      "end_time": 76,
       "annotation": [
         {
           "type": "paragraph",
@@ -57,8 +57,8 @@
       ],
       "tags": [
         {
-          "category": "Setting and Tech",
-          "tag": "Recorded Sound"
+          "tag": "Unknown Performer",
+          "category": "Performers and Speakers"
         }
       ],
       "uuid": "135b359e-3111-44ac-9644-54059d119fae"
