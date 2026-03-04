@@ -589,27 +589,6 @@
       "uuid": "07c11ab2-23b7-4c02-b004-320e9a06767a"
     },
     {
-      "start_time": 678,
-      "end_time": 687,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Continues piece."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Performers and Speakers",
-          "tag": "Ken Decker"
-        }
-      ],
-      "uuid": "1c04e622-d00f-4152-b085-8ecf7f4be21d"
-    },
-    {
       "start_time": 687,
       "end_time": 702,
       "annotation": [
