@@ -1070,6 +1070,27 @@
         }
       ],
       "uuid": "cf79076c-70e8-41c3-a13f-decc626b3792"
+    },
+    {
+      "start_time": 702,
+      "end_time": 707,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coughing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "c2fd0699-8063-47fc-9094-f7911d18366f"
     }
   ],
   "set": "Default",
