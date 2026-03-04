@@ -1049,6 +1049,27 @@
         }
       ],
       "uuid": "6b2b88a2-b083-47c8-87dd-1262f45c31c4"
+    },
+    {
+      "start_time": 112,
+      "end_time": 117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Loud metallic sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "7a2dd2a8-748e-4b78-b815-92b37d4fb5c5"
     }
   ],
   "set": "Default",
