@@ -842,27 +842,6 @@
     },
     {
       "start_time": 972,
-      "end_time": 972,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Rhythmic drumming."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Setting and Tech",
-          "tag": "Music"
-        }
-      ],
-      "uuid": "2969d255-361c-4a30-94d5-6b0f59d6d38d"
-    },
-    {
-      "start_time": 972,
       "end_time": 1022,
       "annotation": [
         {
