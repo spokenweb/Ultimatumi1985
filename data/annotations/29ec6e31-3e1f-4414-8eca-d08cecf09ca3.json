@@ -755,6 +755,27 @@
         }
       ],
       "uuid": "b70675bc-eb23-4766-ae37-c279eb7544bb"
+    },
+    {
+      "start_time": 970,
+      "end_time": 974,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Water gushing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tech",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "1d08c523-4170-4b18-be12-717ca7b75640"
     }
   ],
   "set": "Default",
