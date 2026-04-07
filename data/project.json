@@ -149,10 +149,6 @@
           "tag": "Foufounes Electriques"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Tech"
-        },
-        {
           "category": "Setting and Tech",
           "tag": "Performers and Speakers"
         },
@@ -399,7 +395,7 @@
       ]
     },
     "created_at": "2026-03-02T16:12:16.956Z",
-    "updated_at": "2026-04-07T20:49:50.571Z",
+    "updated_at": "2026-04-07T20:49:53.585Z",
     "generate_pages_site": false
   },
   "annotations": {},
