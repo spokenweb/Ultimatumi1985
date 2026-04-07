@@ -1,5 +1,3240 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs piece, vocalists speak rhythmically [French] atop electronic Setting and Tech: Music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe"
+        }
+      ],
+      "uuid": "77ebddc5-82f9-4003-a6f3-971d46296300"
+    },
+    {
+      "start_time": 203,
+      "end_time": 204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Setting and Tech: Music stops."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "62737946-6611-4f8a-bf20-23b95ec36d0e"
+    },
+    {
+      "start_time": 204,
+      "end_time": 211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe"
+        }
+      ],
+      "uuid": "cb2c2dfb-9c55-4cb7-a0f7-391449da451e"
+    },
+    {
+      "start_time": 211,
+      "end_time": 212,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "4a5ebf5d-f82f-448d-92aa-58eebbfc0ab5"
+    },
+    {
+      "start_time": 212,
+      "end_time": 213,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bien."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe Member"
+        }
+      ],
+      "uuid": "211e4b54-3312-4451-9288-6c3163144fd3"
+    },
+    {
+      "start_time": 213,
+      "end_time": 214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "c176d221-7045-431f-87f2-4d9c10165ffd"
+    },
+    {
+      "start_time": 214,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "a0c537ce-2183-436f-ad25-45d3a661baef"
+    },
+    {
+      "start_time": 220,
+      "end_time": 223,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tambourine, cowbell, and highhat hits."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "2071352d-5ddf-473b-a643-7cc98c0bfb81"
+    },
+    {
+      "start_time": 223,
+      "end_time": 225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "1dfb9bd5-467d-4585-8e20-9e9666c5fa81"
+    },
+    {
+      "start_time": 225,
+      "end_time": 226,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Silence [possible tape change]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "6bb072dc-a611-4ca1-a606-60b4fcd88a5c"
+    },
+    {
+      "start_time": 226,
+      "end_time": 228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic Setting and Tech: Music [synthesizer]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "eaa80607-9812-4cc2-ade2-6a022ffd1611"
+    },
+    {
+      "start_time": 228,
+      "end_time": 229,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "84ac7400-cb04-40b8-8ad3-ce326b154f3c"
+    },
+    {
+      "start_time": 229,
+      "end_time": 232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man speaking [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "a881b528-7414-4d4c-b00c-6b431581bbda"
+    },
+    {
+      "start_time": 232,
+      "end_time": 236,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Skips on a loop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "d632529e-5ab3-47b0-890e-8f0c1ca32c4b"
+    },
+    {
+      "start_time": 236,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise, chatter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "7be75b13-4663-4fc0-a89b-444258a98fad"
+    },
+    {
+      "start_time": 240,
+      "end_time": 241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "e937baf4-00b7-4591-94bd-1428458fea59"
+    },
+    {
+      "start_time": 241,
+      "end_time": 248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise, chatter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "d5b652b9-89c9-440e-bf99-36ad3e16b722"
+    },
+    {
+      "start_time": 248,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "d138a1a6-2051-4d53-ae73-69d4c85fd449"
+    },
+    {
+      "start_time": 250,
+      "end_time": 252,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "2dfc9987-4217-4074-9107-7bcb09862184"
+    },
+    {
+      "start_time": 252,
+      "end_time": 255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes then skips on a loop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "3394ea42-1446-4bda-b2f6-8d05eb1c5d9d"
+    },
+    {
+      "start_time": 255,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaks [unintelligable]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Performers and Speakers"
+        }
+      ],
+      "uuid": "9f1b6eca-f879-4d40-8a32-f3c1b6e5c19d"
+    },
+    {
+      "start_time": 257,
+      "end_time": 259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audio loop resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "d2a9d873-224d-421d-9f23-d5b346a5c865"
+    },
+    {
+      "start_time": 259,
+      "end_time": 260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "5a605bfc-a010-4196-a88f-9ea7378f152d"
+    },
+    {
+      "start_time": 260,
+      "end_time": 264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "d30686aa-774b-4052-9089-b12a60c27729"
+    },
+    {
+      "start_time": 264,
+      "end_time": 266,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "95e437eb-128f-436c-8ab3-f6572667e0ee"
+    },
+    {
+      "start_time": 266,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs piece, vocalist speaks [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe"
+        }
+      ],
+      "uuid": "e9b48e6e-70c6-413d-ae94-0b838f5e7ebd"
+    },
+    {
+      "start_time": 270,
+      "end_time": 281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes then skips on a loop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "66b7cd08-69c9-4b0c-af79-32778e5eb469"
+    },
+    {
+      "start_time": 281,
+      "end_time": 289,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise, chatter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "284e1c6c-ae34-41bd-aa23-f683b4e7cb11"
+    },
+    {
+      "start_time": 289,
+      "end_time": 291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audio loop resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "7cf96d0f-a661-4343-bd25-dfff9f05bd7d"
+    },
+    {
+      "start_time": 291,
+      "end_time": 292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaks [unintelligable]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Performers and Speakers"
+        }
+      ],
+      "uuid": "27a95389-7496-4b12-8a23-774798074849"
+    },
+    {
+      "start_time": 292,
+      "end_time": 299,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes then skips on a loop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "4b11ab55-9bcb-4e2b-b725-1d5e6f76755c"
+    },
+    {
+      "start_time": 299,
+      "end_time": 301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaks [unintelligable]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Performers and Speakers"
+        }
+      ],
+      "uuid": "cb580971-e457-45cb-89a4-0d22fcc14654"
+    },
+    {
+      "start_time": 301,
+      "end_time": 304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes then skips on a loop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "8dc728ef-d25d-4a72-9e3e-233cfe4871b5"
+    },
+    {
+      "start_time": 304,
+      "end_time": 306,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shouts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "06eabce5-43e5-44b8-b00d-d5fe49024390"
+    },
+    {
+      "start_time": 306,
+      "end_time": 308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "dc1f30f8-97c7-4c28-836e-3df6ec796622"
+    },
+    {
+      "start_time": 308,
+      "end_time": 316,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes then skips on a loop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "5999eabf-e976-4f94-a845-24703f903c6e"
+    },
+    {
+      "start_time": 316,
+      "end_time": 319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise, chatter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "0e8b0a2f-47e5-49e6-8294-f7a2fb0f2db1"
+    },
+    {
+      "start_time": 319,
+      "end_time": 321,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes then skips on a loop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "2ef1c60c-8a60-480c-b65b-6a1667a40d56"
+    },
+    {
+      "start_time": 321,
+      "end_time": 322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "fa1bffe5-4502-4893-a055-b010c0c2a650"
+    },
+    {
+      "start_time": 322,
+      "end_time": 324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audio loop resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "0c79cb1f-8ce3-4873-a42f-ad5a5dcdc900"
+    },
+    {
+      "start_time": 324,
+      "end_time": 327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "1cf3ec4b-05bc-4c0c-943a-0bf0ff213f2a"
+    },
+    {
+      "start_time": 327,
+      "end_time": 337,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes then skips on a loop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "b84b3700-4b7b-4b98-896f-c29257006f5a"
+    },
+    {
+      "start_time": 337,
+      "end_time": 341,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise, chatter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "051da55b-759d-4dd3-a038-f7fb609b8d05"
+    },
+    {
+      "start_time": 341,
+      "end_time": 344,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "15415e1d-8c11-4ced-a407-077519dc70c3"
+    },
+    {
+      "start_time": 344,
+      "end_time": 347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "3729ff9a-7e47-4cc7-aa4b-1171937d7f12"
+    },
+    {
+      "start_time": 347,
+      "end_time": 353,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audio loop resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "42c7f0dc-ea74-4938-bd60-a1e52da882cc"
+    },
+    {
+      "start_time": 353,
+      "end_time": 356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaks [unintelligable]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Performers and Speakers"
+        }
+      ],
+      "uuid": "e7d83648-332f-40dd-8fac-c2ca5e06399a"
+    },
+    {
+      "start_time": 356,
+      "end_time": 357,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audio loop resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "1e2cf38d-acfa-40b4-a5fe-0978106fa61a"
+    },
+    {
+      "start_time": 357,
+      "end_time": 359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, vocalist speaks [French] over audio loop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe"
+        }
+      ],
+      "uuid": "802fd75c-3fa5-4c58-a0e0-6c15ad9c8a7e"
+    },
+    {
+      "start_time": 359,
+      "end_time": 362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whooping, soft clap, whistle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "e192c921-b75c-4082-bd50-17d750a2a77f"
+    },
+    {
+      "start_time": 362,
+      "end_time": 366,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audio loop continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "e54f9651-6292-40f0-a65f-949b01635864"
+    },
+    {
+      "start_time": 366,
+      "end_time": 368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, vocalist speaks [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe"
+        }
+      ],
+      "uuid": "96a13a6b-e75d-4828-bcc5-95831de0bac3"
+    },
+    {
+      "start_time": 368,
+      "end_time": 369,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soft laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "199a04d5-9236-432e-aee8-7c03f6c8780d"
+    },
+    {
+      "start_time": 369,
+      "end_time": 371,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, vocalist speaks [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe"
+        }
+      ],
+      "uuid": "91e4cb00-745e-4954-9998-5624adc2297b"
+    },
+    {
+      "start_time": 371,
+      "end_time": 381,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audio loop resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "569c6626-3001-4a88-9426-0ba8c1ccfb31"
+    },
+    {
+      "start_time": 381,
+      "end_time": 385,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, vocalist speaks [French] over audio loop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe"
+        }
+      ],
+      "uuid": "86e740f4-0e99-49bf-ad5d-9d77794ec329"
+    },
+    {
+      "start_time": 385,
+      "end_time": 386,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Microphone feedback."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "e72c9895-87bb-47e2-acb1-1bf1e4763926"
+    },
+    {
+      "start_time": 386,
+      "end_time": 388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audio loop resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "92677436-d150-4561-a4db-f9c52162c962"
+    },
+    {
+      "start_time": 388,
+      "end_time": 391,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Microphone feedback."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "0329046c-d078-45b0-b762-ce737165b03a"
+    },
+    {
+      "start_time": 391,
+      "end_time": 392,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "9eeeab08-0e43-4800-afad-00f7f81d65ff"
+    },
+    {
+      "start_time": 392,
+      "end_time": 396,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audio loop resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "eaf9807a-8132-465b-93d1-eb2844d68457"
+    },
+    {
+      "start_time": 396,
+      "end_time": 398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "129cc486-9e01-4f99-9421-1ff65b027190"
+    },
+    {
+      "start_time": 398,
+      "end_time": 407,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audio loop resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "3009d777-d2bc-4f28-ba22-a453df46cbe2"
+    },
+    {
+      "start_time": 407,
+      "end_time": 408,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Distant voice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "9d0fc685-39cf-4526-9aca-5f9f8b2ed814"
+    },
+    {
+      "start_time": 408,
+      "end_time": 444,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audio loop continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "c5010f33-891a-4230-a28e-5be523107831"
+    },
+    {
+      "start_time": 444,
+      "end_time": 448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, vocalist speaks [French] over recorded audio loop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe"
+        }
+      ],
+      "uuid": "1f117989-aee0-43a6-85ba-35111ef2f037"
+    },
+    {
+      "start_time": 448,
+      "end_time": 449,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Power down sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "8c5cfb1f-cbc5-4cb8-b054-f8cabf0a14da"
+    },
+    {
+      "start_time": 449,
+      "end_time": 451,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "e29e36a3-635c-40bd-b3c6-f8f02b821eec"
+    },
+    {
+      "start_time": 450,
+      "end_time": 455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay now, Jesus. Jesus."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe Member"
+        }
+      ],
+      "uuid": "27462810-df76-48d7-8961-3bd786d13d96"
+    },
+    {
+      "start_time": 455,
+      "end_time": 456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ouais!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Performers and Speakers"
+        }
+      ],
+      "uuid": "c1474d13-53ee-495b-9b8f-fbd0e6b2c958"
+    },
+    {
+      "start_time": 456,
+      "end_time": 457,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coughs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe Member"
+        }
+      ],
+      "uuid": "53acf21e-1256-4f92-92eb-79594facee15"
+    },
+    {
+      "start_time": 457,
+      "end_time": 461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheering and exclamations [unintelligable]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Performers and Speakers"
+        }
+      ],
+      "uuid": "66e63829-3342-4253-9aab-4f789eb20966"
+    },
+    {
+      "start_time": 461,
+      "end_time": 464,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaks [unintelligable]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe Member"
+        }
+      ],
+      "uuid": "b9f0acc9-2ff9-4118-bfdd-e8ac73d135e5"
+    },
+    {
+      "start_time": 464,
+      "end_time": 469,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "58dd76c3-ca73-4da8-acb4-728eb8a319df"
+    },
+    {
+      "start_time": 469,
+      "end_time": 478,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Carnivalesque electronic Setting and Tech: Music [synth, horns]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "54c54bb2-a92e-46fb-8d1d-36cf9cafef91"
+    },
+    {
+      "start_time": 478,
+      "end_time": 511,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs “JESUS”, vocalists sing [French] in sync atop Setting and Tech: Music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe"
+        }
+      ],
+      "uuid": "69ce623c-5ca6-4dbd-b047-4087f4650848"
+    },
+    {
+      "start_time": 511,
+      "end_time": 548,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Carnivalesque electronic Setting and Tech: Music continues [electronic keyboard solo, guira, tambourine]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "1fe56301-34ac-4abf-b9a8-63253d4f4e3a"
+    },
+    {
+      "start_time": 548,
+      "end_time": 584,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, vocals resume atop Setting and Tech: Music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe"
+        }
+      ],
+      "uuid": "8ec4a82e-b4ae-4d02-b52a-2f7554a247a8"
+    },
+    {
+      "start_time": 584,
+      "end_time": 617,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Carnivalesque electronic Setting and Tech: Music continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "46a0b590-fc4a-4cfa-a659-87e603df8bc9"
+    },
+    {
+      "start_time": 617,
+      "end_time": 618,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "5c752a1f-315c-4d0b-ae34-225fc945751a"
+    },
+    {
+      "start_time": 618,
+      "end_time": 629,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "2630b56e-93e3-4b5c-ba57-d411ebb7e061"
+    },
+    {
+      "start_time": 629,
+      "end_time": 651,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "3b922368-a845-4b4c-96b9-85f2782bfd19"
+    },
+    {
+      "start_time": 651,
+      "end_time": 682,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rising and falling electronic beat [synthesizer, clapping]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "6cf36039-2936-4824-9c24-d10838c95f2e"
+    },
+    {
+      "start_time": 682,
+      "end_time": 769,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs piece, vocalists speak rhythmically atop Setting and Tech: Music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe"
+        }
+      ],
+      "uuid": "3f4e3403-9718-4543-94db-c846d8933760"
+    },
+    {
+      "start_time": 769,
+      "end_time": 775,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rising and falling electronic beat continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "6c60faaa-5098-415e-83c7-8b5f7cacd35f"
+    },
+    {
+      "start_time": 775,
+      "end_time": 777,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Echo sound effect."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe"
+        }
+      ],
+      "uuid": "572bf4da-6a78-42ed-b972-b25760e5a7e0"
+    },
+    {
+      "start_time": 777,
+      "end_time": 787,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "2a26aa6a-7641-412d-84d2-8f8984728959"
+    },
+    {
+      "start_time": 787,
+      "end_time": 797,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "5cb38a63-5079-40f7-a216-5d35230f1dc7"
+    },
+    {
+      "start_time": 797,
+      "end_time": 899,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic Setting and Tech: Music [synthesizer, electronic keyboard]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "fcbd64ae-2ed2-4188-92fb-9cd9500d700b"
+    },
+    {
+      "start_time": 899,
+      "end_time": 902,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "e520c6bb-6fc2-493d-9f7b-0b16fd9f4422"
+    },
+    {
+      "start_time": 902,
+      "end_time": 909,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "937d0bc2-2cb8-4e80-9631-d66f0e0a4235"
+    },
+    {
+      "start_time": 909,
+      "end_time": 912,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Le demi pouce, le demi pouce. Ou est le demi pouce ?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe Member"
+        }
+      ],
+      "uuid": "3bc9b9cf-d623-4903-ae05-7078d57f69b3"
+    },
+    {
+      "start_time": 912,
+      "end_time": 915,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Giggles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Performers and Speakers"
+        }
+      ],
+      "uuid": "295533bd-f038-4a71-a2ee-d4d1fb286a36"
+    },
+    {
+      "start_time": 915,
+      "end_time": 917,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "39b0cc7d-8bfa-4436-a7a5-d2193fa849db"
+    },
+    {
+      "start_time": 917,
+      "end_time": 920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Silence [possible tape change]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "3d7a1a61-973d-4d73-a0ac-f70018f1b49e"
+    },
+    {
+      "start_time": 920,
+      "end_time": 934,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs piece, vocalist sings [French] over electronic Setting and Tech: Music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe"
+        }
+      ],
+      "uuid": "e6a745f9-4416-4dcc-999e-08ee56217beb"
+    },
+    {
+      "start_time": 934,
+      "end_time": 936,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Microphone feedback."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "c9a0b877-91c9-435e-be2b-13987ed6b9de"
+    },
+    {
+      "start_time": 936,
+      "end_time": 1027,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe"
+        }
+      ],
+      "uuid": "48f82361-5f24-42e3-a2ab-369f1bc3469b"
+    },
+    {
+      "start_time": 1027,
+      "end_time": 1035,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "95ca073f-899a-4212-8baa-090bf9d4c7c9"
+    },
+    {
+      "start_time": 1035,
+      "end_time": 1051,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic beat [electronic drums, synthesizer, electronic keyboard]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "62223a44-76cb-4619-8a06-5a77435b0778"
+    },
+    {
+      "start_time": 1051,
+      "end_time": 1053,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs piece, vocalist speaks rhythmically [Spanish]atop electronic beat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe"
+        }
+      ],
+      "uuid": "7e640adc-2d4e-45c4-b4e2-f0e630e6b66a"
+    },
+    {
+      "start_time": 1053,
+      "end_time": 1060,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic beat continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "9aac228e-132e-4da8-890e-f8ebb3ec1174"
+    },
+    {
+      "start_time": 1060,
+      "end_time": 1063,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, vocalist resumes rhythmic speech."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe"
+        }
+      ],
+      "uuid": "d3a1c756-5284-4602-9418-b928746517b0"
+    },
+    {
+      "start_time": 1063,
+      "end_time": 1069,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic beat continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "4d657181-ae46-4947-afff-1c80bbb057a6"
+    },
+    {
+      "start_time": 1069,
+      "end_time": 1137,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, vocalists speak and shout rhythmically [Spanish] atop Setting and Tech: Music, echo effects."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe"
+        }
+      ],
+      "uuid": "780e31e0-aaa3-40b2-a1d0-37d4a8515fdf"
+    },
+    {
+      "start_time": 1137,
+      "end_time": 1145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause, coughing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "e19347c2-df90-437a-a21d-bcfbffe47a02"
+    },
+    {
+      "start_time": 1145,
+      "end_time": 1151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hey, Alan Lord. Hey, come on. [Echoing]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe Member"
+        }
+      ],
+      "uuid": "b04a9435-7f53-4a2b-8140-89321c39b79f"
+    },
+    {
+      "start_time": 1148,
+      "end_time": 1150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let’s improvise something."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown Speaker"
+        }
+      ],
+      "uuid": "7f60a787-616e-44d9-8b14-f2e6eac99cde"
+    },
+    {
+      "start_time": 1150,
+      "end_time": 1151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have to play the guitar now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe Member"
+        }
+      ],
+      "uuid": "c5f237fa-8fbd-442b-b1db-0fac47ef91db"
+    },
+    {
+      "start_time": 1151,
+      "end_time": 1152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "3a3e0bd5-b040-4967-a105-9a814bf0f039"
+    },
+    {
+      "start_time": 1152,
+      "end_time": 1155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clapping."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Performers and Speakers"
+        }
+      ],
+      "uuid": "a1fb44ee-40b5-40f8-a7ba-354c2e684824"
+    },
+    {
+      "start_time": 1155,
+      "end_time": 1158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "His name is Alan Lord. He’s a friend."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe Member"
+        }
+      ],
+      "uuid": "8278dbf1-884a-48af-ba1a-7af344c0030e"
+    },
+    {
+      "start_time": 1158,
+      "end_time": 1160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Alan Lord."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown Speaker"
+        }
+      ],
+      "uuid": "16fdf9c1-f70d-4dba-8784-893bfc9a8213"
+    },
+    {
+      "start_time": 1160,
+      "end_time": 1169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaks [Spanish extra-poetic speech]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe Member"
+        }
+      ],
+      "uuid": "4ce45a70-5de4-471d-9473-2fa5688ed4b0"
+    },
+    {
+      "start_time": 1169,
+      "end_time": 1173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shouts [Spanish]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Performers and Speakers"
+        }
+      ],
+      "uuid": "fe672fb2-f6bc-4612-8744-c6e24e8f507c"
+    },
+    {
+      "start_time": 1173,
+      "end_time": 1176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "6b34c238-8b20-431e-8499-e23e831fd078"
+    },
+    {
+      "start_time": 1176,
+      "end_time": 1184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise, chatter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "7c636c96-ae82-44ca-a178-2efa9b77878d"
+    },
+    {
+      "start_time": 1184,
+      "end_time": 1184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bon ben."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe Member"
+        }
+      ],
+      "uuid": "fb0104bd-efe8-4087-8abf-8531ed08b60c"
+    },
+    {
+      "start_time": 1184,
+      "end_time": 1186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues speaking [unintelligible]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe Member"
+        }
+      ],
+      "uuid": "7e4a6820-7312-492d-96ca-085e3dddd91d"
+    },
+    {
+      "start_time": 1186,
+      "end_time": 1191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "6b20c973-762c-4c2e-989e-382d2f833a1a"
+    },
+    {
+      "start_time": 1191,
+      "end_time": 1193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Du drame s’il vous plait."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe Member"
+        }
+      ],
+      "uuid": "e5bd3c95-8e4b-4454-8ce1-0fe65edb6d11"
+    },
+    {
+      "start_time": 1193,
+      "end_time": 1195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "7f77ed74-140b-401e-8906-abe384b2712f"
+    },
+    {
+      "start_time": 1195,
+      "end_time": 1198,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Drum beat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "ec9280d9-c523-4c65-8904-f5d13703d7e6"
+    },
+    {
+      "start_time": 1198,
+      "end_time": 1200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe Member"
+        }
+      ],
+      "uuid": "500005dd-75bb-46d0-b812-9c122f4b7c15"
+    },
+    {
+      "start_time": 1200,
+      "end_time": 1205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "69f0cf23-62b6-4a47-9e5f-95d1fe7564c4"
+    },
+    {
+      "start_time": 1205,
+      "end_time": 1207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is all brand new."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe Member"
+        }
+      ],
+      "uuid": "c791fdfe-739b-4280-85b0-92653e6e166a"
+    },
+    {
+      "start_time": 1207,
+      "end_time": 1209,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "a5ed05ca-a91b-44e5-a4ee-b69bd08d0cf6"
+    },
+    {
+      "start_time": 1208,
+      "end_time": 1209,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you wanna do it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe Member"
+        }
+      ],
+      "uuid": "97d235e3-db5a-4d31-b19a-b4aa59c0a7f0"
+    },
+    {
+      "start_time": 1209,
+      "end_time": 1210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that’s great."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown Speaker"
+        }
+      ],
+      "uuid": "0da09cba-7fa1-41e1-b6dc-d8c393c16062"
+    },
+    {
+      "start_time": 1210,
+      "end_time": 1211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "e39e179d-41c0-4de2-932b-3f4bed84d13b"
+    },
+    {
+      "start_time": 1211,
+      "end_time": 1213,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Drum beat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "53f4740f-4227-4e4a-9d61-af39b850f98b"
+    },
+    {
+      "start_time": 1213,
+      "end_time": 1215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "911f64b7-3ce9-48ce-ab18-8f5f64ec8c34"
+    },
+    {
+      "start_time": 1215,
+      "end_time": 1239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Setting and Tech: Technologie retrogade [cowbell], mais euh [voice effect], on voit que encore malgre tout, avec tout le signal analogue comme ca que [echo effect] l’on possede et que l’on manipule, il y a encore des gens mal pris que nous [echo effect]. Ah ouais. Jouer pas avec mes ners la parce que je’n peux plus la, je’n suis plus capable la, je vais craquer la. Okay. [Distorted echo effect]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe Member"
+        }
+      ],
+      "uuid": "54506ce7-df7d-4884-b3fb-c71f8170bff8"
+    },
+    {
+      "start_time": 1239,
+      "end_time": 1240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "0dc00ef4-1618-4458-96fa-f1c9e4334f27"
+    },
+    {
+      "start_time": 1240,
+      "end_time": 1243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Euh, tu veux te rire de moi, toi ?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe Member"
+        }
+      ],
+      "uuid": "394faf62-cc37-4eef-a117-a2f47054e980"
+    },
+    {
+      "start_time": 1243,
+      "end_time": 1246,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soundboard sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "92e53cb4-f484-4619-9e67-52804bd2addc"
+    },
+    {
+      "start_time": 1246,
+      "end_time": 1250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mais c’est bien cette machine la, j’en veux une."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe Member"
+        }
+      ],
+      "uuid": "109ae4a1-0ce6-4a62-a297-21c47ed1ce01"
+    },
+    {
+      "start_time": 1250,
+      "end_time": 1255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise, chatter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "75fd17ff-a9a2-4050-a0f7-0c8fd3e264cd"
+    },
+    {
+      "start_time": 1255,
+      "end_time": 1257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El maestro."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe Member"
+        }
+      ],
+      "uuid": "ff681340-3fa6-457f-bb7c-c98ba87c6f5e"
+    },
+    {
+      "start_time": 1257,
+      "end_time": 1264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic beat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "695b1fdd-76fd-4ab2-a91e-30230dd561ce"
+    },
+    {
+      "start_time": 1264,
+      "end_time": 1266,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Echo, echo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe Member"
+        }
+      ],
+      "uuid": "599155c7-b8ba-4685-a2a1-ded9f0106e10"
+    },
+    {
+      "start_time": 1266,
+      "end_time": 1273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic beat continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "5d3fe3bc-6aaa-4b46-9025-bea460b20c1c"
+    },
+    {
+      "start_time": 1273,
+      "end_time": 1285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic beat continues overlaid with electric guitar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "4d7942cd-0228-4a7e-8d6d-d038fdffd29d"
+    },
+    {
+      "start_time": 1285,
+      "end_time": 1300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs piece, vocalist sings atop electronic beat [English]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe"
+        }
+      ],
+      "uuid": "e97eb987-bdf6-43d3-935f-42fe669e6d96"
+    },
+    {
+      "start_time": 1300,
+      "end_time": 1305,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guitar gets louder then recedes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "ce4a1d7f-fdda-479f-8458-874d955e98b2"
+    },
+    {
+      "start_time": 1305,
+      "end_time": 1379,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe"
+        }
+      ],
+      "uuid": "3dc33354-c86e-4368-9ec0-c285f6282118"
+    },
+    {
+      "start_time": 1319,
+      "end_time": 1370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, second vocalist joins."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe"
+        }
+      ],
+      "uuid": "d815542d-af0d-4f0a-aac6-3eaafc94d731"
+    },
+    {
+      "start_time": 1370,
+      "end_time": 1376,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic beat continues,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "de3c7092-7812-4dc4-96c9-deb562ee88f8"
+    },
+    {
+      "start_time": 1376,
+      "end_time": 1462,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, vocalists resume singing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe"
+        }
+      ],
+      "uuid": "b1273e1d-f037-4aa0-8648-c3bc39702de4"
+    },
+    {
+      "start_time": 1462,
+      "end_time": 1470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic beat continues]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "386feb8e-5f01-4fb7-963d-9961b8c27568"
+    },
+    {
+      "start_time": 1470,
+      "end_time": 1512,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, vocalists resume singing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Boys du Severe"
+        }
+      ],
+      "uuid": "759c9cc9-0902-4b5e-b79e-7f606eda1a2d"
+    },
+    {
+      "start_time": 1512,
+      "end_time": 1518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "f33d5bb7-7d2c-4dee-9957-3c903af3bdb8"
+    },
+    {
+      "start_time": 1518,
+      "end_time": 1521,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuts out, silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "70a4ca30-57f5-45ee-acb0-543218fb87f2"
+    },
+    {
+      "start_time": 1521,
+      "end_time": 1521,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of Setting and Tech: Recording]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "41eb9abc-ebe2-420f-bffa-970b1db8159e"
+    }
+  ],
   "event_id": "95cf2883-68d9-45ed-bc56-446a52d6f21c",
   "set": "Main",
   "source_id": "1f89c35d-bd66-4a5c-b06b-67022c9aaaff"
