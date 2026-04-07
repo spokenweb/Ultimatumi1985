@@ -150,10 +150,6 @@
         },
         {
           "category": "Performers and Speakers",
-          "tag": "Performers and Speakers"
-        },
-        {
-          "category": "Performers and Speakers",
           "tag": "Daniel Guimond"
         },
         {
@@ -511,7 +507,7 @@
       ]
     },
     "created_at": "2026-03-02T16:12:16.956Z",
-    "updated_at": "2026-04-07T20:46:33.033Z",
+    "updated_at": "2026-04-07T20:46:36.088Z",
     "generate_pages_site": false
   },
   "annotations": {},
