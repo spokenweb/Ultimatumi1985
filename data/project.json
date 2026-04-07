@@ -109,10 +109,6 @@
           "category": "Setting and Tech"
         },
         {
-          "tag": "Founfounes Electriques",
-          "category": "Setting and Tech"
-        },
-        {
           "tag": "Music",
           "category": "Setting and Tech"
         },
@@ -363,7 +359,7 @@
       ]
     },
     "created_at": "2026-03-02T16:12:16.956Z",
-    "updated_at": "2026-04-07T20:50:17.728Z",
+    "updated_at": "2026-04-07T20:50:59.249Z",
     "generate_pages_site": false
   },
   "annotations": {},
