@@ -193,10 +193,6 @@
           "tag": "Tech"
         },
         {
-          "category": "Performers and Speakers",
-          "tag": "Boys du Severe"
-        },
-        {
           "category": "Setting and Tech",
           "tag": "Performers and Speakers"
         },
@@ -319,7 +315,7 @@
       ]
     },
     "created_at": "2026-03-02T16:12:16.956Z",
-    "updated_at": "2026-04-09T13:17:20.597Z",
+    "updated_at": "2026-04-09T13:17:23.974Z",
     "generate_pages_site": false
   },
   "annotations": {
