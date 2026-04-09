@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "6ae8deec-d152-40ed-b7c0-20df4bd8a8ce": {
+      "label": "Karl Jirgens at Ultimatum I, 1985",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://www.youtube.com/watch?v=HVAhFtWMPsI",
+      "duration": 1375,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following is a transcription of Karl Jirgens’ performance at the Ultimatum Festival I, Sunday, May 5th, 1985 at the Foufounes Electriques bar and performance space in Montreal. Jirgens is the author of six books (Travesties, The Razor’s Edge, Eco Blues: A Tale in 3 Parts, A Measure of Time, and Strappado), the former English Department Head and chair of the Creative Writing Program at the University of Windsor, and the founder of Rampike magazine. He is an ELIT awards bronze medalist and his poetry is included in The Best Poetry of Canada (2023). In Alan Lord’s memoir High Friends in Low Places (2022), he writes that Jirgens \"[gave] his reading with a pair of guns pointed at his temples, held by a strap over his head\"."
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Karl Jirgens at Ultimatum Festival 1985-05-05",
+  "av_file_order": [
+    "6ae8deec-d152-40ed-b7c0-20df4bd8a8ce"
+  ],
+  "created_at": "2026-04-09T15:00:40.689Z",
+  "created_by": "spokenweb",
+  "updated_at": "2026-04-09T15:00:40.690Z",
+  "updated_by": "spokenweb"
+}
