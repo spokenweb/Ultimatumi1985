@@ -1,5 +1,1077 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "a172679b-f54a-4f44-8caa-bce783224ea5"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Unintelligible] dans la salle, hein ?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "ad5fb4a7-40cd-4382-b66c-5237b9bafc01"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "2fcf7242-f005-4ac2-aace-7c19d27a4176"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ca n'est pas un gros probleme."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "72985190-d083-419a-8e2d-e830ccd8e61e"
+    },
+    {
+      "start_time": 8,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "f2f4922c-bc22-4b1f-a40d-fe399b753495"
+    },
+    {
+      "start_time": 12,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaks [unintelligible]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "11cc4c92-534a-455b-8fda-1a79b78c08eb"
+    },
+    {
+      "start_time": 14,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "18417fda-e3fd-40ec-ab65-043b85805908"
+    },
+    {
+      "start_time": 17,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. Une chanson pour Pagliaro. Que j'ai fait pour Paglio que j'ai jamais chante evidemment. C'est trop epe, qui dit…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "4ecf7df8-87b7-4b48-ad32-721f9cf48566"
+    },
+    {
+      "start_time": 24,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaks [unintelligible]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "f9e55920-40e4-49a4-867b-09ef71df5013"
+    },
+    {
+      "start_time": 26,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eugh. Et j'ai commence par [maybe:Rafenbag], je fini par Pagliaro, bon."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "c5c92435-32aa-4356-b625-e88ebfd7421f"
+    },
+    {
+      "start_time": 32,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Il y a une personne qui veulent chante."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "970d903a-76c3-40ce-bed7-8cf4b7a2bf42"
+    },
+    {
+      "start_time": 33,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Il y a une personne qui veulent chante."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "8bab9fc3-2663-45e5-b026-f00d73a673dc"
+    },
+    {
+      "start_time": 35,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mais [maybe:Janice] a envi la."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "7abe37a3-84cd-49f9-bb60-3ba1164090c1"
+    },
+    {
+      "start_time": 36,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bon b'en elle restera la. Bon il s'appelle \"Les baisers\". Chanson pour Jarry et le group [maybe:Offenbach]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "280f3d0b-ee26-4b06-9c54-84c33641e2ee"
+    },
+    {
+      "start_time": 45,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reads \"Les baisers\" [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "2376712d-7dcc-4559-aacd-dddb5ee7c922"
+    },
+    {
+      "start_time": 133,
+      "end_time": 143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "deb6b4fd-ce53-4845-ab30-6fa422f00b4b"
+    },
+    {
+      "start_time": 143,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaks [unintelligable]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "5d62506a-5ce5-4ede-821c-488882fbcd1f"
+    },
+    {
+      "start_time": 150,
+      "end_time": 154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Viens tu ? Viens tu, ou t’a peur ?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "c5fa6638-4e88-428d-90fd-7c6c5c39a885"
+    },
+    {
+      "start_time": 154,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaks [unintelligable]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "0ae9b5a8-6cf4-4a49-8991-8ef6639653af"
+    },
+    {
+      "start_time": 155,
+      "end_time": 157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bon ben viens pas. Vient en."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "8af5ebf2-c400-4167-b9a7-da2440e106aa"
+    },
+    {
+      "start_time": 157,
+      "end_time": 158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaks [unintelligable]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "\"Marie\""
+        }
+      ],
+      "uuid": "d21f3328-879d-4037-8d74-c2aa8701b976"
+    },
+    {
+      "start_time": 155,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oui je le veux. Je [maybe:film] le reste. Non, mais, esti… Si t'es pas capable, dis les pas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "ff2cbd3a-4f25-4719-a842-ff618539625e"
+    },
+    {
+      "start_time": 165,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "41dfd04b-90f0-4bb0-bce7-7caec98cd305"
+    },
+    {
+      "start_time": 168,
+      "end_time": 170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "J'ai pas besoin du livre."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "\"Marie\""
+        }
+      ],
+      "uuid": "ffd2500a-4fd7-4c21-b13a-35fdb07b9e38"
+    },
+    {
+      "start_time": 170,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaks [unintelligable]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "8058a14f-f6d4-493f-879d-0d055bf78b2e"
+    },
+    {
+      "start_time": 172,
+      "end_time": 229,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs poem by memory [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "\"Marie\""
+        }
+      ],
+      "uuid": "5692c917-1168-48db-878b-6d79f1e88da5"
+    },
+    {
+      "start_time": 229,
+      "end_time": 231,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "bb5e30d8-020b-4ac7-b727-e574fad5a351"
+    },
+    {
+      "start_time": 231,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "a1f03adf-639f-4d02-917a-399e2699e08c"
+    },
+    {
+      "start_time": 240,
+      "end_time": 253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Apres Marie, c'est l'electrolyse masculine. Ca c'est pas loin de ou ce qu'on est la. C'est a [unintelligable]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "e63a5bc9-7abf-41c7-a43b-cd80821e691c"
+    },
+    {
+      "start_time": 253,
+      "end_time": 371,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reads \"L'électrolyse masculine\" [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "4646676d-64ac-442b-913d-27eacc250f1c"
+    },
+    {
+      "start_time": 371,
+      "end_time": 377,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Distorted and clipped audio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "87964caf-574d-4470-9beb-71f34d68d05d"
+    },
+    {
+      "start_time": 377,
+      "end_time": 384,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Distorted audio continues] Euh, ca s'appelle \"Des images de riz\". Ca vient de sortir chez [maybe:BLB], si ca t'interesse la."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "0ef1408a-5420-45b3-b2d8-d70d47211f4b"
+    },
+    {
+      "start_time": 384,
+      "end_time": 413,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Distorted audio continues] Reads \"Des images de riz\" [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "ed41f12f-8087-44f4-b4c9-c02526dfafa3"
+    },
+    {
+      "start_time": 413,
+      "end_time": 413,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Distortion is resolved."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "94e3911d-8e18-41dc-b724-a061c215f1d0"
+    },
+    {
+      "start_time": 413,
+      "end_time": 435,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues \"Des images de riz\" [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "16736e75-a415-48a3-a3ba-71135e9981e9"
+    },
+    {
+      "start_time": 435,
+      "end_time": 439,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ca c'etait pour [unintelligible], c'est cent pourcent."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "817e3529-d9fc-437c-b7b7-366cb3451bef"
+    },
+    {
+      "start_time": 439,
+      "end_time": 444,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "cfa8a594-7d45-45cf-9e8e-3307e19fb7ec"
+    },
+    {
+      "start_time": 444,
+      "end_time": 446,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sharp breath."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "c5e9a02d-8efe-468a-8f32-578a4f80607d"
+    },
+    {
+      "start_time": 446,
+      "end_time": 448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "a67237f7-7927-44e9-93f1-0eff4bc89a4b"
+    },
+    {
+      "start_time": 448,
+      "end_time": 452,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bon. Le dernier. Blackstrap, Vous conaissez-vous ca? Blackstrap–"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "69516eb9-c1aa-4f95-94d9-bfb8a2846c8e"
+    },
+    {
+      "start_time": 452,
+      "end_time": 456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audio cuts out, static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "c40a813b-e9d3-407b-92c5-4973da16438d"
+    },
+    {
+      "start_time": 456,
+      "end_time": 458,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chatter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "0ecd185b-794c-480f-91ba-9b252f6d308e"
+    },
+    {
+      "start_time": 456,
+      "end_time": 458,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Par a…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "66d89619-5a85-48c1-8295-f707e61912ab"
+    },
+    {
+      "start_time": 458,
+      "end_time": 461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Starts reading poem [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "2a2ceaf4-22d8-44eb-b5a1-3135abc96776"
+    },
+    {
+      "start_time": 461,
+      "end_time": 466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Loud chatter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "beff7b3c-bef6-4fc2-9312-bdcdba28ff79"
+    },
+    {
+      "start_time": 466,
+      "end_time": 468,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Parles-y, hello ?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "e19ef318-d3c8-4c43-aac3-adc9a464aa91"
+    },
+    {
+      "start_time": 468,
+      "end_time": 470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chatter continues, laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "57957397-9e1a-4c2c-ba37-317d4f741286"
+    },
+    {
+      "start_time": 470,
+      "end_time": 476,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Sighing], bon ca s'appelle \"Le journal du peuple\". C'est un affair chinoise, la."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "5e333a6a-246e-4865-95c2-9d5bd1564a19"
+    },
+    {
+      "start_time": 476,
+      "end_time": 564,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reads \"Le journal du peuple\" [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "db7e2c4a-d784-45d6-a887-f5abc57c8387"
+    },
+    {
+      "start_time": 564,
+      "end_time": 569,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "de913b79-d5b7-46d6-87a5-20e26316cff5"
+    },
+    {
+      "start_time": 569,
+      "end_time": 569,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "fdc47d5c-a7b6-459e-aab9-39c561469e22"
+    }
+  ],
   "set": "Default",
   "event_id": "b7baa043-d825-4571-ab2c-8db3af02616d",
   "source_id": "b3c998df-60a7-44cf-a1c2-e5c7f9c06178"
