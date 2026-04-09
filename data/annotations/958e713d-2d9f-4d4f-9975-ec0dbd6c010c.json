@@ -1,5 +1,1602 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Static and light clapping sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "b56ddc77-22da-485f-9128-9137c6fb207a"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuts out, silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "8877d387-2c11-4dff-8fb3-00e5195ea0a4"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Maintenant, uh, Karl Jirgens de la revue Rampike, Toronto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Alan Lord"
+        }
+      ],
+      "uuid": "d47d9609-fce7-4737-a2fd-90fef7300b3d"
+    },
+    {
+      "start_time": 6,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "37362d6c-d3a7-434e-bdca-69d05e29fb93"
+    },
+    {
+      "start_time": 22,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chimes ring out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "7823c74d-75e6-436d-bd62-69973958374c"
+    },
+    {
+      "start_time": 34,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Knocking sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "0f6f6dbc-6a34-4500-9980-df6adcc522c5"
+    },
+    {
+      "start_time": 34,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "bdb7a009-9896-485c-bfd6-21028dfbbabf"
+    },
+    {
+      "start_time": 42,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Le langage de silence et la violence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "7094df2b-9538-4706-9080-8d4ab49d02af"
+    },
+    {
+      "start_time": 50,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "8f81433e-a324-49d8-b8c2-39937018c270"
+    },
+    {
+      "start_time": 61,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guttural shout."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "693a8385-f8c1-4a21-96c5-70e309719870"
+    },
+    {
+      "start_time": 62,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "24e4d70d-e720-49bd-922b-995c6ad57226"
+    },
+    {
+      "start_time": 78,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guttural shout."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "2187424e-9864-4ae4-8118-6ae985d7ef76"
+    },
+    {
+      "start_time": 79,
+      "end_time": 83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "8c8b93c5-bd66-4e21-92bd-5a42686ef5f2"
+    },
+    {
+      "start_time": 83,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The language of silence is violence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "db2c288c-faa5-4bfb-83e7-de26922bba4b"
+    },
+    {
+      "start_time": 87,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "dfd4bdc2-b01d-467b-a6a4-fdd2e191063e"
+    },
+    {
+      "start_time": 92,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clapping sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "22859b5c-b904-4c43-92fd-cf17bcbc79d0"
+    },
+    {
+      "start_time": 94,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clinking noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "f05beb20-4731-45d7-924b-ed24f9ffce8b"
+    },
+    {
+      "start_time": 95,
+      "end_time": 98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "3ca2db2e-f98d-416f-a45e-07d01d69519d"
+    },
+    {
+      "start_time": 98,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clicking sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "6c9e8b8f-1ef1-4792-9f98-fa07aa42de45"
+    },
+    {
+      "start_time": 99,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "34489c5c-5bee-464b-a422-b49d11212f67"
+    },
+    {
+      "start_time": 100,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hi folks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "52c8673d-9aa1-4f2c-81b9-02e4e2d1273e"
+    },
+    {
+      "start_time": 101,
+      "end_time": 103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "7b965dd1-4961-4a09-ab96-760a06812c14"
+    },
+    {
+      "start_time": 103,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Percussive sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "c6047686-aa6d-49ce-82ca-4faa9b0666a5"
+    },
+    {
+      "start_time": 104,
+      "end_time": 105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "f1a1b4c9-0a9c-4255-bcf2-51290c0af2eb"
+    },
+    {
+      "start_time": 105,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Page flip sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "3889af0f-645b-4383-9c5b-88d04dddb653"
+    },
+    {
+      "start_time": 106,
+      "end_time": 107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can't hardly see it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "dc3ec328-e3c1-4250-af9a-7c7d00ca3604"
+    },
+    {
+      "start_time": 107,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "2e958369-cc67-4431-9c39-b8d5faee684a"
+    },
+    {
+      "start_time": 112,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Off mic]. Thanks for everybody to come out. I've really enjoyed this show so far. Can we get a little bit lower lights here on my face. [Unintelligible]. Thanks, yeah, that's good. Uh. Yeah. Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "1309de24-29e7-4f72-8405-5d6f92990c3b"
+    },
+    {
+      "start_time": 130,
+      "end_time": 175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[On mic]. He said talk in the mic. [Laughs]. Um. Yeah, I'd like to thank Alan Lord and especially Joe. Everybody. Um. I'd like to begin tonight by talking about the pieces that I won't be doing. Uh. That's because there were a lot of well-intentioned people who wanted to make it out here tonight but they couldn't make it so I'm dedicating this to them. Can we have the lights here in the centre, is that possible? Okay. Don't worry about it. Actually, uh, I was gonna do a poem called \"Le Moncole de Mon Oncle\", but uh, I think that's been done by somebody. Uh, I was gonna do a zen piece called \"My Karma Ran Over Your Dogma\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "4c147ca4-dcf1-4a35-9fe3-5d3bfc23ca3b"
+    },
+    {
+      "start_time": 175,
+      "end_time": 178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chatter and laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "cfd347db-9b7d-4fdd-b3f4-eb9eb40ec5c9"
+    },
+    {
+      "start_time": 178,
+      "end_time": 215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And maybe a, maybe a rap piece 'cause I hear rap is popular though I haven't heard any in Montreal yet. It's called uh, it's got a long title: \"He Was a Winnebago Dego Living Down in Tobego Eatin' a Tomato, Big Fat Tomato, it Was a Deglo Winnebego in the Bushes of Tobego\". Like, the title's almost as long as the piece but [coughs]. Then I was gonna do a, I heard Sylvere's here so I thought maybe what would be appropriate would be a social realist piece, you know so I have one called \"He Got a Temporary Permanent Job at Permanent Trust But He Really Wanted a Permanent Temporary Job at the Dairy Queen\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "4d9d6523-b72f-4b93-ba67-0b59f0e1550d"
+    },
+    {
+      "start_time": 215,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "3a75d86a-4ef3-4fc5-9b2b-2d70f64bcde5"
+    },
+    {
+      "start_time": 220,
+      "end_time": 237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And uh, I was gonna do a piece called \"Address to America\". It's actually a triple pun, it's 'address' as in US mail or 'a dress' as in US female or 'address' as in I'm talking to you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "ed86c858-3628-4224-9887-ace5e114af63"
+    },
+    {
+      "start_time": 237,
+      "end_time": 271,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Starts reciting \"Address to America\" [English]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "42b61253-c400-4bb9-806a-0a65690b228b"
+    },
+    {
+      "start_time": 271,
+      "end_time": 272,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "277fff9c-f3bb-45a8-bb2e-fe4fc181afa2"
+    },
+    {
+      "start_time": 272,
+      "end_time": 274,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I won't do that either because -"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "cfbec085-795c-4b83-9859-6834f24c6af6"
+    },
+    {
+      "start_time": 274,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "0bdce492-4475-4779-a2da-c2d72d8b7bd3"
+    },
+    {
+      "start_time": 275,
+      "end_time": 276,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you've prob'ly heard that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "ba0b88f3-a49b-432c-bd1d-e04607dc2d82"
+    },
+    {
+      "start_time": 276,
+      "end_time": 277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "162e7891-a73f-49ba-836c-a245179162ba"
+    },
+    {
+      "start_time": 277,
+      "end_time": 279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "c58cbe6a-35c1-4a2f-97b9-01a8934346c8"
+    },
+    {
+      "start_time": 279,
+      "end_time": 289,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So instead, I'm gonna tell you about an insane friend of mine. He's, how you say, cuckoo?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "8cb39985-c3c2-4ae8-ba2d-8b60beb07ecc"
+    },
+    {
+      "start_time": 289,
+      "end_time": 292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rapid squeaking."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "d9d18b21-417d-44ec-aa9e-29109b130d83"
+    },
+    {
+      "start_time": 292,
+      "end_time": 367,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Recites poem [English]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "f0c60548-ab5d-4e4c-b991-2d61620d505a"
+    },
+    {
+      "start_time": 367,
+      "end_time": 369,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "4722f01a-2b7a-4524-9ec2-b3dbf73ca611"
+    },
+    {
+      "start_time": 369,
+      "end_time": 422,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes recitation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "3d5a384f-27de-4f52-826a-89489591ec8e"
+    },
+    {
+      "start_time": 422,
+      "end_time": 424,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuts out, static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "2017f69f-b533-487d-b9da-63d40dc3c9cc"
+    },
+    {
+      "start_time": 424,
+      "end_time": 425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "a81c1dac-de4f-4210-b29a-d4a2cc91aeb3"
+    },
+    {
+      "start_time": 425,
+      "end_time": 429,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Recites poem [French] [unclear if it's the same piece from before recording cuts out]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "a7228536-caad-4e33-ac41-a35676d6f4a1"
+    },
+    {
+      "start_time": 429,
+      "end_time": 434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "3233974b-d74e-42af-9c08-1bb967a1315b"
+    },
+    {
+      "start_time": 434,
+      "end_time": 440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This one is called \"The Achilles Truth\". It's a little bit long, but I think you might like it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "2aef8a54-437a-40fb-920f-6999def27eaf"
+    },
+    {
+      "start_time": 440,
+      "end_time": 442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "db176441-7f38-4083-8178-144f8e07fdcd"
+    },
+    {
+      "start_time": 442,
+      "end_time": 556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Recites \"The Achilles Truth\" [English]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "8002633a-0ea3-4910-9d51-e43b088288b8"
+    },
+    {
+      "start_time": 556,
+      "end_time": 557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coughs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "fe3b40e0-52d0-417f-899b-6a29bd27b2d5"
+    },
+    {
+      "start_time": 557,
+      "end_time": 1220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes recitation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "4d22116f-64f4-4889-a285-d7d9fd55187b"
+    },
+    {
+      "start_time": 1220,
+      "end_time": 1221,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "d025b24f-e754-4bc2-8ba7-dd00058f256d"
+    },
+    {
+      "start_time": 1221,
+      "end_time": 1234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause and cheers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "b5c8731b-476b-4e03-8430-62447219930d"
+    },
+    {
+      "start_time": 1234,
+      "end_time": 1245,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Recites poem [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "c4f5a406-7677-4e9d-be2c-4d0d5738cafe"
+    },
+    {
+      "start_time": 1245,
+      "end_time": 1248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheers and applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "1ce84951-5cc6-45e6-81e0-acf4ec0d3e6d"
+    },
+    {
+      "start_time": 1248,
+      "end_time": 1249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaks [unintelligible]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "d4aca6df-ced9-48b3-afb6-4dcfd124c08e"
+    },
+    {
+      "start_time": 1249,
+      "end_time": 1255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. Just to wrap it up here, I'd like to do first off a very short poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "bdbad788-981f-48da-9be5-127519468f5a"
+    },
+    {
+      "start_time": 1255,
+      "end_time": 1258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Page flip sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "c3146e76-88bc-4bc4-b007-36d9c44c2859"
+    },
+    {
+      "start_time": 1258,
+      "end_time": 1260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "a7866a67-6060-4dcd-8ff3-f3eae41efba7"
+    },
+    {
+      "start_time": 1260,
+      "end_time": 1262,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creaking sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "79d36258-48c8-41d9-ac63-617abea3c970"
+    },
+    {
+      "start_time": 1262,
+      "end_time": 1267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "1b624c9c-7165-4c60-abe8-4445ba3a1361"
+    },
+    {
+      "start_time": 1267,
+      "end_time": 1267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Po! [probably Karl Jirgens]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown Performer"
+        }
+      ],
+      "uuid": "0640cadb-fa8d-4e57-829b-344b1c2be766"
+    },
+    {
+      "start_time": 1267,
+      "end_time": 1269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "a913e2a9-d259-436d-a907-8c66cddbab69"
+    },
+    {
+      "start_time": 1269,
+      "end_time": 1270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "45744535-b59c-49f1-984c-6840884e8f43"
+    },
+    {
+      "start_time": 1270,
+      "end_time": 1272,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter and applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "5cdb6203-2917-45d8-b8a5-853be4992ff3"
+    },
+    {
+      "start_time": 1272,
+      "end_time": 1275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'd like to do, uh, a longer poem now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "a5368096-557b-4a3f-9c6a-e8e3a4ff01e4"
+    },
+    {
+      "start_time": 1275,
+      "end_time": 1275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "6653ac96-ec0e-43f8-a261-1997343e92d3"
+    },
+    {
+      "start_time": 1275,
+      "end_time": 1278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Page flipping sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "a42c1119-f1d6-4469-bc63-c9d044e5e4c8"
+    },
+    {
+      "start_time": 1278,
+      "end_time": 1307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This one. I'll just wrap up the show with this. This one is, uh, dedicated to a South Seas mammal called the dugong. It's uh, a creature that's facing extinction now because uh, there's a lot of people down south that eat this animal and uh, it has no natural self defense mechanisms, no teeth or claws, so its very easy prey and uh, I was watching a program, sort of like Jacques Cousteau on tv one day and thinking, you know, about these poor dugongs and how they're gonna go extinct."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "b8a9e685-bc3d-496d-a7de-cf5109ca6984"
+    },
+    {
+      "start_time": 1307,
+      "end_time": 1309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "42bbd601-387d-4a15-a2e5-ec0ea860391d"
+    },
+    {
+      "start_time": 1309,
+      "end_time": 1372,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Recites poem [English]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Karl Jirgens"
+        }
+      ],
+      "uuid": "a43a7f52-715a-43b8-bb60-9155de9d959b"
+    },
+    {
+      "start_time": 1372,
+      "end_time": 1375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuts out, static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "ae9e166f-776a-41ac-b977-b3b2eeb39e29"
+    },
+    {
+      "start_time": 1375,
+      "end_time": 1375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "ae85446a-09ac-4cdf-a705-44eeb3bdbdfe"
+    }
+  ],
   "set": "Default",
   "event_id": "07037719-15aa-4008-95d9-587835b399b7",
   "source_id": "6ae8deec-d152-40ed-b7c0-20df4bd8a8ce"
