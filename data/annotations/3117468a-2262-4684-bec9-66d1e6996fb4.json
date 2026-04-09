@@ -1,5 +1,4311 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs \"(Last Night) I Gambled With My Anger And Lost\", instrumental intro [drums, electric guitar, bass, synth]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "e838f1cc-6234-4ff7-9daa-e0d24f2aa792"
+    },
+    {
+      "start_time": 216,
+      "end_time": 323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, John Giorno recites poetry [English] over top of the music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "87ff1b44-f40f-462c-81d5-85732211549d"
+    },
+    {
+      "start_time": 323,
+      "end_time": 356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental [synth, bass, electric drums]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "d37566d1-cdfa-4780-8a3f-44542f16cda9"
+    },
+    {
+      "start_time": 356,
+      "end_time": 392,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "6f643e0c-5790-437c-bb1d-dd475076cedd"
+    },
+    {
+      "start_time": 392,
+      "end_time": 442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental [guitar, electric drums, synth]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "f4d68c26-df46-4fc8-b765-bf423d38b783"
+    },
+    {
+      "start_time": 442,
+      "end_time": 494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "2f99106e-6ba1-4c0b-8066-42471b027530"
+    },
+    {
+      "start_time": 494,
+      "end_time": 519,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental [synth, bass, electric drums]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "4bcb81c2-16c6-4ea5-9144-4d06d80bfe9c"
+    },
+    {
+      "start_time": 519,
+      "end_time": 645,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "d5d7bf74-1812-4376-a534-2f11352bbf5d"
+    },
+    {
+      "start_time": 645,
+      "end_time": 669,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental [bass, guitar, synth, electric drums]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "101afa5c-4719-4c53-bfa3-6ec476cb5620"
+    },
+    {
+      "start_time": 669,
+      "end_time": 682,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "c62252ac-bc03-4abd-b0db-42f957ddfdde"
+    },
+    {
+      "start_time": 682,
+      "end_time": 690,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental [electric drums, electric guitar, synth]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "24b0c4d4-652d-4f01-9442-a629908ef04a"
+    },
+    {
+      "start_time": 690,
+      "end_time": 693,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheers and applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "0db15a38-7ee2-4dcc-a402-9e7b40baf03c"
+    },
+    {
+      "start_time": 693,
+      "end_time": 696,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Synth notes ring out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "69ce332a-c2f7-4d29-a301-6954e51274c8"
+    },
+    {
+      "start_time": 696,
+      "end_time": 699,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheers and applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "d8a4eb5f-2cf8-45e8-b48f-fe95c1b47fc7"
+    },
+    {
+      "start_time": 699,
+      "end_time": 701,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuts out, silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "105467e3-1f46-4d4f-9090-32baa5226b49"
+    },
+    {
+      "start_time": 701,
+      "end_time": 702,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Static."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "a2eb68fb-26a9-498f-b531-df64fa83efaa"
+    },
+    {
+      "start_time": 702,
+      "end_time": 711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs piece [John Giorno recites poetry over top of electric drums and gravelly electronic sound]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "a4e49c4a-8b35-452d-bae9-8656122653cd"
+    },
+    {
+      "start_time": 711,
+      "end_time": 727,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental [electric drums, gravelly electronic sound, bass]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "5730845a-2749-4f9b-89db-d5b76520d18b"
+    },
+    {
+      "start_time": 727,
+      "end_time": 740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "1fb7e62f-87b9-4bcd-93db-a43a78effbb0"
+    },
+    {
+      "start_time": 740,
+      "end_time": 754,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental [electric guitar, electric drums, bass, gravelly electronic sound]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "b6613695-51ad-4032-99db-182496e5fdbc"
+    },
+    {
+      "start_time": 754,
+      "end_time": 775,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "c0059d1a-d07c-488f-baf4-da07d392eb44"
+    },
+    {
+      "start_time": 775,
+      "end_time": 790,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental [synth, bass, electric drums]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "244b055c-6837-4e94-bfc9-edd15d49b8f1"
+    },
+    {
+      "start_time": 790,
+      "end_time": 827,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "1332069f-cd7a-4b37-ae31-9094530fcab5"
+    },
+    {
+      "start_time": 827,
+      "end_time": 840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental [synth, bass, electric drums]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "21a49b83-d677-405f-afa4-4f6d1c2fb4e5"
+    },
+    {
+      "start_time": 840,
+      "end_time": 899,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "3892b675-b000-452b-8ca3-c14fd4c235a4"
+    },
+    {
+      "start_time": 899,
+      "end_time": 900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheers and applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "bfecb576-2965-48e7-bc73-663830eee454"
+    },
+    {
+      "start_time": 900,
+      "end_time": 902,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bass note rings out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "16ebb788-1859-4268-891b-c6c76cc121bd"
+    },
+    {
+      "start_time": 902,
+      "end_time": 906,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guitar, bass, and drums sounds ring out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "3569f7de-eec3-41f3-9823-e8502cdd64f1"
+    },
+    {
+      "start_time": 906,
+      "end_time": 908,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheers and applause continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "1d14a2b1-33a8-48a3-a329-7de1e076b61c"
+    },
+    {
+      "start_time": 908,
+      "end_time": 910,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bass note rings out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "8a224232-ac35-4326-ba12-8784b6a274cc"
+    },
+    {
+      "start_time": 910,
+      "end_time": 912,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bass note rings out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "96d11f0e-b674-44bd-80b9-a2c2a6691021"
+    },
+    {
+      "start_time": 912,
+      "end_time": 914,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Light thumping sound and distorted voice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "32c808db-df5b-4253-bc57-dd12a6bb096a"
+    },
+    {
+      "start_time": 914,
+      "end_time": 916,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "75afbcec-f2d4-4e68-9c5c-b3e81add493a"
+    },
+    {
+      "start_time": 916,
+      "end_time": 917,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bass note rings out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "6f327870-017e-44ec-a9ce-ee809a0ea8dc"
+    },
+    {
+      "start_time": 917,
+      "end_time": 918,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cymbal crash."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "a0c5cac2-cfd5-4487-bc9c-a0760a433546"
+    },
+    {
+      "start_time": 918,
+      "end_time": 927,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "7ae8321e-1467-4592-8392-486e232ee6ee"
+    },
+    {
+      "start_time": 927,
+      "end_time": 939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "540a30e6-faa4-407e-838d-60d4ba0fb141"
+    },
+    {
+      "start_time": 939,
+      "end_time": 945,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "8550526c-2dc7-4472-af70-7bd9059df0c0"
+    },
+    {
+      "start_time": 945,
+      "end_time": 945,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuts out, silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "d93b8dc0-2ac0-4472-8695-e2bdf6aa7dba"
+    },
+    {
+      "start_time": 945,
+      "end_time": 957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs \"Stretching it Wider\" [John Giorno recites poetry over top of electric guitar, bass, and percussion]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "4d5b1f44-2e9b-490a-8e9f-aeb456577c9e"
+    },
+    {
+      "start_time": 957,
+      "end_time": 977,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental [electric guitar, bass, and percussion]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "9606598e-e925-4e06-9eff-22e5f3134711"
+    },
+    {
+      "start_time": 977,
+      "end_time": 1051,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "a7f1ccab-f504-484c-81e8-911bad3ff7c1"
+    },
+    {
+      "start_time": 1051,
+      "end_time": 1087,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental [synth, bass, percussion, electronic sounds]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "e2ae947c-c7ea-4fcc-92f2-c83b4f7da1d2"
+    },
+    {
+      "start_time": 1087,
+      "end_time": 1141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "fe30935f-9a4f-4c5a-926a-d202708e1240"
+    },
+    {
+      "start_time": 1141,
+      "end_time": 1161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental [synth, bass, percussion, electric guitar, electronic sounds]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "5c4f8549-820e-4619-a2df-b6ab70118008"
+    },
+    {
+      "start_time": 1161,
+      "end_time": 1191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "1969fb02-3bf9-4fdb-bd62-5632d2d46323"
+    },
+    {
+      "start_time": 1191,
+      "end_time": 1197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental [guitar, synth, percussion, bass]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "83b70d9d-4104-4b2b-bb62-c55fb6608db9"
+    },
+    {
+      "start_time": 1197,
+      "end_time": 1240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "39759156-1120-4a19-897d-ea0c04a7cf12"
+    },
+    {
+      "start_time": 1240,
+      "end_time": 1257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental [synth, percussion, electronic sounds, bass]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "70133ddf-edfb-404d-8182-3669932951c3"
+    },
+    {
+      "start_time": 1257,
+      "end_time": 1309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "60c7f1fd-59ec-4293-a4b0-b2be0484da34"
+    },
+    {
+      "start_time": 1309,
+      "end_time": 1324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheers and applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "3b60013a-0362-4a77-a179-4e03d96c62cf"
+    },
+    {
+      "start_time": 1324,
+      "end_time": 1329,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "0f94d268-6dd0-470f-98f0-bd756b04b52b"
+    },
+    {
+      "start_time": 1329,
+      "end_time": 1334,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. This is a poem called \"Life is a Killer\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno"
+        }
+      ],
+      "uuid": "8c85ecaf-2b16-412e-93b6-207143988d0c"
+    },
+    {
+      "start_time": 1334,
+      "end_time": 1335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "710d1a95-e9ac-42fd-9002-fbbcf8bc9d28"
+    },
+    {
+      "start_time": 1335,
+      "end_time": 1365,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Recites \"Life is a Killer\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno"
+        }
+      ],
+      "uuid": "59880fe6-e291-4157-a248-0b71e6972320"
+    },
+    {
+      "start_time": 1365,
+      "end_time": 1366,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "ec9252a9-e7f2-4836-830a-a309efffe4b9"
+    },
+    {
+      "start_time": 1366,
+      "end_time": 1501,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues recitation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno"
+        }
+      ],
+      "uuid": "d8e2f54b-deb6-469e-ac96-a5836403a123"
+    },
+    {
+      "start_time": 1501,
+      "end_time": 1502,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno"
+        }
+      ],
+      "uuid": "bd71da8e-9d67-4ebc-8772-d006f59d04bc"
+    },
+    {
+      "start_time": 1502,
+      "end_time": 1511,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheers and applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "75515d45-c672-4f8a-9ad3-ea071191a74a"
+    },
+    {
+      "start_time": 1511,
+      "end_time": 1520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Synth notes ring out.."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "d23038ea-0301-4103-b2b7-8d5ce5116eb4"
+    },
+    {
+      "start_time": 1520,
+      "end_time": 1521,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Loud scratchy sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "e8e71d16-480e-445d-bff7-64c4339b9a96"
+    },
+    {
+      "start_time": 1521,
+      "end_time": 1522,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "High pitched sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "e8f018dc-a23b-46c7-844a-58dc38605a29"
+    },
+    {
+      "start_time": 1522,
+      "end_time": 1523,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tell me when you're ready."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown Speaker"
+        }
+      ],
+      "uuid": "46b30d1e-69c8-4326-8f3e-740e98a48b0c"
+    },
+    {
+      "start_time": 1523,
+      "end_time": 1524,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaks [unintelligible]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown Speaker"
+        }
+      ],
+      "uuid": "9df717bd-3327-471e-8ba5-710f80a1004f"
+    },
+    {
+      "start_time": 1524,
+      "end_time": 1525,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Percussive sound rings out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "cae4fb49-05bf-44dd-a734-fc81ffd7e5c8"
+    },
+    {
+      "start_time": 1525,
+      "end_time": 1527,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "a8ad7eae-5c8d-4d9d-ac52-33a5fb675821"
+    },
+    {
+      "start_time": 1527,
+      "end_time": 1528,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Percussive sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "94e53e4f-1972-4d9a-a500-499d040d8a7c"
+    },
+    {
+      "start_time": 1528,
+      "end_time": 1529,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Scream."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "6c69fa56-06a3-4df3-95a1-7d78b8a090af"
+    },
+    {
+      "start_time": 1529,
+      "end_time": 1531,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Percussive sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "654bd158-927e-46ca-883d-6a9d65845d49"
+    },
+    {
+      "start_time": 1531,
+      "end_time": 1532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "9bf593dd-a267-4ced-afce-479d6d455d10"
+    },
+    {
+      "start_time": 1532,
+      "end_time": 1534,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guitar chord rings out, echoes and becomes distorted."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "b42a14ba-0063-4c14-9ebf-285348ca81a9"
+    },
+    {
+      "start_time": 1534,
+      "end_time": 1535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "a724f71f-ba90-43f6-99d9-929675657e4b"
+    },
+    {
+      "start_time": 1535,
+      "end_time": 1537,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Percussive sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "299d7a1f-47e8-4204-8825-f43d0a06bba7"
+    },
+    {
+      "start_time": 1537,
+      "end_time": 1538,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "8bbf60bc-c871-494a-8fd6-ba78a9984641"
+    },
+    {
+      "start_time": 1538,
+      "end_time": 1541,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reverberant bass note rings out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "4af3c1ad-bad0-4e07-82e8-4d6162679d25"
+    },
+    {
+      "start_time": 1541,
+      "end_time": 1551,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "a75f7e3d-029e-4563-b1d9-c08154ae1b4a"
+    },
+    {
+      "start_time": 1551,
+      "end_time": 1552,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Quiet squeak."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "cee93c13-837b-4cd9-af07-05e675faf948"
+    },
+    {
+      "start_time": 1552,
+      "end_time": 1554,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "8fe6d75b-953a-4f96-9f68-72744c224ed2"
+    },
+    {
+      "start_time": 1554,
+      "end_time": 1556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rustling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "77650afd-c84d-4382-bb70-18cd6cae4093"
+    },
+    {
+      "start_time": 1556,
+      "end_time": 1558,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "1969cde8-8b06-4ac8-9399-0437736b213b"
+    },
+    {
+      "start_time": 1558,
+      "end_time": 1559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guitar slide."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "c0103a72-2f09-47f5-a56e-1f59d4308c80"
+    },
+    {
+      "start_time": 1559,
+      "end_time": 1560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "b5bdafbd-2965-416e-908f-718669dad7e1"
+    },
+    {
+      "start_time": 1560,
+      "end_time": 1561,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Percussive sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "bc2ce00c-7517-4d33-a031-1af655a85c92"
+    },
+    {
+      "start_time": 1561,
+      "end_time": 1565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "836ac6c8-361e-4249-b60a-7cf029a0a13a"
+    },
+    {
+      "start_time": 1565,
+      "end_time": 1581,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs piece, instrumental intro [distorted reverberant electric guitar]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "4ec1b59a-9678-4fe6-9c14-71b951aa1f94"
+    },
+    {
+      "start_time": 1581,
+      "end_time": 1594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, John Giorno recites poetry [English] over top of the music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "432ad123-ff27-4d62-a206-48b12471eb8b"
+    },
+    {
+      "start_time": 1594,
+      "end_time": 1622,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, music shifts [synth added]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "5eb80445-229e-4bee-83d2-089095374554"
+    },
+    {
+      "start_time": 1622,
+      "end_time": 1626,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuts out, silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "b3109059-a117-49da-8003-af9dd50565dc"
+    },
+    {
+      "start_time": 1626,
+      "end_time": 1637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece [recitation, synth, electric guitar, electric drums, electronic sounds]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "451eaff9-4a29-48c0-b6df-9fb4f0e3f4b8"
+    },
+    {
+      "start_time": 1637,
+      "end_time": 1658,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "5a5d7cf9-e557-4f1b-a88d-095770d49d74"
+    },
+    {
+      "start_time": 1658,
+      "end_time": 1673,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes, music shifts [electronic percussion and synth]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "862a5563-d9ef-4e57-bdaf-15f595db1430"
+    },
+    {
+      "start_time": 1673,
+      "end_time": 1678,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, music shifts [vocal stings] [recitation continues]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "d610bb7b-5492-4c1f-af5c-e5c87c793879"
+    },
+    {
+      "start_time": 1678,
+      "end_time": 1689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, music shifts [synth and percussion only] [recitation continues]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "fed1d443-3f5d-465a-9259-2e52efa359fc"
+    },
+    {
+      "start_time": 1689,
+      "end_time": 1703,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, music shifts [electric guitar only] [recitation continues]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "219d239b-89d8-4f61-a06a-a27afe3d9f97"
+    },
+    {
+      "start_time": 1703,
+      "end_time": 1717,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, music shifts [synth only] [recitation continues]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "f3f4a62f-07bf-4f52-a32c-e9cba2656c53"
+    },
+    {
+      "start_time": 1717,
+      "end_time": 1728,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental [synth and electric guitar]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "cc009b42-25b6-4e74-8340-ccd6f794f18b"
+    },
+    {
+      "start_time": 1728,
+      "end_time": 1738,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheers, applause, unintelligible speech."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "3caa2c52-d1f4-43a5-9915-d68bbcba4605"
+    },
+    {
+      "start_time": 1738,
+      "end_time": 1739,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Percussive sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "1bef1836-d4f2-4b77-a8d7-4505e1b807e8"
+    },
+    {
+      "start_time": 1739,
+      "end_time": 1740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause and unintelligible speech continue."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "c4e3e6db-37e1-4a90-9293-36838d5844a0"
+    },
+    {
+      "start_time": 1740,
+      "end_time": 1741,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Percussive sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "df79b91d-b617-4e83-8455-70c327efaaaa"
+    },
+    {
+      "start_time": 1741,
+      "end_time": 1743,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "d516fb48-013e-414f-ab45-bfe9ddfef4a9"
+    },
+    {
+      "start_time": 1743,
+      "end_time": 1746,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Percussive sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "50c5975f-2f6a-4c38-a0b1-03463f23cec0"
+    },
+    {
+      "start_time": 1746,
+      "end_time": 1747,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuts out, rustling sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "2760f5dc-218d-4278-b74d-9f15f6316078"
+    },
+    {
+      "start_time": 1747,
+      "end_time": 1752,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Buzzing and clicking sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "000cbb6e-61f2-409d-8983-e31821b5b316"
+    },
+    {
+      "start_time": 1752,
+      "end_time": 1763,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic keyboard sounds, bass, and electric guitar notes ring out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "23b2589c-f4ea-4cb7-8f4d-d85db9e51fb0"
+    },
+    {
+      "start_time": 1763,
+      "end_time": 1770,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "8cbbb4e3-fa3d-46a2-acfe-f2426446165e"
+    },
+    {
+      "start_time": 1770,
+      "end_time": 1771,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Percussive sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "a8c1ff3a-46da-4f39-b820-b04f0d4d34ff"
+    },
+    {
+      "start_time": 1771,
+      "end_time": 1772,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "5a344f04-6443-47c4-964a-93a5e9647e2d"
+    },
+    {
+      "start_time": 1772,
+      "end_time": 1772,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuts [possible tape change]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "946643d7-4b28-4164-8938-671ba78b0687"
+    },
+    {
+      "start_time": 1772,
+      "end_time": 1773,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Percussive sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "8a0217ea-ccc4-4090-be5a-e018d7161188"
+    },
+    {
+      "start_time": 1773,
+      "end_time": 1776,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "62d75c5d-b2ac-4521-878a-544e8ba15be6"
+    },
+    {
+      "start_time": 1776,
+      "end_time": 1777,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Percussive sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "818a0b27-197e-440d-b181-b9be1ba60b15"
+    },
+    {
+      "start_time": 1777,
+      "end_time": 1784,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "05be0480-c9d7-4b7f-ba78-57af1ebd395f"
+    },
+    {
+      "start_time": 1784,
+      "end_time": 1816,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs piece, instrumental intro [electronic percussion, synth, electric guitar, electronic keyboard, electronic sounds, bass]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "34b4bf5a-fe1c-42e3-a359-e5bd92efee1b"
+    },
+    {
+      "start_time": 1816,
+      "end_time": 1887,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, John Giorno recites poetry [English] over top of the music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "d08b39d6-9308-4bf1-bde5-0beadd283697"
+    },
+    {
+      "start_time": 1887,
+      "end_time": 1913,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "a99b8a48-f038-4cc3-ae14-23e83d35783b"
+    },
+    {
+      "start_time": 1913,
+      "end_time": 1936,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "25f84b39-6114-4cfd-8b96-5a41208667f7"
+    },
+    {
+      "start_time": 1936,
+      "end_time": 1951,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "e184f180-cc26-4eed-aeee-19d1d966f50d"
+    },
+    {
+      "start_time": 1951,
+      "end_time": 2001,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "4ac2062c-7eb9-4318-9c0f-e1232e6c5203"
+    },
+    {
+      "start_time": 2001,
+      "end_time": 2007,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, music shifts [volume fades then comes back in] [recitation continues]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "abc443bd-1119-425b-8062-0c126c6ef430"
+    },
+    {
+      "start_time": 2007,
+      "end_time": 2029,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "46e7080c-d73b-4fa9-be5f-5f464bbbbdc6"
+    },
+    {
+      "start_time": 2029,
+      "end_time": 2081,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental [guitar solo]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "286fbfe6-2264-407e-a101-0f5f277a05fd"
+    },
+    {
+      "start_time": 2081,
+      "end_time": 2118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "e40fc02a-4837-413a-b8b8-f1c683352cc6"
+    },
+    {
+      "start_time": 2118,
+      "end_time": 2135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, music shifts [synth only] [recitation continues]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "f0151a0d-7d61-4311-943f-e1d901b986bb"
+    },
+    {
+      "start_time": 2135,
+      "end_time": 2137,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Percussive sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "4cd0f3f9-abc1-4ce1-aa1c-65a7579471ed"
+    },
+    {
+      "start_time": 2137,
+      "end_time": 2138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheers and applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "b09b23da-f975-4e22-b4e3-dc6488ffe852"
+    },
+    {
+      "start_time": 2138,
+      "end_time": 2140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electric guitar chords rings out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "09b1a1b2-df6d-4e54-b655-03db7edcbc26"
+    },
+    {
+      "start_time": 2140,
+      "end_time": 2142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "04a18bac-70a1-46ca-bd22-479f44639e6e"
+    },
+    {
+      "start_time": 2142,
+      "end_time": 2144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Percussive sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "6da591b2-380e-4893-8d46-3e87c20a2544"
+    },
+    {
+      "start_time": 2144,
+      "end_time": 2145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuts out, rustling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "b7d47816-3f1a-49be-84f9-1350e5a6c235"
+    },
+    {
+      "start_time": 2145,
+      "end_time": 2146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "76de8732-27e5-436e-b566-0c1d3e2e7ec8"
+    },
+    {
+      "start_time": 2146,
+      "end_time": 2148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "9ee724e9-bc14-4186-aa64-b81ef8a4f0c3"
+    },
+    {
+      "start_time": 2148,
+      "end_time": 2149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guitar slide."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "67fa93bd-df57-4418-a4a0-3ca60c031362"
+    },
+    {
+      "start_time": 2149,
+      "end_time": 2154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electric guitar lick rings out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "07ad5eb5-86bf-4436-b0fe-bd85e1b153d8"
+    },
+    {
+      "start_time": 2154,
+      "end_time": 2157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "06f649cd-6098-41c3-bb49-219ccf393f55"
+    },
+    {
+      "start_time": 2157,
+      "end_time": 2166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ok, uh, next I'm gonna introduce the band, our band leader and composer [electric guitar lick] and the guy who holds it all together is CP Roth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno"
+        }
+      ],
+      "uuid": "d0e27bf4-c51e-4690-9de6-ec6b937ce5ac"
+    },
+    {
+      "start_time": 2166,
+      "end_time": 2172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheers, applause, and unintelligible yelling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "1afa4ade-ae86-4f10-8987-df0e03ef3f90"
+    },
+    {
+      "start_time": 2172,
+      "end_time": 2174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And on guitar is Adam Roth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno"
+        }
+      ],
+      "uuid": "48eeb249-578e-495a-9965-563a1922ee83"
+    },
+    {
+      "start_time": 2174,
+      "end_time": 2175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno"
+        }
+      ],
+      "uuid": "045b98ae-273d-4da8-9c81-be6bf4df23cb"
+    },
+    {
+      "start_time": 2175,
+      "end_time": 2178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheers and applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "34c1a23d-3067-46e7-b064-ec998d4ab881"
+    },
+    {
+      "start_time": 2178,
+      "end_time": 2180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And on bass, Dave Conrad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno"
+        }
+      ],
+      "uuid": "92c6e529-62f7-4211-9074-89fee8c4c514"
+    },
+    {
+      "start_time": 2180,
+      "end_time": 2186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheers and applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "7cca6fac-3d56-4423-81d9-032f6263221a"
+    },
+    {
+      "start_time": 2186,
+      "end_time": 2188,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And on drums, Mike Osborne."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno"
+        }
+      ],
+      "uuid": "d1dde68e-fd0f-47e8-8710-fd6acc7eb7b5"
+    },
+    {
+      "start_time": 2188,
+      "end_time": 2191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheers and applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "1bdaae45-c470-4f8c-be3d-5504ee2a63e1"
+    },
+    {
+      "start_time": 2191,
+      "end_time": 2192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yay!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "f286eb36-71a6-48ef-8410-110c29b9f504"
+    },
+    {
+      "start_time": 2192,
+      "end_time": 2194,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Synth notes ring out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "8a41335e-acac-4856-a11f-ec4a5b0084c6"
+    },
+    {
+      "start_time": 2194,
+      "end_time": 2201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electric guitar notes ring out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "6bfdae8d-74b3-4dd9-b637-3a42babc4081"
+    },
+    {
+      "start_time": 2201,
+      "end_time": 2205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guitar, synth, and drum sounds ring out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "58780040-073f-480a-a7d3-d9c863d29941"
+    },
+    {
+      "start_time": 2205,
+      "end_time": 2205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown Speaker"
+        }
+      ],
+      "uuid": "0f87eb85-c828-4363-9c07-633dedd143a7"
+    },
+    {
+      "start_time": 2205,
+      "end_time": 2208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "d0553f01-6e1c-476a-830e-aa968c8cda74"
+    },
+    {
+      "start_time": 2208,
+      "end_time": 2209,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guitar chord rings out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "33179c0f-c35b-42f0-89a9-f7f92fcdc581"
+    },
+    {
+      "start_time": 2209,
+      "end_time": 2211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "b4cf5b5b-63ed-4a70-be91-90f918e0da3c"
+    },
+    {
+      "start_time": 2211,
+      "end_time": 2212,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dry guitar slide."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "52b44649-7512-4b68-ba87-31036648f797"
+    },
+    {
+      "start_time": 2212,
+      "end_time": 2216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "c5c5af00-83b3-4e57-bbfa-ee6319529bee"
+    },
+    {
+      "start_time": 2216,
+      "end_time": 2217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Page flipping sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "dac49ebe-255a-43db-aac8-4aa11155802c"
+    },
+    {
+      "start_time": 2217,
+      "end_time": 2249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs \"Scum and Slime\", instrumental intro [electric guitar, synth, bass, electronic percussion]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "f9198699-3d70-4250-8787-1b7f44ce56fe"
+    },
+    {
+      "start_time": 2249,
+      "end_time": 2277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, John Giorno recites poetry [English] over top of the music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "33e4720d-3f28-45de-9520-310e30c1fed3"
+    },
+    {
+      "start_time": 2277,
+      "end_time": 2287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, music shifts [recorded vocals echo recitation]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "dfbc16eb-1a60-4d9d-8e81-ea69f77b423c"
+    },
+    {
+      "start_time": 2287,
+      "end_time": 2296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental [electric guitar, synth, bass, electronic percussion, electronic sounds]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "705b0e54-e588-45e1-854a-55d3f1e9790a"
+    },
+    {
+      "start_time": 2296,
+      "end_time": 2352,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "6d3d6eb7-c915-42de-af1f-97b388e5a321"
+    },
+    {
+      "start_time": 2352,
+      "end_time": 2364,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, music shifts [recorded vocals echo recitation]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "f7e93f4c-df5b-4de8-a746-c926b78b2f40"
+    },
+    {
+      "start_time": 2364,
+      "end_time": 2381,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental [electric guitar, synth, bass, electronic percussion, electronic sounds]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "5a4fd43e-ef71-442a-9370-1ac00c99c0c9"
+    },
+    {
+      "start_time": 2381,
+      "end_time": 2424,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "ae646f06-8a97-4b6e-a0b0-4cc9dd7dff9a"
+    },
+    {
+      "start_time": 2424,
+      "end_time": 2438,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental [electronic chimes, electric guitar, bass, synth, electronic percussion]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "48405037-3248-4c75-aa46-4b1909f86c6e"
+    },
+    {
+      "start_time": 2438,
+      "end_time": 2469,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "7c573dba-a140-4269-a94c-ce2669ba4e42"
+    },
+    {
+      "start_time": 2469,
+      "end_time": 2471,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheers and applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "f568e41f-d4ed-4741-aa8e-952aedb629eb"
+    },
+    {
+      "start_time": 2471,
+      "end_time": 2472,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Drums."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "460a36c1-8811-47cb-af64-d85ce03f7b31"
+    },
+    {
+      "start_time": 2472,
+      "end_time": 2477,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheers and applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "88ec2e72-3db0-43a5-ba0a-1edae0d1b8f4"
+    },
+    {
+      "start_time": 2477,
+      "end_time": 2480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuts out, low static buzz."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "b7d810fe-bcbb-401c-8112-5e635940485e"
+    },
+    {
+      "start_time": 2480,
+      "end_time": 2481,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "d09d0ac9-a095-4803-80f9-00e394d8db24"
+    },
+    {
+      "start_time": 2481,
+      "end_time": 2482,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Drum roll here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown Speaker"
+        }
+      ],
+      "uuid": "363fb336-18a4-4cd8-8e23-76fb62132369"
+    },
+    {
+      "start_time": 2482,
+      "end_time": 2483,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So ha - [cut off by drums]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown Speaker"
+        }
+      ],
+      "uuid": "84181c94-ab5a-4921-b31a-95b628e1024d"
+    },
+    {
+      "start_time": 2483,
+      "end_time": 2495,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs piece, instrumental intro [drums, shouting, unintelligible voices]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "344d9aa5-2d75-45de-b90f-1952c017c791"
+    },
+    {
+      "start_time": 2495,
+      "end_time": 2512,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, music shifts [electric guitar, synth, drums]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "71dc341a-5d46-4681-9a81-61a4f628e81e"
+    },
+    {
+      "start_time": 2512,
+      "end_time": 2518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, John Giorno recites poetry [English] over top of the music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "f213eae3-2738-4cbb-a1ff-a014cd1dd0c8"
+    },
+    {
+      "start_time": 2518,
+      "end_time": 2529,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "2a346839-e994-4eea-a0d0-def3e7ab59c1"
+    },
+    {
+      "start_time": 2529,
+      "end_time": 2544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "b44fbd8b-5ac8-4095-9da3-e4cbef4085ce"
+    },
+    {
+      "start_time": 2544,
+      "end_time": 2553,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "fbc3e6f9-78ff-4f57-af52-3c55c98a0c07"
+    },
+    {
+      "start_time": 2553,
+      "end_time": 2623,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "dfb7eb4f-b0b6-4b8e-9b43-38de81b9121c"
+    },
+    {
+      "start_time": 2623,
+      "end_time": 2628,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, music shifts [drums only] [recitation continues]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "0e9062fa-53e7-4554-8174-b2d1f04f69ae"
+    },
+    {
+      "start_time": 2628,
+      "end_time": 2661,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental [electric guitar, synth, percussion]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "11bf0dd5-eeb0-476c-9996-563b957a6acf"
+    },
+    {
+      "start_time": 2661,
+      "end_time": 2681,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes, music shifts [synth only]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "4addaa76-ee17-4ad1-aae4-6d3d530399ee"
+    },
+    {
+      "start_time": 2681,
+      "end_time": 2685,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, music cuts out [recitation only]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "4945ffdf-9715-4a34-ab0d-a59a1a02aca8"
+    },
+    {
+      "start_time": 2685,
+      "end_time": 2695,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, music resumes, instrumental [synth and electric guitar]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "aae95efc-d3f0-4ffb-9da3-d496356342e5"
+    },
+    {
+      "start_time": 2695,
+      "end_time": 2704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, recitation resumes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "bd6d9016-bf2a-4f6d-af55-37e9c2910be2"
+    },
+    {
+      "start_time": 2704,
+      "end_time": 2716,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, music shifts [drums added] [recitation continues]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "cb781152-910b-4f4c-b2ff-e82881e6e02d"
+    },
+    {
+      "start_time": 2716,
+      "end_time": 2731,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece, instrumental [drums, synth, and electric guitar]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "John Giorno Band"
+        }
+      ],
+      "uuid": "e802e101-b997-4437-a8e9-c3e86f22220a"
+    },
+    {
+      "start_time": 2731,
+      "end_time": 2733,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheers and applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "9cce5465-abe3-4ab4-828e-62d0f7c340b3"
+    },
+    {
+      "start_time": 2733,
+      "end_time": 2733,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right audio cuts out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "417c0df2-1cf4-4b97-ba97-168cbe190316"
+    },
+    {
+      "start_time": 2733,
+      "end_time": 2750,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheers and applause [left audio only]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "682d0e10-24b2-47e0-bada-00377d48d05d"
+    },
+    {
+      "start_time": 2750,
+      "end_time": 2752,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "John Giorno Band [left audio only]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown Speaker"
+        }
+      ],
+      "uuid": "5414ce28-f500-416d-9f7a-408229554d45"
+    },
+    {
+      "start_time": 2752,
+      "end_time": 2752,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right audio returns."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "2eb5c2d5-4dd3-4da0-a41d-27ff7de8cd39"
+    },
+    {
+      "start_time": 2752,
+      "end_time": 2753,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheers and applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "929ecbb1-d2b7-4d1e-b884-ec19286b9833"
+    },
+    {
+      "start_time": 2753,
+      "end_time": 2759,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We had 'em last November, we got 'em now, and we're gonna get 'em back again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Alan Lord"
+        }
+      ],
+      "uuid": "8f7e2eeb-9525-4349-a9a4-06601473df88"
+    },
+    {
+      "start_time": 2759,
+      "end_time": 2761,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheers and applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "4c1f1b97-ab71-40d1-bf5f-1326869eef94"
+    },
+    {
+      "start_time": 2761,
+      "end_time": 2763,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let's let him rest now and -"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Alan Lord"
+        }
+      ],
+      "uuid": "940777a2-33aa-4a3d-aa60-5ed1b06c4cf2"
+    },
+    {
+      "start_time": 2763,
+      "end_time": 2764,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause and chatter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "832d68c0-dc67-4329-911c-ae0d1b8b138b"
+    },
+    {
+      "start_time": 2764,
+      "end_time": 2777,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, in a few minutes we'll have a very very special guest to wrap up, uh, pour finir Ultimatum cinq jours deja passe puis, uh, on a garde, uh, quelque chose de tres speciale pour la fin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Alan Lord"
+        }
+      ],
+      "uuid": "2d0ccfa7-acc0-415b-b037-9d9adea3034a"
+    },
+    {
+      "start_time": 2777,
+      "end_time": 2778,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Exclaims [unintelligible]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "9a127bed-18f2-45c3-8e11-e1a46f913f24"
+    },
+    {
+      "start_time": 2778,
+      "end_time": 2782,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On a garde uh, quelque chose de tres speciale pour la fin [off mic]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Alan Lord"
+        }
+      ],
+      "uuid": "f443ff35-ee2b-44bf-8771-afec18dd30c2"
+    },
+    {
+      "start_time": 2782,
+      "end_time": 2784,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "5251bfc5-e691-4b47-8ad4-d953169df6c7"
+    },
+    {
+      "start_time": 2784,
+      "end_time": 2785,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "9ee15301-1b17-4509-991d-61b213bd70dd"
+    },
+    {
+      "start_time": 2785,
+      "end_time": 2786,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rustling, cuts out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "c2575531-856e-4d15-bad4-3797a8e5fa5a"
+    },
+    {
+      "start_time": 2786,
+      "end_time": 2788,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "25f32a3a-3514-4eb8-a664-94d3856c9e3b"
+    },
+    {
+      "start_time": 2788,
+      "end_time": 2788,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "0500d571-1f9f-474b-8d78-058545c632da"
+    }
+  ],
   "set": "Default",
   "event_id": "8ff7fd9b-60d4-4833-8b1a-b6fb93ba4da2",
   "source_id": "12692cb8-ab27-4a62-b73c-ac68c391b964"
