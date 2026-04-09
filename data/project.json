@@ -198,10 +198,6 @@
         },
         {
           "category": "Setting and Tech",
-          "tag": "Unknown Speaker"
-        },
-        {
-          "category": "Setting and Tech",
           "tag": "Performers and Speakers"
         },
         {
@@ -219,7 +215,7 @@
       ]
     },
     "created_at": "2026-03-02T16:12:16.956Z",
-    "updated_at": "2026-04-09T13:20:23.746Z",
+    "updated_at": "2026-04-09T13:21:43.163Z",
     "generate_pages_site": false
   },
   "annotations": {
