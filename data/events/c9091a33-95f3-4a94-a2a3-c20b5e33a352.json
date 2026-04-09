@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "1eb383e0-33d9-4968-bd61-e172c9910127": {
+      "label": "Daniel Guimond at Ultimatum, 1985",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/S4SBTh3e7lI",
+      "duration": 1949,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following is a transcription of Daniel Guimond’s performance at the Ultimatum Festival I, Wednesday, May 1st, 1985 at the Foufounes Electriques bar and performance space in Montreal, Quebec, Canada. Guimond performs poetry with underlying electric music, recorded sounds, and vocals in English and French. Guimond is a writer and multidisciplinary artist from Montreal. Some of his publications include the novel Pourquoi cela n'arrive qu'a moi ? (1999) and four poetry collections (1997, 1991, 1989, 1978). In his work High Friends in Low Places (2022), Alan Lord mentions Guimond’s punk zine SCRAP and his poetry which he performed while “being whipped” (p.52)."
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Daniel Guimond at Ultimatum Festival 1985-05-01",
+  "av_file_order": [
+    "1eb383e0-33d9-4968-bd61-e172c9910127"
+  ],
+  "created_at": "2026-04-09T13:49:33.470Z",
+  "created_by": "spokenweb",
+  "updated_at": "2026-04-09T13:49:33.470Z",
+  "updated_by": "spokenweb"
+}
