@@ -261,27 +261,6 @@
       "uuid": "48f93022-2443-4d6f-95c3-b6767a57fa1e"
     },
     {
-      "start_time": 257,
-      "end_time": 259,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Heavy breathing continues [crackling, canned chatter and laughter]."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Setting and Tech",
-          "tag": "Recorded Sound"
-        }
-      ],
-      "uuid": "2fc6b464-e1f0-40ce-835d-7969d79453ed"
-    },
-    {
       "start_time": 259,
       "end_time": 498,
       "annotation": [
