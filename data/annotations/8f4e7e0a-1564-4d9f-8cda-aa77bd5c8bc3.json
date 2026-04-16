@@ -190,27 +190,6 @@
       "uuid": "2162c91b-fa9d-46b7-a10c-0376fa37696d"
     },
     {
-      "start_time": 202,
-      "end_time": 208,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Applause continues."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Setting and Tech",
-          "tag": "Audience"
-        }
-      ],
-      "uuid": "9b79adc6-09f7-4d58-b5e4-db415315f103"
-    },
-    {
       "start_time": 208,
       "end_time": 217,
       "annotation": [
