@@ -261,27 +261,6 @@
       "uuid": "48f93022-2443-4d6f-95c3-b6767a57fa1e"
     },
     {
-      "start_time": 259,
-      "end_time": 498,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Continues \"Insubordination\"."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Performers and Speakers",
-          "tag": "Richard Martel"
-        }
-      ],
-      "uuid": "a844b482-7051-466a-8794-32be6c9198ea"
-    },
-    {
       "start_time": 498,
       "end_time": 523,
       "annotation": [
