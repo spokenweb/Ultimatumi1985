@@ -237,13 +237,13 @@
     },
     {
       "start_time": 230,
-      "end_time": 257,
+      "end_time": 498,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Performs \"Insubordination\" [Heavy breathing, crackling, canned chatter, and laughter]."
+              "text": "Performs \"Insubordination\" [heavy breathing, crackling, canned chatter, and laughter]."
             }
           ]
         }
@@ -252,6 +252,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Richard Martel"
+        },
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "48f93022-2443-4d6f-95c3-b6767a57fa1e"
