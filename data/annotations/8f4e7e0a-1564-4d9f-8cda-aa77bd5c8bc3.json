@@ -169,14 +169,14 @@
       "uuid": "a82ba431-bcd1-496d-8e14-508ce7380021"
     },
     {
-      "start_time": 201,
-      "end_time": 202,
+      "start_time": 202,
+      "end_time": 208,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Volume of recording dips."
+              "text": "Volume of recording dips, applause continues."
             }
           ]
         }
@@ -185,6 +185,10 @@
         {
           "category": "Setting and Tech",
           "tag": "Recording"
+        },
+        {
+          "tag": "Audience",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "2162c91b-fa9d-46b7-a10c-0376fa37696d"
