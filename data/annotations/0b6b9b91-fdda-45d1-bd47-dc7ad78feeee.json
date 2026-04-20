@@ -1202,14 +1202,14 @@
       "uuid": "afc3a9c9-40cf-403a-ba5b-cc7df4797653"
     },
     {
-      "start_time": 388,
+      "start_time": 389,
       "end_time": 391,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Microphone feedback."
+              "text": "Room noise."
             }
           ]
         }
@@ -1217,7 +1217,7 @@
       "tags": [
         {
           "category": "Setting and Tech",
-          "tag": "Tech"
+          "tag": "Foufounes Electriques"
         }
       ],
       "uuid": "7c6829e3-8295-43be-a82f-9d42febef9a2"
