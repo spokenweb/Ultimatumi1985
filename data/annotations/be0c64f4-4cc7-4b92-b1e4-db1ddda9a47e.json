@@ -1092,27 +1092,6 @@
       "uuid": "1ed334b2-b368-41bd-b92d-162fbb742ad4"
     },
     {
-      "start_time": 976,
-      "end_time": 979,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Rhythmic bassline begins."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Music",
-          "category": "Setting and Tech"
-        }
-      ],
-      "uuid": "31c7214d-8973-4136-900f-63c967c0d909"
-    },
-    {
       "start_time": 978,
       "end_time": 1022,
       "annotation": [
