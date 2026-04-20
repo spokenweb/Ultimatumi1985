@@ -1660,22 +1660,22 @@
       "uuid": "1ef01132-ec08-4c36-bd62-7bffa7999c6b"
     },
     {
-      "start_time": 772,
+      "start_time": 773,
       "end_time": 775,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Laughter."
+              "text": "Laughter, [unintelligible]."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Setting and Tech",
-          "tag": "Audience"
+          "tag": "Audience Member",
+          "category": "Performers and Speakers"
         }
       ],
       "uuid": "3bf418da-727c-4a49-9b7e-51d4a0dc9d7b"
