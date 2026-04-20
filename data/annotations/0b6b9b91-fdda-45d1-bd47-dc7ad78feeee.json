@@ -1202,27 +1202,6 @@
       "uuid": "afc3a9c9-40cf-403a-ba5b-cc7df4797653"
     },
     {
-      "start_time": 386,
-      "end_time": 388,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Audio loop resumes."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Setting and Tech",
-          "tag": "Recorded Sound"
-        }
-      ],
-      "uuid": "e27a39c0-e5f7-4e18-aa40-c544aac440ee"
-    },
-    {
       "start_time": 388,
       "end_time": 391,
       "annotation": [
