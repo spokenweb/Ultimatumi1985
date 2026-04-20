@@ -1209,7 +1209,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
+        }
+      ],
       "uuid": "e6d880f0-5164-4657-94fd-545f18a476a9"
     }
   ],
