@@ -1178,13 +1178,13 @@
     },
     {
       "start_time": 385,
-      "end_time": 386,
+      "end_time": 388,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Microphone feedback."
+              "text": "Audio loop continues with microphone feedback."
             }
           ]
         }
@@ -1193,6 +1193,10 @@
         {
           "category": "Setting and Tech",
           "tag": "Tech"
+        },
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "afc3a9c9-40cf-403a-ba5b-cc7df4797653"
