@@ -1113,22 +1113,26 @@
       "uuid": "31c7214d-8973-4136-900f-63c967c0d909"
     },
     {
-      "start_time": 975,
-      "end_time": 976,
+      "start_time": 978,
+      "end_time": 1022,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Collective whooping and clapping."
+              "text": "Collective whooping and clapping, rhythmic bassline begins"
             }
           ]
         }
       ],
       "tags": [
         {
-          "tag": "Unknown Performer",
-          "category": "Performers and Speakers"
+          "category": "Performers and Speakers",
+          "tag": "Unknown Performers"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "ab1822e5-b51f-4b7f-9036-66554652e6d0"
