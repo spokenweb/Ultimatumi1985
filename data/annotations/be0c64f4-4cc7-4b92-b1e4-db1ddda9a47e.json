@@ -296,8 +296,12 @@
       ],
       "tags": [
         {
-          "category": "Setting and Tech",
-          "tag": "Recorded Sound"
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown Performers"
         }
       ],
       "uuid": "69c6182d-3c05-4fd5-9904-6f193650f28c"
