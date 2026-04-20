@@ -610,27 +610,6 @@
       "uuid": "1415c75a-dd8c-4525-8bc6-6ac9fbfea62b"
     },
     {
-      "start_time": 698,
-      "end_time": 699,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Laughter."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Audience",
-          "category": "Setting and Tech"
-        }
-      ],
-      "uuid": "1b9ed987-4af9-4606-a514-b8c6f306e657"
-    },
-    {
       "start_time": 707,
       "end_time": 734,
       "annotation": [
