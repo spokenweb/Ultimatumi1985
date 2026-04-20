@@ -50,7 +50,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Continues piece."
+              "text": "Continues piece [no underscore]."
             }
           ]
         }
