@@ -1195,6 +1195,22 @@
         }
       ],
       "uuid": "be064cba-1662-4a0f-b9a7-194ce7c4e495"
+    },
+    {
+      "start_time": 905,
+      "end_time": 912,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bassline and multi-layered audio continues."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e6d880f0-5164-4657-94fd-545f18a476a9"
     }
   ],
   "set": "Default",
