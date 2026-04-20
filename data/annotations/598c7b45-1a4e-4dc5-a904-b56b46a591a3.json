@@ -881,6 +881,27 @@
         }
       ],
       "uuid": "d82ce661-e815-4161-a6bd-e7acf00903ed"
+    },
+    {
+      "start_time": 979,
+      "end_time": 979,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fades out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "892043cb-c530-4ba7-b6ac-0faa9168dabf"
     }
   ],
   "set": "Default",
