@@ -1216,6 +1216,27 @@
         }
       ],
       "uuid": "e6d880f0-5164-4657-94fd-545f18a476a9"
+    },
+    {
+      "start_time": 915,
+      "end_time": 969,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bassline"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "bee4f2d4-60c0-436f-861e-c4a10e9aba45"
     }
   ],
   "set": "Default",
