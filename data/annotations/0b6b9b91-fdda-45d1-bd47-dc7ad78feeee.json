@@ -1293,7 +1293,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Distant voice."
+              "text": "Distant voice overlaps with audio loop."
             }
           ]
         }
@@ -1302,6 +1302,10 @@
         {
           "category": "Setting and Tech",
           "tag": "Unknown"
+        },
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "4096e7eb-533f-4e1f-b0e7-788078856143"
