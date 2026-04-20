@@ -1142,7 +1142,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Audio loop resumes."
+              "text": "Resumes then skips on a loop."
             }
           ]
         }
