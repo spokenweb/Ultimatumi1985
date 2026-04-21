@@ -2096,7 +2096,7 @@
       "uuid": "d610bb7b-5492-4c1f-af5c-e5c87c793879"
     },
     {
-      "start_time": 1678,
+      "start_time": 1679,
       "end_time": 1689,
       "annotation": [
         {
@@ -2112,6 +2112,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "John Giorno Band"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "fed1d443-3f5d-465a-9259-2e52efa359fc"
