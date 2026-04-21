@@ -1480,27 +1480,6 @@
       "uuid": "46b30d1e-69c8-4326-8f3e-740e98a48b0c"
     },
     {
-      "start_time": 1523,
-      "end_time": 1524,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Speaks [unintelligible]."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Performers and Speakers",
-          "tag": "Unknown Speaker"
-        }
-      ],
-      "uuid": "9df717bd-3327-471e-8ba5-710f80a1004f"
-    },
-    {
       "start_time": 1524,
       "end_time": 1525,
       "annotation": [
