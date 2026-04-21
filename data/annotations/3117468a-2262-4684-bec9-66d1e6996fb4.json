@@ -2449,27 +2449,6 @@
     },
     {
       "start_time": 1772,
-      "end_time": 1772,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Cuts [possible tape change]."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Setting and Tech",
-          "tag": "Recording"
-        }
-      ],
-      "uuid": "946643d7-4b28-4164-8938-671ba78b0687"
-    },
-    {
-      "start_time": 1772,
       "end_time": 1773,
       "annotation": [
         {
