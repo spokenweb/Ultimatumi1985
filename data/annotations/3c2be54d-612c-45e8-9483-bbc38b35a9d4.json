@@ -1,1 +1,973 @@
-{"annotations":[{"start_time":0,"end_time":1,"annotation":[{"type":"paragraph","children":[{"text":"Room noise."}]}],"tags":[{"category":"Setting and Tech","tag":"Foufounes Electriques"}],"uuid":"2de75ef7-394f-4416-8b60-3c7f2580bd32"},{"start_time":4,"end_time":187,"annotation":[{"type":"paragraph","children":[{"text":"Performs sound piece [mixture of live and recorded sounds: slamming, off-beat clapping, barking, laughter, human voices, stomping, mouth sounds, tapping, crackling]."}]}],"tags":[{"category":"Performers and Speakers","tag":"Jean-Paul Curtay"}],"uuid":"083a9e0f-e5f5-4904-bb4b-4b67f0df7e45"},{"start_time":187,"end_time":197,"annotation":[{"type":"paragraph","children":[{"text":"Room noise."}]}],"tags":[{"category":"Setting and Tech","tag":"Foufounes Electriques"}],"uuid":"df5409e0-186f-47d4-8a1b-8abb27ca8fd1"},{"start_time":197,"end_time":199,"annotation":[{"type":"paragraph","children":[{"text":"Microphone feedback."}]}],"tags":[{"category":"Setting and Tech","tag":"Tech"}],"uuid":"c4bcf426-323e-4562-a50b-cc23d13ff3cf"},{"start_time":199,"end_time":276,"annotation":[{"type":"paragraph","children":[{"text":"Performs sound piece [vocalizes][microphone feedback throughout]."}]}],"tags":[{"category":"Performers and Speakers","tag":"Jean-Paul Curtay"}],"uuid":"393ef5f5-2eab-470a-8350-e4a30f9fec77"},{"start_time":276,"end_time":283,"annotation":[{"type":"paragraph","children":[{"text":"Performs sound piece [trickling sound]."}]}],"tags":[{"category":"Performers and Speakers","tag":"Jean-Paul Curtay"}],"uuid":"e3764298-d490-45f6-a728-95af74b0cdb1"},{"start_time":283,"end_time":285,"annotation":[{"type":"paragraph","children":[{"text":"Room noise."}]}],"tags":[{"category":"Setting and Tech","tag":"Foufounes Electriques"}],"uuid":"dd0759f2-a5fe-4ca7-9ce1-8abab2830d9e"},{"start_time":285,"end_time":343,"annotation":[{"type":"paragraph","children":[{"text":"Resumes sound piece."}]}],"tags":[{"category":"Performers and Speakers","tag":"Jean-Paul Curtay"}],"uuid":"cf6a0d74-0a0d-464c-976b-db6c9c34656b"},{"start_time":343,"end_time":344,"annotation":[{"type":"paragraph","children":[{"text":"Microphone feedback."}]}],"tags":[{"category":"Setting and Tech","tag":"Tech"}],"uuid":"28fc2815-5bb7-4c84-bcc9-25e6852d7e32"},{"start_time":344,"end_time":355,"annotation":[{"type":"paragraph","children":[{"text":"Room noise."}]}],"tags":[{"category":"Setting and Tech","tag":"Foufounes Electriques"}],"uuid":"e81e224a-3ef4-46a8-9a6e-b075a6230f1c"},{"start_time":355,"end_time":414,"annotation":[{"type":"paragraph","children":[{"text":"Resumes sound piece [tapping and clapping sounds]."}]}],"tags":[{"category":"Performers and Speakers","tag":"Jean-Paul Curtay"}],"uuid":"6842cd6d-57c0-4f22-b400-d873174e002e"},{"start_time":414,"end_time":429,"annotation":[{"type":"paragraph","children":[{"text":"Murmuring [soft laughter]."}]}],"tags":[{"category":"Setting and Tech","tag":"Audience"}],"uuid":"3c48cc2c-4457-430c-864b-7f05972b6656"},{"start_time":355,"end_time":490,"annotation":[{"type":"paragraph","children":[{"text":"Resumes sound piece."}]}],"tags":[{"category":"Performers and Speakers","tag":"Jean-Paul Curtay"}],"uuid":"253fe8f3-7840-472c-8478-d0430581205f"},{"start_time":490,"end_time":497,"annotation":[{"type":"paragraph","children":[{"text":"Speakers popping."}]}],"tags":[{"category":"Setting and Tech","tag":"Tech"}],"uuid":"2fc4ba87-f4ea-4980-8ea5-c44d89de2cc6"},{"start_time":497,"end_time":501,"annotation":[{"type":"paragraph","children":[{"text":"Resumes sound piece."}]}],"tags":[{"category":"Performers and Speakers","tag":"Jean-Paul Curtay"}],"uuid":"635fe8cb-78bb-47e5-affc-88044ddb6958"},{"start_time":501,"end_time":502,"annotation":[{"type":"paragraph","children":[{"text":"Speakers popping."}]}],"tags":[{"category":"Setting and Tech","tag":"Tech"}],"uuid":"dfae73c7-1baf-431e-8d69-3323bda37426"},{"start_time":502,"end_time":617,"annotation":[{"type":"paragraph","children":[{"text":"Continues sound piece."}]}],"tags":[{"category":"Performers and Speakers","tag":"Jean-Paul Curtay"}],"uuid":"2c59dc0b-a1dd-4712-ba71-3d7841add120"},{"start_time":617,"end_time":623,"annotation":[{"type":"paragraph","children":[{"text":"Room noise."}]}],"tags":[{"category":"Setting and Tech","tag":"Foufounes Electriques"}],"uuid":"a6aa7a1b-689e-4c98-8762-0f37f5950795"},{"start_time":623,"end_time":640,"annotation":[{"type":"paragraph","children":[{"text":"Applause."}]}],"tags":[{"category":"Setting and Tech","tag":"Audience"}],"uuid":"f6472638-ad10-49ba-a637-a13cf8dbeb22"},{"start_time":623,"end_time":938,"annotation":[{"type":"paragraph","children":[{"text":"Performs sound piece [accompanied by recorded sounds: computer noises, baby crying, humming, gurgling, horn, high pitched gibberish]."}]}],"tags":[{"category":"Performers and Speakers","tag":"Jean-Paul Curtay"}],"uuid":"d7c6f03a-562f-444a-a517-38bdc5d985bd"},{"start_time":938,"end_time":940,"annotation":[{"type":"paragraph","children":[{"text":"Silence [cuts out]."}]}],"tags":[{"category":"Setting and Tech","tag":"Recording"}],"uuid":"a3b7632c-d117-4eba-97c2-b1296566adb3"},{"start_time":940,"end_time":1272,"annotation":[{"type":"paragraph","children":[{"text":"Continues sound piece."}]}],"tags":[{"category":"Performers and Speakers","tag":"Jean-Paul Curtay"}],"uuid":"2ad0a37a-ba19-424b-a77b-9be705e5f9b7"},{"start_time":1272,"end_time":1284,"annotation":[{"type":"paragraph","children":[{"text":"Room noise."}]}],"tags":[{"category":"Setting and Tech","tag":"Foufounes Electriques"}],"uuid":"32e1772e-3afd-43e7-8cc0-94bd3e1775de"},{"start_time":1284,"end_time":1624,"annotation":[{"type":"paragraph","children":[{"text":"Performs sound piece [accompanied by recorded sounds: whispering, gurgling, metallic grinding, bird calls, human voices]."}]}],"tags":[{"category":"Performers and Speakers","tag":"Jean-Paul Curtay"}],"uuid":"cc1b94c5-d0b1-4211-9193-53d43baf5545"},{"start_time":1624,"end_time":1628,"annotation":[{"type":"paragraph","children":[{"text":"Microphone feedback."}]}],"tags":[{"category":"Setting and Tech","tag":"Tech"}],"uuid":"72ea0053-0cb7-4eb4-b511-2770308795d2"},{"start_time":1628,"end_time":1629,"annotation":[{"type":"paragraph","children":[{"text":"Continues sound piece."}]}],"tags":[{"category":"Performers and Speakers","tag":"Jean-Paul Curtay"}],"uuid":"8a6689f1-12ac-44a7-8b38-57cbfcfcf453"},{"start_time":1629,"end_time":1632,"annotation":[{"type":"paragraph","children":[{"text":"Chatter and whistling."}]}],"tags":[{"category":"Setting and Tech","tag":"Audience"}],"uuid":"8eb77066-2a39-4bf0-bc6d-7c65901f84e5"},{"start_time":1632,"end_time":1634,"annotation":[{"type":"paragraph","children":[{"text":"Continues sound piece"}]}],"tags":[{"category":"Performers and Speakers","tag":"Jean-Paul Curtay"}],"uuid":"97c3eb74-1fcb-48a5-bd67-640691736d6e"},{"start_time":1634,"end_time":1636,"annotation":[{"type":"paragraph","children":[{"text":"Room noise."}]}],"tags":[{"category":"Setting and Tech","tag":"Foufounes Electriques"}],"uuid":"7dd00007-e15f-402d-815f-654b2303431d"},{"start_time":1636,"end_time":1643,"annotation":[{"type":"paragraph","children":[{"text":"Shouting [unintelligible] and laughter."}]}],"tags":[{"category":"Setting and Tech","tag":"Audience"}],"uuid":"e968f898-6951-4722-874f-7f248b75c4d3"},{"start_time":1643,"end_time":1649,"annotation":[{"type":"paragraph","children":[{"text":"Performs sound piece."}]}],"tags":[{"category":"Performers and Speakers","tag":"Jean-Paul Curtay"}],"uuid":"7706b5c7-d395-43e0-9e1e-708c866d8795"},{"start_time":1649,"end_time":1650,"annotation":[{"type":"paragraph","children":[{"text":"Coughing."}]}],"tags":[{"category":"Performers and Speakers","tag":"Audience Member"}],"uuid":"97ca23c8-66bd-4da6-9771-6f7c1a282978"},{"start_time":1650,"end_time":1663,"annotation":[{"type":"paragraph","children":[{"text":"Continues sound piece [accompanied by recorded sounds:chugging, lasers]."}]}],"tags":[{"category":"Performers and Speakers","tag":"Jean-Paul Curtay"}],"uuid":"008f48e8-ab44-4205-9119-e8d3463886e6"},{"start_time":1663,"end_time":1668,"annotation":[{"type":"paragraph","children":[{"text":"Applause."}]}],"tags":[{"category":"Setting and Tech","tag":"Audience"}],"uuid":"69657171-316f-439e-8dcc-1e6e1aa0f582"},{"start_time":1668,"end_time":1680,"annotation":[{"type":"paragraph","children":[{"text":"continues sound piece."}]}],"tags":[{"category":"Performers and Speakers","tag":"Jean-Paul Curtay"}],"uuid":"c4df1857-6e73-4b8b-8cd1-c016aeca8663"},{"start_time":1680,"end_time":1685,"annotation":[{"type":"paragraph","children":[{"text":"Applause."}]}],"tags":[{"category":"Setting and Tech","tag":"Audience"}],"uuid":"992eae1a-65bc-4cb5-8158-fdcd16fb47fd"},{"start_time":1685,"end_time":1698,"annotation":[{"type":"paragraph","children":[{"text":"Room noise."}]}],"tags":[{"category":"Setting and Tech","tag":"Foufounes Electriques"}],"uuid":"fd2372fc-eb65-4ecb-8af3-500ba9cec267"},{"start_time":1698,"end_time":1699,"annotation":[{"type":"paragraph","children":[{"text":"Microphone crackle."}]}],"tags":[{"category":"Setting and Tech","tag":"Tech"}],"uuid":"331836de-cf80-48cc-9933-491ba3ce79a2"},{"start_time":1699,"end_time":1712,"annotation":[{"type":"paragraph","children":[{"text":"Bon, Bon soooooooooooir [modulation], bon soir! En attendan the John Giorno baaaaaaaand [echo: baaaand]."}]}],"tags":[{"category":"Performers and Speakers","tag":"Alan Lord"}],"uuid":"edf8894b-00f8-4839-9980-ecef37319533"},{"start_time":1712,"end_time":1714,"annotation":[{"type":"paragraph","children":[{"text":"Applause."}]}],"tags":[{"category":"Setting and Tech","tag":"Audience"}],"uuid":"2e765bfd-2a7b-4e9f-a3d2-c5ab77ec26b1"},{"start_time":1712,"end_time":1742,"annotation":[{"type":"paragraph","children":[{"text":"Pendent que les techniciens vont defiler le renfilage et vice versa [echo], on va visioner le film de Napoleon Moffat qui s’appelle Framed-d. Qui est originalement un super huite qui a ete transfer a trois–three quarter inch, trois quarts video. C’est un film excellent pis un des meilleures… Pour cinq minutes vous avez le poesie visuel plein de geule, okay?"}]}],"tags":[{"category":"Performers and Speakers","tag":"Alan Lord"}],"uuid":"7f6fd341-ef7d-4f60-b303-194d1d477295"},{"start_time":1742,"end_time":1797,"annotation":[{"type":"paragraph","children":[{"text":"Chatter."}]}],"tags":[{"category":"Setting and Tech","tag":"Audience"}],"uuid":"5e0fa2c9-c1ee-4a6a-80e4-b4412294eb23"},{"start_time":1797,"end_time":1851,"annotation":[{"type":"paragraph","children":[{"text":"Napoleon Moffat’s \"Framed\" starts [piano music]."}]}],"tags":[{"category":"Setting and Tech","tag":"Tech"}],"uuid":"8834d456-8eda-4d57-bd2b-a76c99e732ce"},{"start_time":1851,"end_time":1875,"annotation":[{"type":"paragraph","children":[{"text":"Film continues [speech: There are spaces that live between us. The transparency of their names. A terrible tragedy that haunts their walls. A revelation of their fiction. Of something which might of happened but that never really occurred]."}]}],"tags":[{"category":"Setting and Tech","tag":"Tech"}],"uuid":"d137a05d-b205-482a-964d-41c23e2a80c8"},{"start_time":1875,"end_time":1906,"annotation":[{"type":"paragraph","children":[{"text":"Film continues [piano music]."}]}],"tags":[{"category":"Setting and Tech","tag":"Tech"}],"uuid":"233952fa-43a1-439a-8900-5a5fb3393f40"},{"start_time":1906,"end_time":1906,"annotation":[{"type":"paragraph","children":[{"text":"[End of recording]."}]}],"tags":[{"tag":"END","category":"Setting and Tech"}],"uuid":"f5900760-7a98-4226-aa47-b9cb1283b1d0"}],"set":"Default","event_id":"a931fb3f-cff7-4b03-aa28-0383e03f741d","source_id":"ce398232-c25e-41b5-a74b-0ae2c5df8347"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "2de75ef7-394f-4416-8b60-3c7f2580bd32"
+    },
+    {
+      "start_time": 1,
+      "end_time": 187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs sound piece [mixture of live and recorded sounds: slamming, off-beat clapping, barking, laughter, human voices, stomping, mouth sounds, tapping, crackling]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jean-Paul Curtay"
+        }
+      ],
+      "uuid": "083a9e0f-e5f5-4904-bb4b-4b67f0df7e45"
+    },
+    {
+      "start_time": 187,
+      "end_time": 197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "df5409e0-186f-47d4-8a1b-8abb27ca8fd1"
+    },
+    {
+      "start_time": 197,
+      "end_time": 199,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Microphone feedback."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "c4bcf426-323e-4562-a50b-cc23d13ff3cf"
+    },
+    {
+      "start_time": 199,
+      "end_time": 276,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs sound piece [vocalizes][microphone feedback throughout]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jean-Paul Curtay"
+        }
+      ],
+      "uuid": "393ef5f5-2eab-470a-8350-e4a30f9fec77"
+    },
+    {
+      "start_time": 276,
+      "end_time": 283,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs sound piece [trickling sound]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jean-Paul Curtay"
+        }
+      ],
+      "uuid": "e3764298-d490-45f6-a728-95af74b0cdb1"
+    },
+    {
+      "start_time": 283,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "dd0759f2-a5fe-4ca7-9ce1-8abab2830d9e"
+    },
+    {
+      "start_time": 285,
+      "end_time": 343,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes sound piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jean-Paul Curtay"
+        }
+      ],
+      "uuid": "cf6a0d74-0a0d-464c-976b-db6c9c34656b"
+    },
+    {
+      "start_time": 343,
+      "end_time": 344,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Microphone feedback."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "28fc2815-5bb7-4c84-bcc9-25e6852d7e32"
+    },
+    {
+      "start_time": 344,
+      "end_time": 355,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "e81e224a-3ef4-46a8-9a6e-b075a6230f1c"
+    },
+    {
+      "start_time": 355,
+      "end_time": 414,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes sound piece [tapping and clapping sounds]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jean-Paul Curtay"
+        }
+      ],
+      "uuid": "6842cd6d-57c0-4f22-b400-d873174e002e"
+    },
+    {
+      "start_time": 414,
+      "end_time": 429,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Murmuring [soft laughter]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "3c48cc2c-4457-430c-864b-7f05972b6656"
+    },
+    {
+      "start_time": 355,
+      "end_time": 490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes sound piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jean-Paul Curtay"
+        }
+      ],
+      "uuid": "253fe8f3-7840-472c-8478-d0430581205f"
+    },
+    {
+      "start_time": 490,
+      "end_time": 497,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speakers popping."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "2fc4ba87-f4ea-4980-8ea5-c44d89de2cc6"
+    },
+    {
+      "start_time": 497,
+      "end_time": 501,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes sound piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jean-Paul Curtay"
+        }
+      ],
+      "uuid": "635fe8cb-78bb-47e5-affc-88044ddb6958"
+    },
+    {
+      "start_time": 501,
+      "end_time": 502,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speakers popping."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "dfae73c7-1baf-431e-8d69-3323bda37426"
+    },
+    {
+      "start_time": 502,
+      "end_time": 617,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues sound piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jean-Paul Curtay"
+        }
+      ],
+      "uuid": "2c59dc0b-a1dd-4712-ba71-3d7841add120"
+    },
+    {
+      "start_time": 617,
+      "end_time": 623,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "a6aa7a1b-689e-4c98-8762-0f37f5950795"
+    },
+    {
+      "start_time": 623,
+      "end_time": 640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "f6472638-ad10-49ba-a637-a13cf8dbeb22"
+    },
+    {
+      "start_time": 623,
+      "end_time": 938,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs sound piece [accompanied by recorded sounds: computer noises, baby crying, humming, gurgling, horn, high pitched gibberish]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jean-Paul Curtay"
+        }
+      ],
+      "uuid": "d7c6f03a-562f-444a-a517-38bdc5d985bd"
+    },
+    {
+      "start_time": 938,
+      "end_time": 940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Silence [cuts out]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recording"
+        }
+      ],
+      "uuid": "a3b7632c-d117-4eba-97c2-b1296566adb3"
+    },
+    {
+      "start_time": 940,
+      "end_time": 1272,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues sound piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jean-Paul Curtay"
+        }
+      ],
+      "uuid": "2ad0a37a-ba19-424b-a77b-9be705e5f9b7"
+    },
+    {
+      "start_time": 1272,
+      "end_time": 1284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "32e1772e-3afd-43e7-8cc0-94bd3e1775de"
+    },
+    {
+      "start_time": 1284,
+      "end_time": 1624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs sound piece [accompanied by recorded sounds: whispering, gurgling, metallic grinding, bird calls, human voices]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jean-Paul Curtay"
+        }
+      ],
+      "uuid": "cc1b94c5-d0b1-4211-9193-53d43baf5545"
+    },
+    {
+      "start_time": 1624,
+      "end_time": 1628,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Microphone feedback."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "72ea0053-0cb7-4eb4-b511-2770308795d2"
+    },
+    {
+      "start_time": 1628,
+      "end_time": 1629,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues sound piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jean-Paul Curtay"
+        }
+      ],
+      "uuid": "8a6689f1-12ac-44a7-8b38-57cbfcfcf453"
+    },
+    {
+      "start_time": 1629,
+      "end_time": 1632,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chatter and whistling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "8eb77066-2a39-4bf0-bc6d-7c65901f84e5"
+    },
+    {
+      "start_time": 1632,
+      "end_time": 1634,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues sound piece"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jean-Paul Curtay"
+        }
+      ],
+      "uuid": "97c3eb74-1fcb-48a5-bd67-640691736d6e"
+    },
+    {
+      "start_time": 1634,
+      "end_time": 1636,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "7dd00007-e15f-402d-815f-654b2303431d"
+    },
+    {
+      "start_time": 1636,
+      "end_time": 1643,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shouting [unintelligible] and laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "e968f898-6951-4722-874f-7f248b75c4d3"
+    },
+    {
+      "start_time": 1643,
+      "end_time": 1649,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs sound piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jean-Paul Curtay"
+        }
+      ],
+      "uuid": "7706b5c7-d395-43e0-9e1e-708c866d8795"
+    },
+    {
+      "start_time": 1649,
+      "end_time": 1650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coughing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "97ca23c8-66bd-4da6-9771-6f7c1a282978"
+    },
+    {
+      "start_time": 1650,
+      "end_time": 1663,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues sound piece [accompanied by recorded sounds:chugging, lasers]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jean-Paul Curtay"
+        }
+      ],
+      "uuid": "008f48e8-ab44-4205-9119-e8d3463886e6"
+    },
+    {
+      "start_time": 1663,
+      "end_time": 1668,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "69657171-316f-439e-8dcc-1e6e1aa0f582"
+    },
+    {
+      "start_time": 1668,
+      "end_time": 1680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "continues sound piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Jean-Paul Curtay"
+        }
+      ],
+      "uuid": "c4df1857-6e73-4b8b-8cd1-c016aeca8663"
+    },
+    {
+      "start_time": 1680,
+      "end_time": 1685,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "992eae1a-65bc-4cb5-8158-fdcd16fb47fd"
+    },
+    {
+      "start_time": 1685,
+      "end_time": 1698,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "fd2372fc-eb65-4ecb-8af3-500ba9cec267"
+    },
+    {
+      "start_time": 1698,
+      "end_time": 1699,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Microphone crackle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "331836de-cf80-48cc-9933-491ba3ce79a2"
+    },
+    {
+      "start_time": 1699,
+      "end_time": 1712,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bon, Bon soooooooooooir [modulation], bon soir! En attendan the John Giorno baaaaaaaand [echo: baaaand]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Alan Lord"
+        }
+      ],
+      "uuid": "edf8894b-00f8-4839-9980-ecef37319533"
+    },
+    {
+      "start_time": 1712,
+      "end_time": 1714,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "2e765bfd-2a7b-4e9f-a3d2-c5ab77ec26b1"
+    },
+    {
+      "start_time": 1712,
+      "end_time": 1742,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pendent que les techniciens vont defiler le renfilage et vice versa [echo], on va visioner le film de Napoleon Moffat qui s’appelle Framed-d. Qui est originalement un super huite qui a ete transfer a trois–three quarter inch, trois quarts video. C’est un film excellent pis un des meilleures… Pour cinq minutes vous avez le poesie visuel plein de geule, okay?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Alan Lord"
+        }
+      ],
+      "uuid": "7f6fd341-ef7d-4f60-b303-194d1d477295"
+    },
+    {
+      "start_time": 1742,
+      "end_time": 1797,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chatter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "5e0fa2c9-c1ee-4a6a-80e4-b4412294eb23"
+    },
+    {
+      "start_time": 1797,
+      "end_time": 1851,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Napoleon Moffat’s \"Framed\" starts [piano music]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "8834d456-8eda-4d57-bd2b-a76c99e732ce"
+    },
+    {
+      "start_time": 1851,
+      "end_time": 1875,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Film continues [speech: There are spaces that live between us. The transparency of their names. A terrible tragedy that haunts their walls. A revelation of their fiction. Of something which might of happened but that never really occurred]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "d137a05d-b205-482a-964d-41c23e2a80c8"
+    },
+    {
+      "start_time": 1875,
+      "end_time": 1906,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Film continues [piano music]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "233952fa-43a1-439a-8900-5a5fb3393f40"
+    },
+    {
+      "start_time": 1906,
+      "end_time": 1906,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "END",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "f5900760-7a98-4226-aa47-b9cb1283b1d0"
+    }
+  ],
+  "set": "Default",
+  "event_id": "a931fb3f-cff7-4b03-aa28-0383e03f741d",
+  "source_id": "ce398232-c25e-41b5-a74b-0ae2c5df8347"
+}
