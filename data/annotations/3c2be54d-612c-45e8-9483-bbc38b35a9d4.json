@@ -379,7 +379,7 @@
       "uuid": "f6472638-ad10-49ba-a637-a13cf8dbeb22"
     },
     {
-      "start_time": 623,
+      "start_time": 640,
       "end_time": 938,
       "annotation": [
         {
@@ -395,6 +395,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Jean-Paul Curtay"
+        },
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "d7c6f03a-562f-444a-a517-38bdc5d985bd"
