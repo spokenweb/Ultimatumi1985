@@ -233,27 +233,6 @@
     },
     {
       "start_time": 414,
-      "end_time": 429,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Murmuring [soft laughter]."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Setting and Tech",
-          "tag": "Audience"
-        }
-      ],
-      "uuid": "3c48cc2c-4457-430c-864b-7f05972b6656"
-    },
-    {
-      "start_time": 414,
       "end_time": 490,
       "annotation": [
         {
