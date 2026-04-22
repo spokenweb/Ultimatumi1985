@@ -993,6 +993,31 @@
         }
       ],
       "uuid": "384cb414-c65c-48be-8f15-d17a20889cd6"
+    },
+    {
+      "start_time": 1685,
+      "end_time": 1692,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fades out sound piece, sound quality more distant."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jean-Paul Curtay",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "4beca37d-3b32-454c-afd0-9ba5b491ef13"
     }
   ],
   "set": "Default",
