@@ -616,7 +616,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Performs sound piece."
+              "text": "Performs sound piece [metallic trinkle sounds]."
             }
           ]
         }
@@ -625,6 +625,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Jean-Paul Curtay"
+        },
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "7706b5c7-d395-43e0-9e1e-708c866d8795"
