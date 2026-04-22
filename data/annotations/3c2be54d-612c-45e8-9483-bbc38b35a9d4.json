@@ -425,14 +425,14 @@
       "uuid": "a3b7632c-d117-4eba-97c2-b1296566adb3"
     },
     {
-      "start_time": 940,
+      "start_time": 941,
       "end_time": 1272,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Continues sound piece."
+              "text": "Resumes sound piece."
             }
           ]
         }
