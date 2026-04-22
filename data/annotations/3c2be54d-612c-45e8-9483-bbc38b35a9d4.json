@@ -704,7 +704,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "continues sound piece."
+              "text": "Continues sound piece [louder, whispering]."
             }
           ]
         }
@@ -713,6 +713,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Jean-Paul Curtay"
+        },
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "c4df1857-6e73-4b8b-8cd1-c016aeca8663"
