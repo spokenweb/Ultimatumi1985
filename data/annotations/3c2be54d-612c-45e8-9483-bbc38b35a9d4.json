@@ -528,7 +528,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Continues sound piece."
+              "text": "Continues sound piece [accompanied by recorded sounds: whispering, gurgling, metallic grinding, bird calls, human voices]."
             }
           ]
         }
@@ -537,6 +537,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Jean-Paul Curtay"
+        },
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "8a6689f1-12ac-44a7-8b38-57cbfcfcf453"
