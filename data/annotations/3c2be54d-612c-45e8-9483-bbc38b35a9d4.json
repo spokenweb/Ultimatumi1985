@@ -908,8 +908,16 @@
       ],
       "tags": [
         {
-          "category": "Setting and Tech",
-          "tag": "Tech"
+          "category": "Performers and Speakers",
+          "tag": "Napoleon Moffat"
+        },
+        {
+          "tag": "Unknown Performer",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "d137a05d-b205-482a-964d-41c23e2a80c8"
