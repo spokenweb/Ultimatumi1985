@@ -2571,13 +2571,13 @@
     },
     {
       "start_time": 1198,
-      "end_time": 1200,
+      "end_time": 1201,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Alright [echoes], unintelligible speech continues."
+              "text": "Alright [echoes], unintelligible speech continues [echoes]."
             }
           ]
         }
