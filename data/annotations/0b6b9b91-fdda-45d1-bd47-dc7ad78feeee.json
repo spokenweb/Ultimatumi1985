@@ -1154,7 +1154,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Continues piece, vocalist speaks [French] [over top of audio loop]."
+              "text": "Continues piece, vocalist speaks [French] over top of audio loop."
             }
           ]
         }
@@ -1163,6 +1163,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Boys du Severe"
+        },
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "c2301b04-26d1-4ec6-8271-246b59f16c56"
