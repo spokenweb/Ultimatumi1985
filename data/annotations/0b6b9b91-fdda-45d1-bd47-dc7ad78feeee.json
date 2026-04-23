@@ -2577,7 +2577,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Alright [echoes]."
+              "text": "Alright [echoes], unintelligible speech continues."
             }
           ]
         }
@@ -2586,6 +2586,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Boys du Severe Member"
+        },
+        {
+          "tag": "Unknown",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "ce677483-545d-46ae-a913-49f334925890"
