@@ -3203,6 +3203,27 @@
         }
       ],
       "uuid": "b0d104f7-31d1-4904-bd6a-17e2824fdd9f"
+    },
+    {
+      "start_time": 796,
+      "end_time": 796,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Drum hit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "127b066d-3e0a-46fe-b5f0-df818d8046c4"
     }
   ],
   "set": "Default",
