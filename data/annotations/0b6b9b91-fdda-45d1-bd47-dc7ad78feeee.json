@@ -2451,15 +2451,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Bon ben."
+              "text": "Bon ben [echo]."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Performers and Speakers",
-          "tag": "Boys du Severe Member"
+          "tag": "Unknown",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "b44eb6b4-c9b2-4b83-b2bb-e6805a983f58"
