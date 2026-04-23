@@ -3156,7 +3156,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Applause."
+              "text": "Applause [overlaps with electronic beat]."
             }
           ]
         }
@@ -3165,6 +3165,10 @@
         {
           "category": "Setting and Tech",
           "tag": "Audience"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "ec0f2521-bbb1-4ce3-9887-ac5b38cd55b9"
