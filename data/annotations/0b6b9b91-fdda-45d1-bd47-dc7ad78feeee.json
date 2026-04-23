@@ -3240,6 +3240,31 @@
         }
       ],
       "uuid": "127b066d-3e0a-46fe-b5f0-df818d8046c4"
+    },
+    {
+      "start_time": 1196,
+      "end_time": 1196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Glasses clinking, drumbeat continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
+        },
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "c498f312-b32b-40d1-994b-e18d9624173a"
     }
   ],
   "set": "Default",
