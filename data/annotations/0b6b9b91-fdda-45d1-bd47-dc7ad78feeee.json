@@ -3265,6 +3265,31 @@
         }
       ],
       "uuid": "c498f312-b32b-40d1-994b-e18d9624173a"
+    },
+    {
+      "start_time": 1196,
+      "end_time": 1198,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaking [unintelligible], drum beat continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unknown",
+          "category": "Setting and Tech"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "1ecf1827-e07e-4920-90fe-8bc4241a0896"
     }
   ],
   "set": "Default",
