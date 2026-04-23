@@ -2999,13 +2999,13 @@
     },
     {
       "start_time": 1300,
-      "end_time": 1305,
+      "end_time": 1303,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Guitar gets louder then recedes."
+              "text": "Guitar gets louder."
             }
           ]
         }
