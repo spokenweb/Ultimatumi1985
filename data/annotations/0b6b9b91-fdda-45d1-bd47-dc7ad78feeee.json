@@ -2367,7 +2367,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Speaks [Spanish extra-poetic speech]."
+              "text": "Two vocalists speak [Spanish extra-poetic speech]."
             }
           ]
         }
@@ -2375,7 +2375,7 @@
       "tags": [
         {
           "category": "Performers and Speakers",
-          "tag": "Boys du Severe Member"
+          "tag": "Boys du Severe"
         }
       ],
       "uuid": "eb87ca2a-a5b7-4485-b357-9d9a180fdf2e"
