@@ -2466,21 +2466,21 @@
     },
     {
       "start_time": 1184,
-      "end_time": 1186,
+      "end_time": 1191,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Continues speaking [unintelligible]."
+              "text": "Voices speaking [unintelligible], echo."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Performers and Speakers",
-          "tag": "Boys du Severe Member"
+          "tag": "Unknown",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "ab4287c8-56c5-425c-9635-c217617e9fb8"
