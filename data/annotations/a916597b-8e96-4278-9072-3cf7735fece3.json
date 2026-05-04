@@ -900,6 +900,35 @@
         }
       ],
       "uuid": "f9214391-ee96-4947-a4a2-9f7da2d0d41e"
+    },
+    {
+      "start_time": 319,
+      "end_time": 380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues performance with percussive underscore."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        },
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "aec2487b-d476-4a78-939b-1fa47bde56e7"
     }
   ],
   "set": "Default",
