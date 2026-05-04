@@ -1425,7 +1425,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Laughs."
+              "text": "Laughs [overlaps with performance]."
             }
           ]
         }
@@ -1434,6 +1434,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Audience Member"
+        },
+        {
+          "tag": "Colette Tougas",
+          "category": "Performers and Speakers"
         }
       ],
       "uuid": "108f82c1-1efe-4319-8470-9216418adcac"
