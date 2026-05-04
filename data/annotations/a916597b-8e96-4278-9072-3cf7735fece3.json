@@ -842,31 +842,6 @@
         }
       ],
       "uuid": "1833076e-b7ef-4f74-9746-604069d9d3f8"
-    },
-    {
-      "start_time": 230,
-      "end_time": 278,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Continues piece, percussive underscore drops out."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Performers and Speakers",
-          "tag": "Daniel Guimond"
-        },
-        {
-          "tag": "Recorded Sound",
-          "category": "Setting and Tech"
-        }
-      ],
-      "uuid": "8795ded5-a1a0-43c1-9719-900ec89fbae5"
     }
   ],
   "set": "Default",
