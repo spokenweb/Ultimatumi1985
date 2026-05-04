@@ -288,7 +288,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Resumes \"Clara La Brune\" [microphone feedback and audience chatter throughout]."
+              "text": "Resumes \"Clara La Brune\" [microphone feedback throughout]."
             }
           ]
         }
@@ -297,6 +297,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Colette Tougas"
+        },
+        {
+          "tag": "Tech",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "4c9e6c42-755f-4eaa-b77d-9259afebf266"
