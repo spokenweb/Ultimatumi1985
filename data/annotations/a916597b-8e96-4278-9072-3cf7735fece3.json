@@ -851,7 +851,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Continues piece with percussive underscore, musical underscore drops out."
+              "text": "Continues piece, musical underscore drops out."
             }
           ]
         }
@@ -863,10 +863,6 @@
         },
         {
           "tag": "Recorded Sound",
-          "category": "Setting and Tech"
-        },
-        {
-          "tag": "Music",
           "category": "Setting and Tech"
         }
       ],
