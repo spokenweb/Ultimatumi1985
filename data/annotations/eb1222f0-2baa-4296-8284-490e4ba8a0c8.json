@@ -1641,6 +1641,31 @@
         }
       ],
       "uuid": "ad2fdc29-b1b7-4805-809f-273f5ec3f635"
+    },
+    {
+      "start_time": 681,
+      "end_time": 708,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues \"Clara La Brune\", speaks [English] [audience chatter throughout].\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Colette Tougas",
+          "category": "Performers and Speakers"
+        },
+        {
+          "tag": "Audience",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "814abe2d-b9b9-4f8b-9420-313ec771f7c7"
     }
   ],
   "set": "Default",
