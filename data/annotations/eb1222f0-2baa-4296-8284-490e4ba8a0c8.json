@@ -1032,7 +1032,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Claps and cheers."
+              "text": "Claps and cheers [overlaps with performance]."
             }
           ]
         }
@@ -1041,6 +1041,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Audience Member"
+        },
+        {
+          "tag": "Colette Tougas",
+          "category": "Performers and Speakers"
         }
       ],
       "uuid": "f89aa53f-d520-4c79-b14f-c108f2389a83"
