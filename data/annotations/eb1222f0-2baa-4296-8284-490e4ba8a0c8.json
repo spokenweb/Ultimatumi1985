@@ -1620,6 +1620,27 @@
         }
       ],
       "uuid": "2817fdd5-3f85-4b16-ab1c-949fdcbe9cd0"
+    },
+    {
+      "start_time": 679,
+      "end_time": 681,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "ad2fdc29-b1b7-4805-809f-273f5ec3f635"
     }
   ],
   "set": "Default",
