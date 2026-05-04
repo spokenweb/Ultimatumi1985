@@ -1551,6 +1551,27 @@
         }
       ],
       "uuid": "2f2c45e6-a022-4e24-8512-0632d6f1da4b"
+    },
+    {
+      "start_time": 222,
+      "end_time": 222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coughs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "2817fdd5-3f85-4b16-ab1c-949fdcbe9cd0"
     }
   ],
   "set": "Default",
