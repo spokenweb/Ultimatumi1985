@@ -795,7 +795,7 @@
       "uuid": "c7b7e57d-75d4-4370-a195-95de23392925"
     },
     {
-      "start_time": 598,
+      "start_time": 597,
       "end_time": 669,
       "annotation": [
         {
@@ -811,6 +811,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Colette Tougas"
+        },
+        {
+          "tag": "Audience",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "bff48509-47dd-473a-b220-115f9f4689b7"
