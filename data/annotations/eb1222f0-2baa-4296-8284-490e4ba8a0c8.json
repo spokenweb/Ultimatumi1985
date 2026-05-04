@@ -1103,7 +1103,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Continues \"Clara La Brune [audience chatter throughout]."
+              "text": "Continues \"Clara La Brune\" [audience chatter throughout]."
             }
           ]
         }
@@ -1112,6 +1112,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Colette Tougas"
+        },
+        {
+          "tag": "Audience",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "af4b045b-bca3-4429-a929-4bfcf064d0ee"
