@@ -55,7 +55,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Colette Tougas",
+          "category": "Performers and Speakers"
+        }
+      ],
       "uuid": "0114b865-9588-4f68-aaaf-9d07bc19f911"
     },
     {
