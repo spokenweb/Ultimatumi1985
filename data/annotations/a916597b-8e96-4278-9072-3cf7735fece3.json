@@ -905,7 +905,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Continues performance with percussive underscore."
+              "text": "Continues piece."
             }
           ]
         }
@@ -917,10 +917,6 @@
         },
         {
           "tag": "Recorded Sound",
-          "category": "Setting and Tech"
-        },
-        {
-          "tag": "Music",
           "category": "Setting and Tech"
         }
       ],
