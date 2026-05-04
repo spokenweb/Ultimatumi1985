@@ -50,7 +50,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Performs poem [English] [underlying, overlapping vocals can be throughout in English and French]."
+              "text": "Performs poem [English] [underlying, overlapping vocals can be heard throughout in English and French]."
             }
           ]
         }
@@ -59,6 +59,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Daniel Guimond"
+        },
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "dfdf942f-0e92-47ca-b19c-4fe5098758ac"
