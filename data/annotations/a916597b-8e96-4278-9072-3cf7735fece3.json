@@ -871,6 +871,35 @@
         }
       ],
       "uuid": "55322ca7-3ad3-48de-b60b-c32114e5848c"
+    },
+    {
+      "start_time": 307,
+      "end_time": 319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues performance with musical underscore [keyboard]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
+        },
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "f9214391-ee96-4947-a4a2-9f7da2d0d41e"
     }
   ],
   "set": "Default",
