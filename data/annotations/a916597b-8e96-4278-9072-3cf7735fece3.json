@@ -813,6 +813,35 @@
         }
       ],
       "uuid": "cd272f64-9c4d-44cb-bfa1-cb2705996af7"
+    },
+    {
+      "start_time": 151,
+      "end_time": 278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece with drum beat underscore."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
+        },
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "1833076e-b7ef-4f74-9746-604069d9d3f8"
     }
   ],
   "set": "Default",
