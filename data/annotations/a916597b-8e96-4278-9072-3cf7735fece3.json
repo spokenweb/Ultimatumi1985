@@ -135,14 +135,14 @@
       "uuid": "b876f589-e62e-44bf-9504-0f6a3eccbf9b"
     },
     {
-      "start_time": 275,
+      "start_time": 278,
       "end_time": 380,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Continues piece, music underscore starts [electronic instruments and French and English vocals]."
+              "text": "Continues piece, music underscore starts [electronic instruments]."
             }
           ]
         }
@@ -154,6 +154,10 @@
         },
         {
           "tag": "Music",
+          "category": "Setting and Tech"
+        },
+        {
+          "tag": "Recorded Sound",
           "category": "Setting and Tech"
         }
       ],
