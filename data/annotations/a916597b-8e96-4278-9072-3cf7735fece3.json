@@ -816,13 +816,13 @@
     },
     {
       "start_time": 150,
-      "end_time": 278,
+      "end_time": 230,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Continues piece with drum beat underscore."
+              "text": "Continues piece with percussive underscore."
             }
           ]
         }
