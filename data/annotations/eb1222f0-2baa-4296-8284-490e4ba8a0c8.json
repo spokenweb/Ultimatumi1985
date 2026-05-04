@@ -537,13 +537,13 @@
     },
     {
       "start_time": 265,
-      "end_time": 267,
+      "end_time": 266,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Laughs [overlaps with performance]."
+              "text": "Laughs."
             }
           ]
         }
