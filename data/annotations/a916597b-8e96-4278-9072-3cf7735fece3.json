@@ -302,14 +302,14 @@
       "uuid": "d7350b63-b389-4bf2-9822-b225aa01400a"
     },
     {
-      "start_time": 649,
-      "end_time": 650,
+      "start_time": 653,
+      "end_time": 657,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Loud buzz transforms into electronic beat."
+              "text": "Buzz transforms into electronic beat."
             }
           ]
         }
