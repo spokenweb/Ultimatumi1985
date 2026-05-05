@@ -435,22 +435,22 @@
       "uuid": "04ff5220-4980-45c2-8ba7-99d1bddf8b40"
     },
     {
-      "start_time": 900,
-      "end_time": 896,
+      "start_time": 901,
+      "end_time": 902,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Resumes piece."
+              "text": "Room noise."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "Performers and Speakers",
-          "tag": "Daniel Guimond"
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
         }
       ],
       "uuid": "f0aa0b92-5b69-4320-8ff9-92f92332be93"
