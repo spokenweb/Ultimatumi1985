@@ -502,27 +502,6 @@
       "uuid": "4e2c54cf-50dc-4feb-83db-8b0276aa62e4"
     },
     {
-      "start_time": 960,
-      "end_time": 1107,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Performs piece [French] [a second speaker performs]."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Performers and Speakers",
-          "tag": "Daniel Guimond"
-        }
-      ],
-      "uuid": "aba6c1e5-3e58-49e9-90ce-3c099fbc6d74"
-    },
-    {
       "start_time": 1107,
       "end_time": 1109,
       "annotation": [
