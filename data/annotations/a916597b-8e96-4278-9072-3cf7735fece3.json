@@ -359,7 +359,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Underlying pre-recorded English speaking gets louder."
+              "text": "Recorded English vocals continue atop electronic beat."
             }
           ]
         }
@@ -368,6 +368,10 @@
         {
           "category": "Setting and Tech",
           "tag": "Music"
+        },
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "69c33d55-d410-4ab8-9224-2fd1274073ba"
