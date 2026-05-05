@@ -983,6 +983,27 @@
         }
       ],
       "uuid": "69427342-d758-4626-a5e3-e072af6f292e"
+    },
+    {
+      "start_time": 646,
+      "end_time": 647,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Abrupt cut."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Recording",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "7bd713b0-0253-4289-9b23-14399443849b"
     }
   ],
   "set": "Default",
