@@ -484,7 +484,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Water sounds [violent bubbling and rushing]."
+              "text": "Continues piece, barely audible atop recorded water sounds [violent bubbling and rushing]."
             }
           ]
         }
@@ -493,6 +493,10 @@
         {
           "category": "Setting and Tech",
           "tag": "Recorded Sound"
+        },
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
         }
       ],
       "uuid": "4e2c54cf-50dc-4feb-83db-8b0276aa62e4"
