@@ -1086,6 +1086,31 @@
         }
       ],
       "uuid": "496ab355-6c4c-4c8a-beb6-a2ce72971e44"
+    },
+    {
+      "start_time": 976,
+      "end_time": 981,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "High pitched ringing sound and electronic beat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "095866fd-98d4-4cae-9b3e-7d3ccb78bb08"
     }
   ],
   "set": "Default",
