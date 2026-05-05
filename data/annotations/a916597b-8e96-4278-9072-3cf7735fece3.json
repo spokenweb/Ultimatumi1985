@@ -1140,6 +1140,35 @@
         }
       ],
       "uuid": "9e74e172-bbfe-41b0-95c8-74769a50d88d"
+    },
+    {
+      "start_time": 1217,
+      "end_time": 1300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece atop electronic music and pre-recorded English vocals."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
+        },
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "76d4f11c-d8cc-41a3-9bda-8ba897e9d23b"
     }
   ],
   "set": "Default",
