@@ -1244,6 +1244,31 @@
         }
       ],
       "uuid": "85e541b1-4d7c-43e8-b6e1-11c8a86fd171"
+    },
+    {
+      "start_time": 1862,
+      "end_time": 1920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pre-recorded vocals continue underscored by electronic beat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "6f45fc80-5e40-4e14-b0ad-6faf95bbdc3f"
     }
   ],
   "set": "Default",
