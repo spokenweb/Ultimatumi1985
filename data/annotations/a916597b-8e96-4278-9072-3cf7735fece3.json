@@ -1198,6 +1198,31 @@
         }
       ],
       "uuid": "8ef0d7d9-8075-4b70-9c4e-0fa8a40a4c48"
+    },
+    {
+      "start_time": 1556,
+      "end_time": 1920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Synth, various electronic sounds, overlapping pre-recorded vocals."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
+        },
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "e34f37c6-75f2-464f-9c52-eb65e1cec9c5"
     }
   ],
   "set": "Default",
