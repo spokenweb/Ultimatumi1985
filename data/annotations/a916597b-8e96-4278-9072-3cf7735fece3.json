@@ -1173,6 +1173,27 @@
         }
       ],
       "uuid": "76d4f11c-d8cc-41a3-9bda-8ba897e9d23b"
+    },
+    {
+      "start_time": 1370,
+      "end_time": 1920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Distorted electric guitar and synth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "d7632990-0451-4151-bbfb-e91ef4683026"
     }
   ],
   "set": "Default",
