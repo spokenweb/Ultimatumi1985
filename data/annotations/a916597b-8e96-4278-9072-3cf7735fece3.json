@@ -1090,6 +1090,27 @@
         }
       ],
       "uuid": "095866fd-98d4-4cae-9b3e-7d3ccb78bb08"
+    },
+    {
+      "start_time": 981,
+      "end_time": 1107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs piece [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        }
+      ],
+      "uuid": "f585d4d2-32d9-490c-ae26-09bd9ea6dec1"
     }
   ],
   "set": "Default",
