@@ -1194,6 +1194,22 @@
         }
       ],
       "uuid": "d7632990-0451-4151-bbfb-e91ef4683026"
+    },
+    {
+      "start_time": 1445,
+      "end_time": 1920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Music continues with unintelligible recorded vocals."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bfeb991a-3fbd-4f6c-9b72-987446a23065"
     }
   ],
   "set": "Default",
