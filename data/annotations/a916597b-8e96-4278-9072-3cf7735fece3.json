@@ -1041,6 +1041,31 @@
         }
       ],
       "uuid": "41a24f8f-0624-4e14-9471-6f2bb8b8f0c0"
+    },
+    {
+      "start_time": 820,
+      "end_time": 896,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electronic beat resumes, recorded English and French vocals continue."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
+        },
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "1fcb053d-459f-4871-be36-381ba97b048d"
     }
   ],
   "set": "Default",
