@@ -1082,6 +1082,27 @@
         }
       ],
       "uuid": "1fcb053d-459f-4871-be36-381ba97b048d"
+    },
+    {
+      "start_time": 902,
+      "end_time": 913,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        }
+      ],
+      "uuid": "6d2da31e-7b83-4c55-929c-781739395d59"
     }
   ],
   "set": "Default",
