@@ -502,27 +502,6 @@
       "uuid": "4e2c54cf-50dc-4feb-83db-8b0276aa62e4"
     },
     {
-      "start_time": 955,
-      "end_time": 960,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Loud ringing, underlying percussions."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Setting and Tech",
-          "tag": "Music"
-        }
-      ],
-      "uuid": "05c9a007-8fd4-4e09-8f5c-3d0850c18e68"
-    },
-    {
       "start_time": 960,
       "end_time": 1107,
       "annotation": [
