@@ -456,27 +456,6 @@
       "uuid": "f0aa0b92-5b69-4320-8ff9-92f92332be93"
     },
     {
-      "start_time": 918,
-      "end_time": 933,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Water sounds."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Setting and Tech",
-          "tag": "Recorded Sound"
-        }
-      ],
-      "uuid": "178471d0-4a55-4ffb-9883-268ecbd18456"
-    },
-    {
       "start_time": 933,
       "end_time": 937,
       "annotation": [
