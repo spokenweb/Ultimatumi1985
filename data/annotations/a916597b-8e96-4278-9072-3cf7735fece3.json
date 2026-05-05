@@ -1111,6 +1111,31 @@
         }
       ],
       "uuid": "f585d4d2-32d9-490c-ae26-09bd9ea6dec1"
+    },
+    {
+      "start_time": 991,
+      "end_time": 1107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece atop sporadic pre-recorded French vocals."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        },
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "9e74e172-bbfe-41b0-95c8-74769a50d88d"
     }
   ],
   "set": "Default",
