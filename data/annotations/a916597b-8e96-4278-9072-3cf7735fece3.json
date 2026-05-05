@@ -1166,7 +1166,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
+        },
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
+        }
+      ],
       "uuid": "bfeb991a-3fbd-4f6c-9b72-987446a23065"
     }
   ],
