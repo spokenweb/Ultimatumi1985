@@ -1016,6 +1016,31 @@
         }
       ],
       "uuid": "7bd713b0-0253-4289-9b23-14399443849b"
+    },
+    {
+      "start_time": 817,
+      "end_time": 820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Recorded English and French vocals continue, electronic beat drops out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "41a24f8f-0624-4e14-9471-6f2bb8b8f0c0"
     }
   ],
   "set": "Default",
