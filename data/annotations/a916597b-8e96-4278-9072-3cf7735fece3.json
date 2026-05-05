@@ -1023,6 +1023,27 @@
         }
       ],
       "uuid": "4a99a145-2b25-4f82-b2a6-c6919fb1b7b0"
+    },
+    {
+      "start_time": 958,
+      "end_time": 965,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Water sounds resume."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "831886c9-f8a7-4ff2-9d89-74c4d8f452dd"
     }
   ],
   "set": "Default",
