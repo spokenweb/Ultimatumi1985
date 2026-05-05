@@ -1065,6 +1065,27 @@
         }
       ],
       "uuid": "4b3d1581-183b-4930-bb91-bc2cdf39bd3c"
+    },
+    {
+      "start_time": 973,
+      "end_time": 976,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuts out, silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Recording",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "496ab355-6c4c-4c8a-beb6-a2ce72971e44"
     }
   ],
   "set": "Default",
