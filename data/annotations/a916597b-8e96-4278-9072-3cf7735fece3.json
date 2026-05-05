@@ -1223,6 +1223,27 @@
         }
       ],
       "uuid": "e34f37c6-75f2-464f-9c52-eb65e1cec9c5"
+    },
+    {
+      "start_time": 1844,
+      "end_time": 1920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pre-recorded vocals continue interrupted sporadically by various electronic sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "85e541b1-4d7c-43e8-b6e1-11c8a86fd171"
     }
   ],
   "set": "Default",
