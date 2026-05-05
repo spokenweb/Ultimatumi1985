@@ -503,27 +503,6 @@
     },
     {
       "start_time": 944,
-      "end_time": 945,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Water sounds [possibly man drowning]."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Setting and Tech",
-          "tag": "Recorded Sound"
-        }
-      ],
-      "uuid": "af5b98f2-1cf9-419d-acd9-3dd05f039f69"
-    },
-    {
-      "start_time": 944,
       "end_time": 947,
       "annotation": [
         {
