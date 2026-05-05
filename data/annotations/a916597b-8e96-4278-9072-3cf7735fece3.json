@@ -615,27 +615,6 @@
       "uuid": "df61b2bf-231c-4ff4-8a7e-50498b8686cb"
     },
     {
-      "start_time": 1377,
-      "end_time": 1943,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Modulating vocals and various sounds [blown out synthesizer,cut up tracks, lasers]."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Setting and Tech",
-          "tag": "Music"
-        }
-      ],
-      "uuid": "4d6c5b32-c1a5-43c8-8eed-fd048b2b904a"
-    },
-    {
       "start_time": 1943,
       "end_time": 1945,
       "annotation": [
