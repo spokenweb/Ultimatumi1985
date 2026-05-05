@@ -253,13 +253,13 @@
     },
     {
       "start_time": 476,
-      "end_time": 477,
+      "end_time": 479,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Microphone tap."
+              "text": "Microphone taps."
             }
           ]
         }
