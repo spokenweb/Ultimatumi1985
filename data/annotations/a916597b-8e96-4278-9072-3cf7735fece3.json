@@ -921,6 +921,35 @@
         }
       ],
       "uuid": "aec2487b-d476-4a78-939b-1fa47bde56e7"
+    },
+    {
+      "start_time": 70,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continues piece with low percussive sound in background."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Daniel Guimond"
+        },
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "26fd8ec3-77de-4142-854a-a8ed0371f9bc"
     }
   ],
   "set": "Default",
