@@ -330,7 +330,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Continues piece."
+              "text": "Continues piece atop electronic beat."
             }
           ]
         }
@@ -339,6 +339,14 @@
         {
           "category": "Performers and Speakers",
           "tag": "Daniel Guimond"
+        },
+        {
+          "tag": "Recorded Sound",
+          "category": "Setting and Tech"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "48c65339-71a8-42b1-9649-2ac97fb2a9fe"
