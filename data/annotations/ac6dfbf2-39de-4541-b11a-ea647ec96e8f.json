@@ -1167,7 +1167,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Laughter."
+              "text": "Laughter, room noise."
             }
           ]
         }
@@ -1176,6 +1176,10 @@
         {
           "tag": "Audience",
           "category": "Setting and Tech"
+        },
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
         }
       ],
       "uuid": "85043cd6-9536-41d1-87b8-cde1c290bdee"
