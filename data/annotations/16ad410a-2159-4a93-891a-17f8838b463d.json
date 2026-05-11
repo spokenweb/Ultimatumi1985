@@ -209,7 +209,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Continues \"Poesie Guerriere\", recites poem [French] [underscored by guitar, drums, electronic instrument, regular vocals, distorted vocals, distorted speech]."
+              "text": "Continues \"Poesie Guerriere\", recites poem [French] atop guitar, drums, electronic instrument, regular vocals, distorted vocals, distorted speech."
             }
           ]
         }
@@ -218,6 +218,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Jack V"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "345bfeaa-54d5-41da-8ba4-b72812f941b2"
