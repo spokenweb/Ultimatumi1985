@@ -234,7 +234,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Continues \"Poesie Guerriere\", sings [French], underscore shifts [regular vocals and distorted vocals]."
+              "text": "Continues \"Poesie Guerriere\", sings [French], music shifts, regular vocals and distorted vocals."
             }
           ]
         }
@@ -243,6 +243,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Jack V"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "e5157c07-f99d-45ee-b085-87f6cc2e3e41"
