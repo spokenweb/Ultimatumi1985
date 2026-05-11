@@ -100,7 +100,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Continues \"Petite Nuage et Betelgeueuse\", speaks rhythmically and sings [underscored by electronic percussion, synth, electric guitar, and keyboard]."
+              "text": "Continues \"Petite Nuage et Betelgeueuse\", speaks rhythmically and sings atop electronic percussion, synth, electric guitar, and keyboard."
             }
           ]
         }
@@ -109,6 +109,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Genevieve Letarte"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "94834f0e-9aed-49a6-b583-4b5f2e881e71"
