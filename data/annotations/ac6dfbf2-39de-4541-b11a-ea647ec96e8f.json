@@ -1112,6 +1112,27 @@
         }
       ],
       "uuid": "a153b33e-4a02-4cb7-a160-c2006f415005"
+    },
+    {
+      "start_time": 148,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaks [unintelligible]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "380b2bd6-3158-4f56-8d16-71c4f93c211e"
     }
   ],
   "set": "Default",
