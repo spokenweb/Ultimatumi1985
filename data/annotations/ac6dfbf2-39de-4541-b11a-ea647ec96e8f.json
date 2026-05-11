@@ -1158,6 +1158,27 @@
         }
       ],
       "uuid": "70c1fc4a-1693-4717-b4d3-ef3e6cc27348"
+    },
+    {
+      "start_time": 165,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "85043cd6-9536-41d1-87b8-cde1c290bdee"
     }
   ],
   "set": "Default",
