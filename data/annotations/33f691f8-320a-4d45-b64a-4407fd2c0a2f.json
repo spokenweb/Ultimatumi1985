@@ -54,7 +54,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Performs \"Petite Nuage et Betelgeueuse\", recites poetry and vocalizes [underscored by distorted electric guitar, electronic sounds, and trombone]."
+              "text": "Performs \"Petite Nuage et Betelgeueuse\", recites poetry and vocalizes atop distorted electric guitar, electronic sounds, and trombone."
             }
           ]
         }
@@ -63,6 +63,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Genevieve Letarte"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "2b5f2fb6-1056-4317-b70e-f5fa69e2922e"
