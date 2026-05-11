@@ -149,13 +149,13 @@
     },
     {
       "start_time": 64,
-      "end_time": 67,
+      "end_time": 66,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Chatter."
+              "text": "Room noise."
             }
           ]
         }
@@ -163,7 +163,7 @@
       "tags": [
         {
           "category": "Setting and Tech",
-          "tag": "Audience"
+          "tag": "Foufounes Electriques"
         }
       ],
       "uuid": "17f6696d-29c9-47ba-a275-4bc9b10dbbd4"
