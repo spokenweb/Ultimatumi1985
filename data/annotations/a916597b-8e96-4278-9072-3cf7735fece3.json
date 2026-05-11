@@ -1086,7 +1086,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Continues piece atop sporadic pre-recorded French vocals."
+              "text": "Continues piece atop sporadic pre-recorded French vocals [occasional feedback]."
             }
           ]
         }
@@ -1098,6 +1098,10 @@
         },
         {
           "tag": "Recorded Sound",
+          "category": "Setting and Tech"
+        },
+        {
+          "tag": "Tech",
           "category": "Setting and Tech"
         }
       ],
