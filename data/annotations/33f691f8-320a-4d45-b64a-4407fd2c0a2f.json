@@ -351,7 +351,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Continues \"Petite Nuage et Betelgeueuse\", speaks and sings [underscored by synth, bass, trombone, and cow bell]."
+              "text": "Continues \"Petite Nuage et Betelgeueuse\", speaks and sings atop synth, bass, trombone, and cow bell."
             }
           ]
         }
@@ -360,6 +360,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Genevieve Letarte"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "b71b53af-8539-4da5-b015-9d7f0a458e8f"
