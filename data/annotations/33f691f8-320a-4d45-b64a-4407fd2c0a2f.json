@@ -238,7 +238,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Continues \"Petite Nuage et Betelgeueuse\", underscore shifts [electric guitar, electronic ringing sounds, percussion, synth, bass, trombone]."
+              "text": "Continues \"Petite Nuage et Betelgeueuse\", musical underscore shifts, electric guitar, electronic ringing sounds, percussion, synth, bass, trombone."
             }
           ]
         }
@@ -247,6 +247,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Genevieve Letarte"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "477a0206-bc76-48d8-aa3d-2c711d57507a"
