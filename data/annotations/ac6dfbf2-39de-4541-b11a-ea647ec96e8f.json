@@ -1091,6 +1091,27 @@
         }
       ],
       "uuid": "5aa87a64-438f-4206-810d-3d26a9b35cfe"
+    },
+    {
+      "start_time": 147,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaks [unintelligible]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Denis Vanier"
+        }
+      ],
+      "uuid": "a153b33e-4a02-4cb7-a160-c2006f415005"
     }
   ],
   "set": "Default",
