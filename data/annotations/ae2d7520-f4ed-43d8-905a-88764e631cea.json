@@ -554,7 +554,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Well wait a minute. Okay. [Over top of audience applause and cheers]."
+              "text": "Well wait a minute. Okay [over top of audience applause and cheers]."
             }
           ]
         }
@@ -563,6 +563,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Herbert Huncke"
+        },
+        {
+          "tag": "Audience",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "c0b2d765-a06e-4ac2-ab41-285041b09777"
