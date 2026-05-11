@@ -372,7 +372,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Continues \"Poesie Guerriere\", reads poem [underscored by keyboard and marching percussion]"
+              "text": "Continues \"Poesie Guerriere\", reads poem atop keyboard and marching percussion]"
             }
           ]
         }
@@ -381,6 +381,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Jack V"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "b3d67431-efef-430b-9328-3627c77ad072"
