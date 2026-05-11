@@ -1259,6 +1259,27 @@
         }
       ],
       "uuid": "381d5e0c-6d11-44f0-b746-ea1e4da8d305"
+    },
+    {
+      "start_time": 41,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh well, alright, in the mic he says. [On mic] Okay, can you hear now? Yes. See I have a problem with this lighting situation here, regardless of all that. I lost my place. How do you like that?\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Huncke",
+          "category": "Performers and Speakers"
+        }
+      ],
+      "uuid": "27cd7e23-f1f8-4572-b1b5-3a44e921f250"
     }
   ],
   "set": "Default",
