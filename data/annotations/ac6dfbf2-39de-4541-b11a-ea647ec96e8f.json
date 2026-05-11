@@ -449,7 +449,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Oui je le veux. Je [maybe:film] le reste. Non, mais, esti… Si t'es pas capable, dis les pas."
+              "text": "Oui je le veux. Je [maybe:film] le reste. Non, mais, esti… Si t'es pas capable, dis les pas [audience member responds throughout]."
             }
           ]
         }
@@ -458,6 +458,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Denis Vanier"
+        },
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience Member"
         }
       ],
       "uuid": "ff2cbd3a-4f25-4719-a842-ff618539625e"
