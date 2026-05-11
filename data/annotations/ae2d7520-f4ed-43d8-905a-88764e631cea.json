@@ -1217,6 +1217,27 @@
         }
       ],
       "uuid": "f1b50fb8-c64d-4b98-9aa5-59855f10394a"
+    },
+    {
+      "start_time": 38,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shouts [possibly \"plus fort!\"]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Audience Member"
+        }
+      ],
+      "uuid": "6a673c34-6f29-4897-92df-725c245ec7e8"
     }
   ],
   "set": "Default",
