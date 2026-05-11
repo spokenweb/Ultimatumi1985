@@ -146,7 +146,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Continues \"Petite Nuage et Betelgeueuse\", speaks [underscored by static, high-pitched ringing, and low frequencies]."
+              "text": "Continues \"Petite Nuage et Betelgeueuse\", speaks atop static, and high- and low-pitched ringing."
             }
           ]
         }
@@ -155,6 +155,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Genevieve Letarte"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "0206f67c-cc1d-41d1-aa3c-f7a2cf4d6c79"
