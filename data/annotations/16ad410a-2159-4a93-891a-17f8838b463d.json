@@ -153,27 +153,6 @@
     },
     {
       "start_time": 65,
-      "end_time": 68,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Applause."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Setting and Tech",
-          "tag": "Audience"
-        }
-      ],
-      "uuid": "40106a66-d72a-429b-a116-466842e3fd55"
-    },
-    {
-      "start_time": 65,
       "end_time": 354,
       "annotation": [
         {
