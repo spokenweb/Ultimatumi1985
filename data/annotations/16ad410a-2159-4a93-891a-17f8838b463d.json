@@ -423,6 +423,31 @@
         }
       ],
       "uuid": "408984a9-3e16-40e0-924f-e5063175e083"
+    },
+    {
+      "start_time": 65,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause overlaps with music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience",
+          "category": "Setting and Tech"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "b2fb2093-4467-4aca-af0b-462be4c30f89"
     }
   ],
   "set": "Default",
