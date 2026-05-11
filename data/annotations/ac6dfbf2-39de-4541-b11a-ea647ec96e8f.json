@@ -600,7 +600,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Apres Marie, c'est l'electrolyse masculine. Ca c'est pas loin de ou ce qu'on est la. C'est a [unintelligable]."
+              "text": "Apres Marie, c'est l'electrolyse masculine. Ca c'est pas loin de ou ce qu'on est la. C'est a [unintelligable] [audience laughter throughout]."
             }
           ]
         }
@@ -609,6 +609,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Denis Vanier"
+        },
+        {
+          "tag": "Audience",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "e63a5bc9-7abf-41c7-a43b-cd80821e691c"
