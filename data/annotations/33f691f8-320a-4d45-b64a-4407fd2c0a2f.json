@@ -192,7 +192,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Continues \"Petite Nuage et Betelgeueuse\" [underscored by high-pitched ringing and synth melody] ."
+              "text": "Continues \"Petite Nuage et Betelgeueuse\" atop high-pitched ringing and synth melody."
             }
           ]
         }
@@ -201,6 +201,10 @@
         {
           "category": "Performers and Speakers",
           "tag": "Genevieve Letarte"
+        },
+        {
+          "tag": "Music",
+          "category": "Setting and Tech"
         }
       ],
       "uuid": "2c545271-2854-4938-8643-b09732c24fc8"
