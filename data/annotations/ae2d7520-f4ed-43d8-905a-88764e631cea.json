@@ -1238,6 +1238,27 @@
         }
       ],
       "uuid": "6a673c34-6f29-4897-92df-725c245ec7e8"
+    },
+    {
+      "start_time": 39,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chatter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience",
+          "category": "Setting and Tech"
+        }
+      ],
+      "uuid": "381d5e0c-6d11-44f0-b746-ea1e4da8d305"
     }
   ],
   "set": "Default",
