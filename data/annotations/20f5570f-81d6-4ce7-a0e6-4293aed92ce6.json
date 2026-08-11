@@ -113,7 +113,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "“Arabesque” is on the Ultimatum documentary vinyl LP."
+              "text": "“Arabesque” is on the "
+            },
+            {
+              "text": "Ultimatum documentary vinyl LP",
+              "link": "https://www.discogs.com/release/2341164-Various-Ultimatum"
+            },
+            {
+              "text": "."
             }
           ]
         }
