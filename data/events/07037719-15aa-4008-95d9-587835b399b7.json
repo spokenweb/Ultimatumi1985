@@ -7,7 +7,10 @@
       "file_url": "https://www.youtube.com/watch?v=HVAhFtWMPsI",
       "duration": 1375,
       "caption_set": [],
-      "set_sort": [],
+      "set_sort": [
+        "958e713d-2d9f-4d4f-9975-ec0dbd6c010c",
+        "89483718-0614-46c1-a783-c535cb06fa6e"
+      ],
       "duration_overridden": true
     }
   },
@@ -17,7 +20,22 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The following is a transcription of Karl Jirgens’ performance at the Ultimatum Festival I, Sunday, May 5th, 1985 at the Foufounes Electriques bar and performance space in Montreal. Jirgens is the author of six books (Travesties, The Razor’s Edge, Eco Blues: A Tale in 3 Parts, A Measure of Time, and Strappado), the former English Department Head and chair of the Creative Writing Program at the University of Windsor, and the founder of Rampike magazine. He is an ELIT awards bronze medalist and his poetry is included in The Best Poetry of Canada (2023). In Alan Lord’s memoir High Friends in Low Places (2022), he writes that Jirgens \"[gave] his reading with a pair of guns pointed at his temples, held by a strap over his head\"."
+          "text": "The following is a transcription of Karl Jirgens’ performance at the Ultimatum Festival I, Sunday, May 5th, 1985 at the Foufounes Électriques bar and performance space in Montréal, Quebec. Jirgens is the author of six books (Travesties, The Razor’s Edge, Eco Blues: A Tale in 3 Parts, A Measure of Time, and Strappado), the former English Department Head and chair of the Creative Writing Program at the University of Windsor, and the founder of Rampike magazine. He is an ELIT awards bronze medalist and his poetry is included in "
+        },
+        {
+          "text": "The Best Poetry of Canada",
+          "italic": true
+        },
+        {
+          "text": " (2023). In Alan Lord’s memoir "
+        },
+        {
+          "text": "High Friends in Low Places",
+          "link": "https://guernicaeditions.com/products/high-friends-in-low-places",
+          "italic": true
+        },
+        {
+          "text": " (2022), he writes that Jirgens \"[gave] his reading with a pair of guns pointed at his temples, held by a strap over his head\"."
         }
       ]
     }
@@ -29,6 +47,6 @@
   ],
   "created_at": "2026-04-09T15:00:40.689Z",
   "created_by": "spokenweb",
-  "updated_at": "2026-04-09T15:00:40.690Z",
+  "updated_at": "2026-08-11T18:09:17.412Z",
   "updated_by": "spokenweb"
 }
