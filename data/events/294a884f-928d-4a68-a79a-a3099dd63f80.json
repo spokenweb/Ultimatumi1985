@@ -17,7 +17,21 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The following is a transcription of the Alain-Martin Richard set at Ultimatum, Friday, May 3rd, 1985 at the Foufounes Electriques. Richard is a multidisciplinary artist, editor and critic from Quebec, Canada, active since the late 70s, touring and presenting at festivals and events across North America, Europe and Japan. Previously, he was a member of the defunct international collective The Nomads and of INTER/Le Lieu from Quebec City. More recently, he has been involved with the collective Les Causes Perdues and Folie/Culture, having co-created the poetic game, \"Lʹatopie textutelle est une cause qui se perd\". He co-edited Performance in/au Canada 1970-1990 with Clive Robertson, the book Territoires Nomades and various catalogues and publications on art and performance. His experimental practice questions the social and the everyday, postmodernism, space and identity."
+          "text": "The following is a transcription of the Alain-Martin Richard set at Ultimatum, Friday, May 3rd, 1985 at the Foufounes Électriques bar and performance space in Montréal, Quebec, Canada. Richard is a multidisciplinary artist, editor and critic from Quebec, Canada, active since the late 70s, touring and presenting at festivals and events across North America, Europe and Japan. Previously, he was a member of the defunct international collective The Nomads and of INTER/Le Lieu from Quebec City. More recently, he has been involved with the collective Les Causes Perdues and Folie/Culture, having co-created the poetic game, \"Lʹatopie textutelle est une cause qui se perd\". He co-edited "
+        },
+        {
+          "text": "Performance in/au Canada 1970-1990",
+          "italic": true
+        },
+        {
+          "text": " with Clive Robertson, the book "
+        },
+        {
+          "text": "Territoires Nomades",
+          "italic": true
+        },
+        {
+          "text": " and various catalogues and publications on art and performance. His experimental practice questions the social and the everyday, postmodernism, space and identity."
         }
       ]
     },
@@ -37,6 +51,6 @@
   ],
   "created_at": "2026-03-02T16:24:02.885Z",
   "created_by": "spokenweb",
-  "updated_at": "2026-08-11T16:42:28.081Z",
+  "updated_at": "2026-08-11T19:08:57.034Z",
   "updated_by": "spokenweb"
 }
