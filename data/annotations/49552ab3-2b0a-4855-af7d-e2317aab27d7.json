@@ -1,5 +1,90 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Montreal artist Geneviève Letarte is the author of several novels, of which “Soleil Rauque” (“Hoarse Sun”) was the most acclaimed. She also published a collection of poetry, and has recorded two albums of songs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Biographical Context"
+        }
+      ],
+      "uuid": "8653a76d-b283-495e-bb76-c186fa6350b3"
+    },
+    {
+      "start_time": 77,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "During her performance she sings through window drapes hanging on a rod over her head, which she pushes apart, to be seen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "c25579e0-f2ad-4f95-88ae-2c65c04ebc68"
+    },
+    {
+      "start_time": 165,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The musicians accompanying her are: Bernard Poirier: Guitar, bass, percussion, and Claude Saint-Jean: Synthesizer, trombone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "7e98b8c3-d6a6-4220-abb1-91bd6e1ab674"
+    },
+    {
+      "start_time": 227,
+      "end_time": 227,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The song “Petit Nuage et Betelgeuse” is on the Ultimatum documentary vinyl LP."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "External Resource"
+        }
+      ],
+      "uuid": "260603a8-09f5-428b-bb99-42a293590b2f"
+    }
+  ],
   "event_id": "15af7e03-90e5-4b80-b917-09399f144498",
   "set": "Alan Lord Commentary",
   "source_id": "bd8ee2ec-3dc0-4d88-946c-3c44ce408340"
