@@ -5,7 +5,11 @@
       "is_offline": false,
       "file_type": "Audio",
       "file_url": "https://youtu.be/xLYDO_F7Jvs",
-      "duration": 806
+      "duration": 806,
+      "set_sort": [
+        "e68e3d32-6a10-4aa5-8365-ff0eda5528fd",
+        "20f5570f-81d6-4ce7-a0e6-4293aed92ce6"
+      ]
     }
   },
   "auto_generate_web_page": true,
@@ -15,14 +19,35 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The following is a transcription of Mario Campo’s performance at Ultimatum I, Wednesday, May 1st, 1985 at the Foufounes Electriques. Campo performs, sings, and chants to musical accompaniment. In his memoir High Friends in Low Places (2022), Alan Lord writes how Campo first appeared onstage dressed in the head of an extraterrestrial, later changing into Bedouin headdress to perform “Arabesque,” the piece featured from 00:06:09 to 00:08:38 in this recording. “Arabesque” is included in the Ultimatum LP, which lists music and bass by Alan Lord, electronic percussion by Jean-Martin Mignault, vocals by Zilon and words and voice by Mario Campo. Campo was a writer and poet involved with several alternative scenes, among some of his publications are the collections L’Anovulatoire (1978) and Coma Laudanum (1979). To access some of these writings and learn more about his biography, see his website dedicated to his art and memory, created by Alan Lord and Pierre Zovilé. "
+          "text": "The following is a transcription of Mario Campo’s performance at Ultimatum I, Wednesday, May 1st, 1985 at the Foufounes Électriques bar and performance space in Montréal, Quebec, Canada. Campo performs, sings, and chants to musical accompaniment. In his memoir "
+        },
+        {
+          "text": "High Friends in Low Places",
+          "italic": true
+        },
+        {
+          "text": " (2022), Alan Lord writes how Campo first appeared onstage dressed in the head of an extraterrestrial, later changing into Bedouin headdress to perform “Arabesque,” the piece featured from 00:06:09 to 00:08:38 in this recording. “Arabesque” is included in the Ultimatum LP, which lists music and bass by Alan Lord, electronic percussion by Jean-Martin Mignault, vocals by Zilon and words and voice by Mario Campo. Campo was a writer and poet involved with several alternative scenes, among some of his publications are the collections L’"
+        },
+        {
+          "text": "Anovulatoire",
+          "italic": true
+        },
+        {
+          "text": " (1978) and "
+        },
+        {
+          "text": "Coma Laudanum",
+          "italic": true
+        },
+        {
+          "text": " (1979). "
         }
       ]
     }
   ],
   "created_at": "2026-03-02T16:16:14.269Z",
   "created_by": "spokenweb",
-  "updated_at": "2026-07-15T19:42:19.540Z",
+  "updated_at": "2026-08-11T18:25:40.200Z",
   "updated_by": "spokenweb",
   "av_file_order": [
     "3776abc6-8c1f-4592-bade-084e7732e762"
