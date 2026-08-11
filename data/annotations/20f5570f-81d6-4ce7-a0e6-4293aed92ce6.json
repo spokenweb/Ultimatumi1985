@@ -1,5 +1,148 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Montreal poet Mario Campo (March 27, 1951 – January 31, 2006)"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ac99f254-5ca8-41bc-9871-4a91b83500d7"
+    },
+    {
+      "start_time": 12,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I did the electronic music for this"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Biographical Context"
+        }
+      ],
+      "uuid": "d68c55d6-2529-47df-bed6-72f6534d97ca"
+    },
+    {
+      "start_time": 36,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mario is wearing an alien mask for this poem"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Personal Anecdote"
+        }
+      ],
+      "uuid": "b8b4996a-7bf8-4ebb-a524-e3c68ff79317"
+    },
+    {
+      "start_time": 302,
+      "end_time": 302,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Music: \"Arabesque\" by my 1984 band Débris, which consisted of me on bass, and Jean-Martin Mignault on electronic drums. Graffiti artist Zilon does the Arabic chanting"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "ce8c0f6d-0ba8-48f5-a1ce-6eb27ce32c78"
+    },
+    {
+      "start_time": 312,
+      "end_time": 312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mario is wearing a bedouin headdress for this poem"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "f5aa45cd-cb88-4c1d-9c6e-dec4db48f78f"
+    },
+    {
+      "start_time": 334,
+      "end_time": 334,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“Arabesque” is on the Ultimatum documentary vinyl LP."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "External Resource"
+        }
+      ],
+      "uuid": "cebe464b-def8-486a-adb4-25df7d31f6aa"
+    },
+    {
+      "start_time": 533,
+      "end_time": 533,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Music: “The Clone Café” by Débris: me on guitar, Jean-Martin Mignault on electronic drums"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "014314d1-d486-4838-9b72-56b0e502b247"
+    }
+  ],
   "event_id": "aff210d2-2aab-415e-b75f-dcdc2c717763",
   "set": "Alan Lord Commentary",
   "source_id": "3776abc6-8c1f-4592-bade-084e7732e762"
