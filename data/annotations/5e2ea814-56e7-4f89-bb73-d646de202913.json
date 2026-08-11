@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Montreal poet Steve Montambault—dressed as a medieval monk—warbled his text through a voice-altering device, accompanied by sound tapes and a hypnotic video"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "3af1ce10-3c1e-4f4c-889f-2f4eb92e435e"
+    }
+  ],
   "event_id": "146af1a3-72db-45bc-9fca-9dfe24926288",
   "set": "Alan Lord Commentary",
   "source_id": "1461325f-ca6b-4e4a-873c-dc7499cfaabf"
