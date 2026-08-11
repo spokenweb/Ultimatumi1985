@@ -1,5 +1,52 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "John Giorno (December 4, 1936 – October 11, 2019) was an American poet and performance artist. He organized a number of early multimedia poetry experiments and events, notably his \"Dial-A-Poem\" project in the Sixties, which allowed people to call a phone number to hear brief poems by contemporary poets. He founded Giorno Poetry Systems in the Seventies, issuing vinyl albums and videos featuring himself and renowned artists such as William S. Burroughs, Patti Smith, Laurie Anderson, Philip Glass, Jim Carroll, Frank Zappa, Diamanda Galás, Allen Ginsberg, and John Cage. He was also a Buddhist, an AIDS activist, and later in life he made Poem Prints – multicolored paintings featuring pithy phrases such as “YOU GOTTA BURN TO SHINE”. In the Eighties he started touring with his John Giorno Band. The lineup here is: C.P. Roth – Music, keyboards , Adam Roth – Guitar , David Conrad – Bass , Mike Osborne - Drums"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Biographical Context"
+        }
+      ],
+      "uuid": "84cf016a-a403-4b8c-a77f-185c83c43ed8"
+    },
+    {
+      "start_time": 104,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The song “(Last night) I Gambled with my Anger and lost” is on the Ultimatum documentary vinyl LP. Giorno asked me for a copy of the video of the song, and he included the Ultimatum footage in one of his Giorno Poetry Systems videos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "External Resource"
+        },
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Personal Anecdote"
+        }
+      ],
+      "uuid": "cfbd5f45-f947-4492-93a2-a6b3d9d55259"
+    }
+  ],
   "event_id": "8ff7fd9b-60d4-4833-8b1a-b6fb93ba4da2",
   "set": "Alan Lord Commentary",
   "source_id": "12692cb8-ab27-4a62-b73c-ac68c391b964"
