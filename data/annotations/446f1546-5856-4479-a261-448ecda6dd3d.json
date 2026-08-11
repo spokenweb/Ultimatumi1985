@@ -29,7 +29,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "On April 20th 1989, I invited Herbert Huncke to read at my “Tribute To William Burroughs” soirée at the Foufounes Électriques. His old friend Bill was there, and the two were left together to catch up with each other in a VIP room set up for them. You can read about that special moment - and much more - in my book “High Friends In Low Places” published by Guernica."
+              "text": "On April 20th 1989, I invited Herbert Huncke to read at my “Tribute To William Burroughs” soirée at the Foufounes Électriques. His old friend Bill was there, and the two were left together to catch up with each other in a VIP room set up for them. You can read about that special moment - and much more - in my book "
+            },
+            {
+              "text": "High Friends In Low Places",
+              "italic": true,
+              "link": "https://guernicaeditions.com/products/high-friends-in-low-places"
+            },
+            {
+              "text": " published by Guernica."
             }
           ]
         }
