@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Montreal poet Daniel Guimond was very provocative. In the late 70’s he gave performances dressed in S&M gear, reading his texts while being whipped. He also produced one of the first punk poezines, called SCRAP."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Biographical Context"
+        }
+      ],
+      "uuid": "51902184-5be5-4682-a216-627f396c5a65"
+    }
+  ],
   "event_id": "c9091a33-95f3-4a94-a2a3-c20b5e33a352",
   "set": "Alan Lord Commentary",
   "source_id": "1eb383e0-33d9-4968-bd61-e172c9910127"
