@@ -1,5 +1,48 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Richard Martel is a multidisciplinary artist from Quebec City. He is a founding member of the renowned contemporary art journal Inter, and in 1982 he co-founded Le Lieu, an artist-run centre located in Quebec City."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Biographical Context"
+        }
+      ],
+      "uuid": "b9a2f977-02d5-4e42-8588-da37e2f73363"
+    },
+    {
+      "start_time": 53,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For this performance he was accompanied by sound tapes, and for his performance “Subordination”, he repeatedly flipped a metal printing press implement loudly on a table that was closely mic’d."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "09f776ae-e2ca-4fbd-8a75-7c965405df79"
+    }
+  ],
   "event_id": "a8a045f1-1d6f-41b9-a263-95a5e171cc19",
   "set": "Alan Lord Commentary",
   "source_id": "09738bfe-c694-4be6-8b29-77d26db39455"
