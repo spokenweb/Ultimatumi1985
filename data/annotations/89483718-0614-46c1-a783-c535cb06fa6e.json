@@ -1,5 +1,31 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Karl Jirgens is a writer, based in Toronto at the time, and was the editor of Rampike – a literary journal which featured hundreds of Canadian and other writers from around the world, also concrete poetry, found poetry, as well as interviews, from 1979 to 2016. He is also an 8th degree black-belt Grand-master in the martial art of Tae Kwon Do. During his performance he placed a strap over his head which held a revolver on each side of his head, pointing at his temples."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Biographical Context"
+        },
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "c5b1f7eb-7564-4147-86c8-196446d92568"
+    }
+  ],
   "event_id": "07037719-15aa-4008-95d9-587835b399b7",
   "set": "Alan Lord Commentary",
   "source_id": "6ae8deec-d152-40ed-b7c0-20df4bd8a8ce"
