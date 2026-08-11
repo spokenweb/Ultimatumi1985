@@ -1,5 +1,48 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From Quebec City, performance poet Alain Martin Richard is a former member of the collectives Inter/Le Lieu and The Nomads, and has presented his work throughout North America, Europe, and Asia."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Biographical Context"
+        }
+      ],
+      "uuid": "d121f5b9-8769-442d-88a9-6d842e45094b"
+    },
+    {
+      "start_time": 50,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For this performance he was accompanied by sound tapes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "14fcaaf6-6785-4fe4-bf63-d98f4384585a"
+    }
+  ],
   "event_id": "294a884f-928d-4a68-a79a-a3099dd63f80",
   "set": "Alan Lord Commentary",
   "source_id": "8321ce4c-9c19-4aff-a4d9-4d28718de6fe"
