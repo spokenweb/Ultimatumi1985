@@ -5,7 +5,11 @@
       "is_offline": false,
       "file_type": "Audio",
       "file_url": "https://youtu.be/mlAgYiPstS8",
-      "duration": 2495
+      "duration": 2495,
+      "set_sort": [
+        "ae2d7520-f4ed-43d8-905a-88764e631cea",
+        "446f1546-5856-4479-a261-448ecda6dd3d"
+      ]
     }
   },
   "auto_generate_web_page": true,
@@ -22,7 +26,7 @@
   ],
   "created_at": "2026-03-02T16:16:14.269Z",
   "created_by": "spokenweb",
-  "updated_at": "2026-03-04T21:56:46.683Z",
+  "updated_at": "2026-08-11T17:27:07.095Z",
   "updated_by": "spokenweb",
   "av_file_order": [
     "95dd227c-dc95-4e2f-9cee-26e507b61e6f"
