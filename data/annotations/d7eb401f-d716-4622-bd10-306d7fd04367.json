@@ -1,5 +1,174 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Words and music by Montrealer and Ultimatum organizer Alan Lord (me), except where noted otherwise. The electronic music of the four song/poems was executed by Boys du Sévère (Jean-Luc Bonspiel and Jean-Martin Mignault)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "deabcadd-72fc-4497-9583-3daf17ba2ae5"
+    },
+    {
+      "start_time": 68,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Title: Too Much Money"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "4e7de8fb-7f90-4779-8dfb-4aa12efa07e1"
+    },
+    {
+      "start_time": 104,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The computer-generated videos projected for all the songs were created by Boris Wanowitch aka Pierre Zovilé, using an Apple II computer"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "e134f36c-ee4e-4d64-811f-aefe47a445f9"
+    },
+    {
+      "start_time": 292,
+      "end_time": 292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Title unknown"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "1f8034e1-4762-4c41-9953-01f46504fcf4"
+    },
+    {
+      "start_time": 516,
+      "end_time": 516,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I say \"c'était Philippe Soupault\" (transl: \"it was Philippe Soupault\" - the Surrealist poet). Because the last line of the song/poem was a quote of his: \"Je plonge dans la joie, il y a encore tant de gens à assassiner\")"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "ca594a5b-373d-4d94-bb67-b7a20cdf276f"
+    },
+    {
+      "start_time": 530,
+      "end_time": 530,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Title: Everybody"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "ba318618-398b-44c8-997b-0a1ad611ff6e"
+    },
+    {
+      "start_time": 721,
+      "end_time": 721,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Title: Ignoring The Future Today"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "ced16f3a-b95e-4d17-9641-7e1075f1278d"
+    },
+    {
+      "start_time": 744,
+      "end_time": 744,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "music composed by Jean-Luc Bonspiel"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "be5fe859-7903-4eb5-aa4d-a400a7419754"
+    }
+  ],
   "event_id": "382cf56c-58cf-4cb3-9fcd-eafe0dff7d8f",
   "set": "Alan Lord Commentary",
   "source_id": "7d4cdf58-351d-4524-bcec-cee9f85a1a08"
