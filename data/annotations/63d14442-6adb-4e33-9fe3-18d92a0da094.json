@@ -1,5 +1,69 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jean-Paul Curtay is a French visual artist, writer, video artist, poet, and Lettrist choreographer born in 1951. He is the inventor of “bodily music” and “hypergraphic music.” In painting, his primary mode of expression is hypergraphy (the use of the sign as the sole represented object)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Biographical Context"
+        }
+      ],
+      "uuid": "0fe26698-44b4-4f7e-a351-d681fdabff2b"
+    },
+    {
+      "start_time": 95,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He is the author of the first anthology of Lettrist poetry, which he published in 1974. One of his pastels is part of the collection"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Biographical Context"
+        }
+      ],
+      "uuid": "b8f9f2c2-06e3-4be1-b3a6-4e0f0a4e54cc"
+    },
+    {
+      "start_time": 174,
+      "end_time": 174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very active in the Lettrist scene beginning in 1967, he began to distance himself from the group around 1978. He ceased all public creative activity in 1988. Jean-Paul Curtay is also known as a physician specializing in nutritional therapy and herbal medicine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Biographical Context"
+        }
+      ],
+      "uuid": "e87f83a9-2f41-42d4-bdee-3a7798ba1ec6"
+    }
+  ],
   "event_id": "a931fb3f-cff7-4b03-aa28-0383e03f741d",
   "set": "Alan Lord Commentary",
   "source_id": "ce398232-c25e-41b5-a74b-0ae2c5df8347"
