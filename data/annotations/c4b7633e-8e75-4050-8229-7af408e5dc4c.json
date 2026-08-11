@@ -1,5 +1,174 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Montreal band Boys du Sévère consisted of singer and composer Jean-Luc Bonspiel, singer Josée Thibeault, with Jean-Martin Mignault on electronic drums. They were the musical part of Boris Wanowitch and the band members’ production Misère Plus."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Biographical Context"
+        }
+      ],
+      "uuid": "26bd8742-e966-492c-93a2-d2fbed2943c6"
+    },
+    {
+      "start_time": 71,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Boris sat at an inquisitorial desk with Jean-Luc Bonspiel, each taking turns reading from text being printed randomly live on a scritchy dot-matrix printer, using my computer cut-ups program. This was the most cutting-edge literary event of the festival, technically speaking."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "a6bcbac3-a289-4c15-a422-d4c446314026"
+    },
+    {
+      "start_time": 106,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Boris then sat in a chair reading a newspaper while Josée gave him a haircut, with the loud buzzing electric clipper amplified by contact mics."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "ee137513-aec3-4498-97c2-6610bf483ac4"
+    },
+    {
+      "start_time": 334,
+      "end_time": 334,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Boris and singer Josée Thibeault were wearing shiny black Spanish Guardia Civil hats."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "7afda94e-8a97-4d37-8304-30042f40ed91"
+    },
+    {
+      "start_time": 460,
+      "end_time": 460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Their sacrilegious song “Jésus” was included on the festival’s documentary LP."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "External Resource"
+        }
+      ],
+      "uuid": "f699c894-89be-4716-9a65-37cad029285d"
+    },
+    {
+      "start_time": 579,
+      "end_time": 579,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Festival participants Jean-Luc Bonspiel, Jean-Martin Mignault, Jack V and I later formed Montreal’s seminal agitrock band Vent du Mont Schärr (1986 – 1990)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Biographical Context"
+        }
+      ],
+      "uuid": "5742f191-ab07-4d71-8ca1-f53b9f6a69de"
+    },
+    {
+      "start_time": 1197,
+      "end_time": 1197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I joined them on guitar to play the jazz chords of our old Electro-Luxe song “The Wrong Way”, this time featuring Josée’s honeydripping voice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "ff9c6181-8c46-46df-bf9d-a83b2dbb0cf6"
+    },
+    {
+      "start_time": 1290,
+      "end_time": 1290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All of us present on stage were once Neoists - a wacky Montreal gang of exquisite troublemakers"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "2d8d4129-534b-43b9-a442-314f63c6805e"
+    }
+  ],
   "event_id": "3b85c317-379c-435f-b4fc-6ffebfe99beb",
   "set": "Alan Lord Commentary",
   "source_id": "da34e9e2-de2c-4081-b2f2-19c709678403"
