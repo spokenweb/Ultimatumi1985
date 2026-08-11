@@ -1,5 +1,52 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Montreal Novelist Colette Tougas (“le porphyre de la rue Dézéry”), sings a capella the sultry “Modesty” in her smouldering breathy voice — which begged to be included on the festival’s documentary LP."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        },
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Personal Anecdote"
+        }
+      ],
+      "uuid": "d6d372bb-da01-42c0-85ea-19209a0ef670"
+    },
+    {
+      "start_time": 64,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coincidence: I grew up on Dézéry, corner Hochelaga"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Personal Anecdote"
+        }
+      ],
+      "uuid": "699a9fa3-4a89-4429-9519-5c35be5a0a42"
+    }
+  ],
   "event_id": "f88172f8-ab52-49a7-90a3-8ca2cee99ca4",
   "set": "Alan Lord Commentary",
   "source_id": "cd46053d-b856-4ec4-9e1e-f63a73d4fac6"
