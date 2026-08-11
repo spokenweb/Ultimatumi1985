@@ -1,5 +1,157 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For his performance—called “Poésie guerrière”—Montrealer Jack V starts off by singing while shaving with an electric razor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "83e64fbe-30df-4d83-9e8f-e0d794515fba"
+    },
+    {
+      "start_time": 61,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He says \"sept ans d'malheur!\" (seven years bad luck!) and smashes a mirror"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "60c87ef8-d87f-494c-b316-3b64f683d974"
+    },
+    {
+      "start_time": 89,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The music we hear faintly in the background is the song Hospitality by Sparks"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "7c03390a-101e-4b3f-bbf5-14425398a692"
+    },
+    {
+      "start_time": 156,
+      "end_time": 156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He then stripped down to the waist, thus revealing the war paint on his body. He started dancing, prancing and swaying in abandon like a wild man."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "abe8b3dc-1e63-4985-8797-4159a5fff6b3"
+    },
+    {
+      "start_time": 275,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jack was a member of the Neoists, and played bass in Monty Cantsin’s First Aid Brigade."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Biographical Context"
+        }
+      ],
+      "uuid": "baa85b55-e34d-4c57-997a-a8c642ed2a27"
+    },
+    {
+      "start_time": 431,
+      "end_time": 431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Festival participants Jack V, Jean-Luc Bonspiel, Jean-Martin Mignault and I later formed Montreal’s seminal agitrock band Vent du Mont Schärr (1986 – 1990)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Biographical Context"
+        }
+      ],
+      "uuid": "f5ffcb78-9f1f-4c5b-9566-8f4364a54eda"
+    },
+    {
+      "start_time": 1008,
+      "end_time": 1008,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He is joined by a regiment of a half-dozen drummers, one by one—a Post-Punk marching band—martially rat-tatting their snares. Jack was feline and menacing, irresistibly magnetic. This was poetry beyond words, and one of the festival’s highlights."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        },
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Personal Anecdote"
+        }
+      ],
+      "uuid": "a414e607-af25-48ae-803d-fa4a1e308000"
+    }
+  ],
   "event_id": "c1b2b88d-6253-4923-ba1f-88979c27f169",
   "set": "Alan Lord Commentary",
   "source_id": "3616d676-ec54-4a0a-aa30-200b0be1966d"
