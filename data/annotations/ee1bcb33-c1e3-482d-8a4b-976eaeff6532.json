@@ -1,5 +1,90 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With her books such as “Travesties-kamikaze”, “Maîtresses-Cherokees”, and “Danseuses-mamelouk”, poet Josée Yvon (March 31, 1950 – June 12, 1994) was the reigning queen of Montreal’s counter-culture, and cherishes a great ongoing popularity and literary appreciation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Biographical Context"
+        }
+      ],
+      "uuid": "7ae8a52a-0221-497d-9b41-b4a8af2048af"
+    },
+    {
+      "start_time": 65,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Josée was fond of self-medication, and was visibly and audibly stoned for this performance, teetering and slurring her words."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Personal Anecdote"
+        }
+      ],
+      "uuid": "e8abab13-ebcd-456e-88ae-a4391e9a62c4"
+    },
+    {
+      "start_time": 114,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I met Josée, she was stoned on Mandrax, and caressing a pet tarantula on her lap."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Personal Anecdote"
+        }
+      ],
+      "uuid": "93d1a1cd-e425-4859-96eb-cacd6f0503f1"
+    },
+    {
+      "start_time": 185,
+      "end_time": 185,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Josée Yvon died of AIDS at the age of 44, becoming blind at the end."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Biographical Context"
+        }
+      ],
+      "uuid": "a8f67af3-6ed8-41cf-accd-a482012ce77d"
+    }
+  ],
   "event_id": "764077bd-ae5d-45ac-b299-49b3ef4db397",
   "set": "Alan Lord Commentary",
   "source_id": "ff49fda7-1e70-4fed-b5a1-2535eadd6321"
