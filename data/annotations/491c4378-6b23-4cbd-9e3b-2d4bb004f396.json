@@ -1,5 +1,69 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With books such as “Pornographic Delicatessen” and \"Lesbiennes d'acide\", poet Denis Vanier (Sept 27, 1949 – Oct 7, 2000) was the reigning king of Montreal’s counter-culture. His book “Je” ( “I” ) was published at age 15 by none other than Quebec’s legendary union activist Michel Chartrand."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Biographical Context"
+        }
+      ],
+      "uuid": "f84657f8-abab-401c-a76c-ad3d0495463f"
+    },
+    {
+      "start_time": 144,
+      "end_time": 144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here, as Vanier was reading, a female fan in the audience started heckling him. He said: “Are you coming up? You coming up or you’re scared? (meaning, to read in his place).” The woman came up, Vanier offered her his tome, and she brushed him off with: “I don’t need the book.” She finished the poem from memory, to great applause. Vanier came back to the microphone and thanked “Marie”."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "a0835f61-903d-407b-8fdb-7d4ecfcb96c7"
+    },
+    {
+      "start_time": 287,
+      "end_time": 287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Denis Vanier died of an AIDS-related cancer, at the age of 51"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Biographical Context"
+        }
+      ],
+      "uuid": "5f22a7cd-5078-4870-afca-2780f70c2904"
+    }
+  ],
   "event_id": "b7baa043-d825-4571-ab2c-8db3af02616d",
   "set": "Alan Lord Commentary",
   "source_id": "b3c998df-60a7-44cf-a1c2-e5c7f9c06178"
