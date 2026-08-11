@@ -92,7 +92,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Their sacrilegious song “Jésus” was included on the festival’s documentary LP."
+              "text": "Their sacrilegious song “Jésus” was included on the "
+            },
+            {
+              "text": "festival’s documentary LP",
+              "link": "https://www.discogs.com/release/2341164-Various-Ultimatum"
+            },
+            {
+              "text": "."
             }
           ]
         }
