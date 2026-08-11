@@ -1,5 +1,73 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Last on the festival bill—and closing off the proceedings—was beloved Beat Generation legend Herbert Huncke, reading from his book The Evening Sun Turned Crimson. I introduced Huncke, and he led off by saying: “I really want to start off with one particular story here, because I feel that it will fit into the general theme of the festival … a group of creative people, young people trying to do things, it’s very very encouraging for an old man like me… I want to think that things have progressed a little …”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "d4a3233c-195a-4871-99ab-d0a65cf75380"
+    },
+    {
+      "start_time": 143,
+      "end_time": 143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On April 20th 1989, I invited Herbert Huncke to read at my “Tribute To William Burroughs” soirée at the Foufounes Électriques. His old friend Bill was there, and the two were left together to catch up with each other in a VIP room set up for them. You can read about that special moment - and much more - in my book “High Friends In Low Places” published by Guernica."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Personal Anecdote"
+        },
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "External Resource"
+        }
+      ],
+      "uuid": "225c23de-182e-4390-a239-478542bdaddf"
+    },
+    {
+      "start_time": 283,
+      "end_time": 283,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The last time I saw my beloved Huncke was at a party he brought me to at New York’s Chelsea Hotel, in November of 1990."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Personal Anecdote"
+        }
+      ],
+      "uuid": "a5146238-291b-4a34-9b04-1bebabd54415"
+    }
+  ],
   "event_id": "4b7aeb2b-73f5-4b2f-88d5-6289e02046eb",
   "set": "Alan Lord Commentary",
   "source_id": "95dd227c-dc95-4e2f-9cee-26e507b61e6f"
