@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "ff49fda7-1e70-4fed-b5a1-2535eadd6321": {
-      "label": " Josee Yvon at Ultimatum I, 1985",
+      "label": " Josée Yvon at Ultimatum I, 1985",
       "is_offline": false,
       "file_type": "Audio",
       "file_url": "https://youtu.be/V1zp_Xd5gLE",
@@ -9,13 +9,20 @@
     }
   },
   "auto_generate_web_page": true,
-  "label": "Josee Yvon at Ultimatum Festival 1985-05-04 ",
+  "label": "Josée Yvon at Ultimatum Festival 1985-05-04 ",
   "description": [
     {
       "type": "paragraph",
       "children": [
         {
-          "text": "The following is a transcription of Josée Yvon’s performance at the Ultimatum Festival I, Saturday, May 4th at the Foufounes Électriques in Montréal, Quebec. She performs excerpts from her prose-poetry publication Maitresse-Cherokees, originally edited by VLB and published in 1986. A revised edition by editors Les Herbes Rouges was reprinted in 2021. In Alan Lord’s memoir "
+          "text": "The following is a transcription of Josée Yvon’s performance at the Ultimatum Festival I, Saturday, May 4th at the Foufounes Électriques in Montréal, Quebec. She performs excerpts from her prose-poetry publication "
+        },
+        {
+          "text": "Maîtresse-Cherokees",
+          "italic": true
+        },
+        {
+          "text": ", originally edited by VLB and published in 1986. A revised edition by editors Les Herbes Rouges was reprinted in 2021. In Alan Lord’s memoir "
         },
         {
           "text": "High Friends in Low Places",
@@ -29,7 +36,7 @@
   ],
   "created_at": "2026-03-02T16:16:14.269Z",
   "created_by": "spokenweb",
-  "updated_at": "2026-08-11T18:19:06.116Z",
+  "updated_at": "2026-08-11T19:34:52.828Z",
   "updated_by": "spokenweb",
   "av_file_order": [
     "ff49fda7-1e70-4fed-b5a1-2535eadd6321"
