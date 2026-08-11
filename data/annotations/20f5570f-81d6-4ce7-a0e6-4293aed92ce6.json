@@ -8,12 +8,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Montreal poet Mario Campo (March 27, 1951 – January 31, 2006)"
+              "text": "Montreal poet Mario Campo (March 27, 1951 – January 31, 2006)."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Biographical Context"
+        }
+      ],
       "uuid": "ac99f254-5ca8-41bc-9871-4a91b83500d7"
     },
     {
