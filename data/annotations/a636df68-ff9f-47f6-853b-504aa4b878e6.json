@@ -1,5 +1,115 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Montreal writer Ken Decker conversed with his Apple II computer. To my knowledge, this performance of a writer interacting live with a computer was a first."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        },
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Personal Anecdote"
+        }
+      ],
+      "uuid": "01aacbbb-cf6b-43ce-b2f9-8c241b2289e3"
+    },
+    {
+      "start_time": 45,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ken Decker explains: “At the time, I was writing some software for Logo Computer Systems Inc. They gave me a by-then obsolete Apple II Plus, along with a compact Apple IIc and that little monitor and very expensive external disc drive. The piece I performed at was called “STOP 4 GAS” and was written in FP-BASIC, which language was included in on-board ROM. I used a chain of video splitters and RF cable to send the monitor image out to the TV sets in the Foufoune Électrique’s bar.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "c78c926a-3476-432a-b98c-fd06f1e33234"
+    },
+    {
+      "start_time": 79,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ken further says: “STOP 4 GAS” was subsequently re-written in C and assembler for the Amiga computer, on a Canada Council grant, and exhibited at FAUST in Toulouse, France and at  PIXIM 1988 at la Villette, Paris, and at  La Cité des arts et des nouvelles technologies de Montréal, curated by Hervé Fischer.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Event Description"
+        }
+      ],
+      "uuid": "e7639ef0-08cd-49ef-a37d-067db70b9510"
+    },
+    {
+      "start_time": 113,
+      "end_time": 113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ken Decker returned to read the story \"Cleaning The Tools\" at the Ultimatum II festival in September 1987."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Personal Anecdote"
+        }
+      ],
+      "uuid": "be9bf699-655a-4b9f-b64a-68dc81bf7bad"
+    },
+    {
+      "start_time": 145,
+      "end_time": 145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In 1983 Ken Decker published a book of fictional texts called “Backyard Gene Pool” ."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Alan Lord Commentary",
+          "tag": "Biographical Context"
+        }
+      ],
+      "uuid": "c05a2d99-4c57-4a2e-b326-77ca4f9b2cd1"
+    }
+  ],
   "event_id": "618bcfdc-8f61-44e4-a1d5-1bf52c1f6370",
   "set": "Alan Lord Commentary",
   "source_id": "4ec794c8-3d34-4b15-9103-3eb3e81138ba"
